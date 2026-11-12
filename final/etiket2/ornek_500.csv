@@ -1,0 +1,501 @@
+﻿no,cumle,ders_kodu,ders_adi,program,birim,seviye,yariyil,ders_id,secim_grubu
+1,Görselleştirme becerisi edinir.,GRT300,Staj,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,6,1133777,KALITE_KARARSIZ
+2,Google App Engine kullanarak basit uygulamalar geliştirebileceklerdir.,BAY201,Bulut Bilişim Mimarileri,Arka-Yüz Yazılım Geliştirme,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1161693,RASTGELE
+3,Mesleki konuyla ilgili metinlerin çevirisini yapabilir.,YDL282,Mesleki Yabancı Dil II,Endüstriyel Tasarım Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,4,824715,KALITE_KARARSIZ
+4,Farmakolojik temel tanımları yapabilmeli.,YBP126,Farmakoloji,Yaşlı Bakımı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,957185,CIKTI_DEGIL_ADAY
+5,Sözlü ve Sözsüz İletişim,TFR107,Davranış Bilimleri ve İletişim,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,1,1064579,CIKTI_DEGIL_ADAY
+6,Kar zarar kavramlarını anlar,OPT229,Genel Muhasebe,Optisyenlik,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957051,KALITE_KARARSIZ
+7,Yüzey koruma ve temizleme işlemlerini kavrayabilir.,URT414,Korozyon ve Yüzey Koruma,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,824958,KALITE_KARARSIZ
+8,Bilimin temel kavramlarını,TSD202,Bilim Felsefesi,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,4,825197,CIKTI_DEGIL_ADAY
+9,"Rüzgar, araç-gereç, yaygın olarak kullanılan temel teknikler ve güvenli su uygulamalarına ait kuramsal bilgileri kazanır.",ANT1075,Yelken ve Rüzgar Sörfü,Antrenörlük Eğitimi,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,1,1056597,RASTGELE
+10,Kimyasal analiz metodu seçebilme,KIM242,Analitik Kimya II,Kimya,FEN FAKÜLTESİ,Lisans,4,684061,BLOOM
+11,Öğrenciler güneş pillerinin temel optik parametrelerini analiz eder.,E2M4092,Fotovoltaik Enerji Üretimi,Elektrik - Elektronik Mühendisliği (%30 İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1159541,RASTGELE
+12,judo temel hareket öğrenimi,AES333,Savunma Sporları: Judo,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,5,691338,CIKTI_DEGIL_ADAY
+13,Pahalı ve sınırlı malzemelerin kullanımı/atık miktarını ve parça şekillendirmede gerekli enerjiyi azaltmak için şekillendirme sırasını tasarlayabilir.,EUT216,İmal Usulleri,Endüstriyel Tasarım,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,4,786861,BLOOM
+14,Fiyat teorisine giriş ve arz-talep ilişkileri,BSY108,İktisada Giriş,Spor Yöneticiliği,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,2,691676,RASTGELE
+15,Tasarımlarında ve projelerinde ileri görselleştirme tekniklerinin önemini kavrar.,EUT433,İleri Bilgisayar Destekli Tasarım I,Endüstriyel Tasarım,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,7,786919,KALITE_KARARSIZ
+16,Ortopedik hastalara güncel rehabilitasyon teknolojisini uyarlar,FTR331,Ortopedik Rehabilitasyon,Fizyoterapi ve Rehabilitasyon,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,5,1157174,KALITE_KARARSIZ
+17,Hammadde-proses-ürün ilişkisini değerlendirerek istenilen özellikte parça üretimi için uygun yöntemi seçer ve proses geliştirir.,BMK424,Toz Metalurjisi ve Biyomedikal Uygulamaları,Biyomedikal Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1162192,BLOOM
+18,Mimari ile ilgili iki boyutlu çizim yapar.,SMR207,Mesleki Bilgisayar I,Mimari Restorasyon,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,809231,RASTGELE
+19,Planlı alanlar dışındaki alanlara ilişkin imar yönetmeliğini kavramak.,MIM4028,İmar Uygulamalarının Yasal Boyutu,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,8,1148618,KALITE_KARARSIZ
+20,Diğer alanlar ile iletişim arasında bağ kurar.,İFOS002,İletişim Felsefesi,Gazetecilik,SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ,Lisans,4,1156863,BLOOM
+21,Pazar çevresini analiz eder.,HIT373,Pazarlama İlkeleri,Halkla İlişkiler ve Tanıtım,İŞLETME FAKÜLTESİ,Lisans,5,681785,BLOOM
+22,"Sayısal metotların zayıf yönlerini bilir, doğru sonuçları elde etmeyi etkileyen parametreleri bilir, Hata analizi yapar.",CEC216,Numerical Analysis,Elektrik - Elektronik Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1042886,BLOOM
+23,Organik laboratuvar çalışmalarında deneyim kazanma,KIM264,Organik Kimya Lab. I,Kimya,FEN FAKÜLTESİ,Lisans,4,684068,KALITE_KARARSIZ
+24,Öğrenmiş olduğu bilgileri gündelik hayatında kullanabilir.,IRE328,Tax Law,Uluslararası İlişkiler (İngilizce),İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,6,1135255,KALITE_KARARSIZ
+25,Temanın işlenmesi,STV244,Çekim Teknikleri,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,4,808667,RASTGELE
+26,Mikrodenetleyici sistem uygulamaları tasarlayabilir ve geliştirebilir.,BOS106,Gömülü Sistemler,Otonom Sistemler Teknikerliği,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,1161734,BLOOM
+27,"Dersi başarıyla tamamlayan öğrenci araştırmanın kapsamı çerçevesinde anket, mülakat, gözlem, analiz yapar.",ADA228,Yönlendirilmiş Çalışma,Adalet,ADALET MESLEK YÜKSEKOKULU,Ön Lisans,4,711485,BLOOM
+28,"Öğrencinin anorganik madde sentezini pratik olarak gerçekleştirebilmesi,",KIM254,İnorganik Kimya Laboratuvarı II,Kimya,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,4,1161018,CIKTI_DEGIL_ADAY
+29,Stratejilerin uygulanması,END4041,Stratejik Yönetim,Endüstri Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040364,CIKTI_DEGIL_ADAY
+30,Farklı İngilizce aksanları anlar,SUI251,Communication Skills,Uygulamalı İngilizce Çevirmenlik,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,808606,KALITE_KARARSIZ
+31,Kalite yönetim sistemi dahilinde maliyet tasarrufu yöntemlerini belirleyebilme.,BMK463,Tıbbi Cihaz Kalite Sistemlerinin Kurulması,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1039803,BLOOM
+32,Ekonomi metinlerini anlar.,SUI132,Business Translation-II,Uygulamalı İngilizce Çevirmenlik,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808580,KALITE_KARARSIZ
+33,Temel programlama kavramlarını anlar.,EPB103,Algoritma ve Programlamaya Giriş,Bilişim Güvenliği Teknolojisi,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,1,1161457,BLOOM
+34,Uluslararası iletişim kurallarına hakim olunması,TSD302,Uluslararası İletişim,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,6,825053,CIKTI_DEGIL_ADAY
+35,Tüketici ve Müşteri kavramları arasındaki farkların ayırt edilmesi,TTP255,Müşteri İlişkileri Yönetimi,Tıbbi Tanıtım ve Pazarlama,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957903,RASTGELE
+36,Trafik kazalarından kaçınmanın ve tedbir alınmasının öğrenilmesi.,TOK227,Kaza Yeri İnceleme ve Bilirkişilik,Otobüs Kaptanlığı,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,959907,KALITE_KARARSIZ
+37,İletişimin tanımını yapabilir.,PSI319,İletişim Becerileri,Türk Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,5,1068712,BLOOM
+38,"Öğrenci, Adobe Photoshop programının kullanım prensiplerini, menülerin kullanımını bilir.",RTS210,Grafik,"Radyo, Televizyon ve Sinema",SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ,Lisans,4,1156794,RASTGELE
+39,Isı ve kütle transferi.,ESM452,İleri Nükleer Teknolojiler,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,824857,CIKTI_DEGIL_ADAY
+40,Jeopolitik teorileri kavrar,COG263,Siyasi Coğrafya,Coğrafya,EDEBİYAT FAKÜLTESİ,Lisans,3,713710,RASTGELE
+41,"Yanma ve yangın ile ilgili temel kavramları, ısı transferini bilir",TSS135,Sanayi Yangınları,Sivil Savunma ve İtfaiyecilik,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,1,958737,KALITE_KARARSIZ
+42,Arkeolojik buluntuların değerlendirilmesini öğrenir,ARC325,Arkeolojik Küçük Buluntular,Arkeoloji,EDEBİYAT FAKÜLTESİ,Lisans,5,707212,RASTGELE
+43,Klasik hadis kaynaklarında ahkâm hadislerine ayrılan özel bölümlerin muhteva analizini yapabilme,ILY425,Ahkam Hadisleri,İslami İlimler,İSLAMİ İLİMLER FAKÜLTESİ,Lisans,7,1061653,BLOOM
+44,beden eğitimi ve sporun öğretim yöntemleri,AEZ202,Beden Eğitimi ve Spor Öğretim Programı,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,4,1136808,CIKTI_DEGIL_ADAY
+45,Kuramlar arasındaki benzerlik ve farkları analiz eder.,PSİ404,Psikoterapi Kuramları II,Psikoloji,EDEBİYAT FAKÜLTESİ,Lisans,8,1135514,RASTGELE
+46,"Küresel ekonomik değişimlerin (örn. Coğrafi Keşifler, Fiyat Devrimi) Osmanlı iktisadi düzeni üzerindeki etkilerini ve bu etkilerin yol açtığı yapısal dönüşümleri neden-sonuç ilişkisi içinde analiz edebileceklerdir.",IKT222,Türk İktisat Tarihi,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,4,678740,RASTGELE
+47,Temel sosyolojik kavramları anlar,BSY207,Sosyolojiye Giriş,Spor Yöneticiliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1137124,RASTGELE
+48,İktisadi olayların analizi için uygun araştırma çerçevesini oluşturabilecektir.,IKT407,İktisat Alanına Yönelik Konularda Çalışmalar I,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,7,678763,RASTGELE
+49,İki boyutlu obje tasarımı gerçekleştirir.,STV229,Grafik Animasyon,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,808645,BLOOM
+50,Uzaktan Algılama uygulamalarını açıklar.,COG457,Uzaktan Algılama,Coğrafya,EDEBİYAT FAKÜLTESİ,Lisans,7,713803,RASTGELE
+51,"Öğrenciler uygulamada kullanılabilecek modern ve teknolojik araç, gereç ve imkanları etkin bir şekilde kullanır ve kolayca adapte olur.",MTM444,İnsan Makine Arayüzü SCADA,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,860708,RASTGELE
+52,Foto-Direnç Modelleri,MTM426,Mikroelektronik Üretim Teknikleri,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,860712,CIKTI_DEGIL_ADAY
+53,Öğrenci,BAF310,Finansal Kurumlar,Finans ve Bankacılık,İŞLETME FAKÜLTESİ,Lisans,6,681866,CIKTI_DEGIL_ADAY
+54,Besinlerin görevleri ve insan vücudu üzerindeki etkilerini bilir.,ASC103,Beslenme İlkeleri,Aşçılık,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,1,746583,BLOOM
+55,Optik elemanların elektronik sistemlerinde kullanımı,E2E4081,Optoelectronics,Elektrik - Elektronik Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1044561,CIKTI_DEGIL_ADAY
+56,Reklamcılık ve kurumsal kimlik oluşturulması çalışmaları yapabilecektir.,STV106,Staj,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808648,RASTGELE
+57,Türkiye nin önemli müzelerini ve bu müzelerdeki eserleri tanıması,TFR229,Müzeler ve Müze Rehberliği,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,3,1064678,CIKTI_DEGIL_ADAY
+58,İşletme personeli ile uyumlu bir takım çalışması yapabilme yeteneği kazanırlar ve iyi iletişim kurabilme alışkanlığını kazanır.,URT4001,İşletmede Mesleki Eğitim,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,7,824888,RASTGELE
+59,"Mesleki İngilizce dersinde meslek ile ilgili terimlerin öğrenilmesi,",YDL282,Mesleki Yabancı Dil II,İnşaat Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1040546,CIKTI_DEGIL_ADAY
+60,Topografyaya ilişkin temel kavramları tanımlar.,INS204,Topoğrafya,İnşaat Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1040549,RASTGELE
+61,Hat sanatındaki farklı üslupları ve ekolleri karşılaştırmalı olarak analiz eder.,ILH1015,Hüsn-i Hat-I,İlahiyat,İLAHİYAT FAKÜLTESİ,Lisans,,1135407,BLOOM
+62,Koordinasyon bileşiklerinin manyetik özelliklerini öğrenme.,KIM337,Koordinasyon Kimyası,Kimya,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,5,1161045,KALITE_KARARSIZ
+63,Öğrenciler ulusal ve uluslar arası mevzuatta çocuğun nasıl tanımlandığını ve ele alındığını öğrenir.,SHZ221,Çocuklarla Sosyal Hizmet,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,3,920587,KALITE_KARARSIZ
+64,"Yönetim kararları için maliyet bilgilerini analiz etme, bütçeleme ve planlama yapma becerisi kazandırılır.",GIR421,Yönetim Muhasebesi,Girişimcilik,İŞLETME FAKÜLTESİ,Lisans,7,681596,BLOOM
+65,"İşletim sistemi ile etkileşimde bulunarak, işletim sistemi fonksiyonlarını kullanarak basit uygulamalar geliştirebilir.",YZM413,Sistem Programlama,Yazılım Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1042751,RASTGELE
+66,Elektronik tablo programlarında hazır fonksiyonları kullanır.,STİ269,Bilgi İletişim Teknolojisi,Turizm ve Otel İşletmeciliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,808204,RASTGELE
+67,Biyopolimerlerin fizikokimyasal ve biyolojik özellikleri arasındaki ilişkiyi analiz eder.,BMK326,Biyopolimerler,Biyomedikal Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,6,1162157,BLOOM
+68,Karışım problemlerini çözer.,SMV123,Mesleki Matematik,Muhasebe ve Vergi Uygulamaları,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808417,RASTGELE
+69,Biyolojik sistemlerin doğrusal modellerinin anlaşılması.,BMC312,Numerical Methods in Biomedical Engineering,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,6,1039736,CIKTI_DEGIL_ADAY
+70,Verilerin şifrelenmesi ve mobil cihaz güvenliği konularında pratik beceriler geliştirir.,BOS217,Kişisel Bilgi Güvenliği,Otonom Sistemler Teknikerliği,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1161749,KALITE_KARARSIZ
+71,Proje değerlendirme yaklaşımlarını bilir.,DKB329,Tür ve Biyotop Koruma,Doğa Koruma ve Biyoçeşitlilik Yönetimi,ORMAN FAKÜLTESİ,Lisans,5,1174957,KALITE_KARARSIZ
+72,Geçmişten günümüze gelen mutfak kültürümüzün sürdürebilirliğini sağlar.,ASC208,Osmanlı Mutfağı,Aşçılık,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,746595,KALITE_KARARSIZ
+73,Yaraya ilişkin temel kavramları bilir.,YBP237,Yara Bakımı,Yaşlı Bakımı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957173,KALITE_KARARSIZ
+74,İnsanı harekete geçiren özellikleri kavrayabilme,TSD203,Davranış Bilimleri,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,3,824918,KALITE_KARARSIZ
+75,Modellerin veriye uyumunun testinde kullanılan yöntemleri öğrenir,ARY240,Sigorta İstatistiği,Aktüerya ve Risk Yönetimi,İŞLETME FAKÜLTESİ,Lisans,4,681335,KALITE_KARARSIZ
+76,Ürün tasarımında ahşap malzeme kullanım alanlarını öğrenir,EUT351,Ahşap Atölyesi / Tasarım ve İmalat I,Endüstri Ürünleri Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,786738,KALITE_KARARSIZ
+77,Odak uzaklıklarına göre gözlük camlarını çeşitlerini öğrenir.,OPT127,Optisyenliğe Giriş,Optisyenlik,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957034,KALITE_KARARSIZ
+78,Pastacılık ile ilgili kullanılan ürünleri açıklar.,ASC210,Pasta Yapım Teknikleri,Aşçılık,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,746566,RASTGELE
+79,Evde bakım hizmetlerine ilişkin yönetmelikleri değerlendirebilme,YBP252,Evde Yaşlı Bakım Hizmetleri,Yaşlı Bakımı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,4,957175,BLOOM
+80,Bireysel beceri ve yetenekleri geliştirebilme kabiliyeti elde eder.,SMR203,Restorasyon Uygulama Teknikleri,Mimari Restorasyon,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,809237,BLOOM
+81,"Kütlesel ve hacimsel debi ifadelerinin açıklanması ve akış miktarının hesaplanması. Suyun özelliklerini, teminini, hazırlanmasını, yerleşim birimlerine",ESM203,Tesisat Sistemleri Teknolojisi,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,3,824790,CIKTI_DEGIL_ADAY
+82,Avrupa Demiryolu Trafiğindeki yeknasaklığın amacı ve uygulamasını bilir,EPE227,Raylı Sistemlerde Sinyalizasyon Teknolojisi,Raylı Sistemler Elektrik ve Elektronik,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,919589,RASTGELE
+83,Çeşitli piyasalara dair bilgileri değerlendirmek.,IKT332,Rekabet Teorisi ve Politikası,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,6,678761,BLOOM
+84,Analyze production lines,MEE4048,Manufacturing Planning,Makine Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043052,CIKTI_DEGIL_ADAY
+85,Fabrika kurulumundan fabrikada üretilecek mamüllerin satışından sonrasına kadar ki sürecin kazanılması,AEE4008,Factory Organization,Otomotiv Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043928,KALITE_KARARSIZ
+86,"Öğrenciler, çağdaş şiirsel biçimlerin (serbest nazım, konuşma tarzı şiir, düzyazı şiiri, vb.) geniş bir yelpazesini keşfedecek ve bu biçimlerin geleneksel şiirsel yapılara nasıl meydan okuduğunu veya onlara nasıl bağlı kaldığını inceleyecekler.",ELIT420,Contemporary English Poetry II,İngiliz Dili ve Edebiyatı,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,8,1157808,RASTGELE
+87,Araştırmanın Yürütülmesi,TİG208,Yönlendirilmiş Çalışma,İş Sağlığı ve Güvenliği,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,958691,CIKTI_DEGIL_ADAY
+88,Kondenser arızalarını giderir.,TBİ206,Koruyucu Bakım ve Arıza Tespiti,İklimlendirme ve Soğutma Teknolojisi,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,937579,BLOOM
+89,Sosyal Hizmet Kurumlarının Yönetimsel Yapısını Öğrenme,SHZ308,Sosyal Hizmet Yönetimi,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,6,921586,KALITE_KARARSIZ
+90,Dünyadaki başlıca uluslararası kuruluşların temel özelliklerini kavrama.,COG364,Siyasi Coğrafya Açısından Türkiye,Sosyoloji,EDEBİYAT FAKÜLTESİ,Lisans,6,710012,KALITE_KARARSIZ
+91,E-devletin kamu yönetimi fonksiyonlarındaki rolünü anlar,KMY333,E-Devlet,Siyaset Bilimi ve Kamu Yönetimi,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,5,679157,KALITE_KARARSIZ
+92,Mikrofinans modellerini karşılaştırabilir.,BAF410,İslami Mikro Finans ve Kobiler,Finans ve Bankacılık,İŞLETME FAKÜLTESİ,Lisans,8,681883,BLOOM
+93,"Öğrenci, standardizasyon kavramını, tarihçesini ve temel prensiplerini açıklayabilir.",ESC312,Standardization,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,6,1160718,KALITE_KARARSIZ
+94,Yabancı dildeki trafik levhalarını okuyup anlar.,UTH231,Mesleki Yabancı Dil,Ulaştırma ve Trafik Hizmetleri,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,965593,KALITE_KARARSIZ
+95,İletişimi sanatsal öğelerle destekler,MSD314,İletişim Sanatı,Otomotiv Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,6,1043969,BLOOM
+96,Mesleklerin evrimi ni anlamak,ÜSD148,Geleceğin Meslekleri-I,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,688683,KALITE_KARARSIZ
+97,"Adım Motorları hakkında bilgi kazanır,",MTM476,Mekatronikte Kullanılan Özel Motorlar,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,860711,RASTGELE
+98,"Temel okulöncesi eğitim program yaklaşımlarını(kurum odaklı/aile odaklı, kaynaştırma temelli, karma yaş grupları vb) bilir.",SCG230,Okul Öncesi Farklı Yaklaşımlar,Çocuk Gelişimi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,4,807672,RASTGELE
+99,Alandaki temel teknikleri kullanabilecek ve tartışabilecektir,YZM421,Yapay Zeka,Yazılım Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1042762,BLOOM
+100,Ulusal ve uluslararası fon programlarına uygun proje başvurusu hazırlayabilir.,ARY375,Proje Yazma Eğitimi,Aktüerya Bilimleri,İŞLETME FAKÜLTESİ,Lisans,5,1161826,RASTGELE
+101,Edindiği bilgileri hem mesleki hem sanatsal çalışmalarda yaratıcı bir şekilde kullanabilmesi ve bunu yaşam boyu sürdürebilmesi,GRT204,Tipografi II,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,4,1133685,CIKTI_DEGIL_ADAY
+102,Toplum sağlığı için önemli olan hastalıkların insidans ve prevalans hızlarını hesaplar.,TTP251,Halk Sağlığı ve Epidemiyoloji,Tıbbi Tanıtım ve Pazarlama,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957902,BLOOM
+103,Kat hizmetleri bölümünde kullanılan raporları yazabilir.,STİ153,Kat Hizmetleri,Turizm ve Otel İşletmeciliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808225,RASTGELE
+104,Kentsel raylı sistem projelendirme ve inşa aşamalarını kavrar.,RAY4002,Kentiçi Raylı Sistemler,Raylı Sistemler Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043664,KALITE_KARARSIZ
+105,Fiziksel ve sanal bellek yönetimi bilgilerini kavrayabilir.,CPE305,Operating Systems,Bilgisayar Mühendisliği (%30 İngilizce),BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,5,1159106,KALITE_KARARSIZ
+106,"Portekizce isim sorar,kendini takdim eder.",TUR241,Portekizce 1,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,3,1151649,RASTGELE
+107,İKY uygulamalarını etkileyen iç çevre ve dış çevre faktörlerini bilir.,STİ170,İnsan Kaynakları Yönetimi,Turizm ve Otel İşletmeciliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808216,KALITE_KARARSIZ
+108,Teknolojik yeniliklerin organizasyona adapte edilmesi,TFR327,İşletmelerde Yenilik ve Teknoloji Yönetimi,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,5,1064625,CIKTI_DEGIL_ADAY
+109,Ders sürecinde enerji üretim süreci hakkında bilgilendirme yapılır,ÜSD356,Enerji Tasarrufu ve Çevre,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,1067572,KALITE_KARARSIZ
+110,"Turizm işletmelerinin endüstri içindeki konumları, toplumsal ve ekonomik çevreyle ilişkileri ayrıntılı bir biçimde öğrenebilmeli",TUR251,Turizm İşletmeciliği,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,3,1151668,CIKTI_DEGIL_ADAY
+111,Temel tekniklerinin öğretilmesi.,ANT2031,Goalball (Uzmanlık I),Antrenörlük Eğitimi,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1135980,CIKTI_DEGIL_ADAY
+112,"Metal sekillendirme yöntemlerinin basında gelen dövme, haddeleme ve ekstrüzyon islemlerinin nasıl yapıldığını öğrenebilir.",URT325,Plastik Şekil Verme Ilkeleri,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,5,824925,BLOOM
+113,Bir iş fikrini geliştirebilecek temel adımları öğrenir ve bir fikri işe dönüştürür.,SİY276,Girişimcilik ve Küçük İşletme Yönetimi,İşletme Yönetimi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,4,808096,KALITE_KARARSIZ
+114,Anayasa hukukunun temel ilkeleri üzerinde derinlemesine bilgi sahip olur,ARY213,Anayasa Hukuku,Aktüerya Bilimleri,İŞLETME FAKÜLTESİ,Lisans,3,686298,RASTGELE
+115,Sanat kavramını geçmiş ve bugünüyle birlikte değerlendirir.,RES117,Sanat Kavramlarına Giriş I,Resim,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,1,786614,BLOOM
+116,Diş hekimliği uygulamalarına sanat perspektifinde bakma yetisi kazanır.,AİS111,"Sanat, Estetik ve Diş Hekimliği",Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058602,KALITE_KARARSIZ
+117,Takım çalışması,MEE4025,Inventive Problem Solving in Engineering Design,Makine Mühendisliği (%30 İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1160053,CIKTI_DEGIL_ADAY
+118,Alternatiflerin ekonomik analizlerinde kullanılan metotların öğrenilmesi.,CEC314,Engineering Economics,Metalurji ve Malzeme Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,6,1041582,CIKTI_DEGIL_ADAY
+119,KAD uygulamaları.,ESC311,Critical Analytical Thinking Skills,Elektrik - Elektronik Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,5,1043419,CIKTI_DEGIL_ADAY
+120,Türkiye'nin ticari durumunu kavrar,COG453,Türkiye Ekonomik Coğrafyası I,Coğrafya,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,7,1158067,RASTGELE
+121,Teslimat kontrolü,HIT260,Proje Yönetimi,Halkla İlişkiler ve Tanıtım,İŞLETME FAKÜLTESİ,Lisans,4,681753,CIKTI_DEGIL_ADAY
+122,Kat ve Kabin Kapı Arızalarının Giderilmesi,TET236,Elektromekanik Taşıyıcılarda Bakım ve Onarım,Elektromekanik Taşıyıcılar,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,335189,CIKTI_DEGIL_ADAY
+123,"Kitle iletişim kuramları ışığında, medyanın kitleleri nasıl ve hangi boyutta etkileyeceğini bilir",STV127,Temel İletişim,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808652,KALITE_KARARSIZ
+124,Yaşlılık Dönemi Özellikleri,SHZ311,Gerontolojik Sosyal Hizmet,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,5,921574,CIKTI_DEGIL_ADAY
+125,Bölgesel analiz araçları,IKT235,Bölgesel İktisat,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,3,678722,CIKTI_DEGIL_ADAY
+126,Raylı Sistem Trafiğinde Trafik İle Doğrudan İlgili Kişi Tesis ve Birimlerin Tanımları,YRM205,Raylı Sistem Trafiği,Raylı Sistemler Makine Teknolojisi,YENİCE MESLEK YÜKSEKOKULU,Ön Lisans,3,705556,CIKTI_DEGIL_ADAY
+127,Dönemle ilgili olan edebi terimleri ve metodları tanırlar.,ELIT219,Renaissance Prose and Poetry,İngiliz Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,3,707769,BLOOM
+128,Ücretin önemi,END4046,İş Değerlendirme ve Ücret Yönetimi,Endüstri Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040333,CIKTI_DEGIL_ADAY
+129,Final Sınavı,STV128,Radyo ve Televizyona Giriş,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808695,CIKTI_DEGIL_ADAY
+130,Çini ürün ve özelliklerini bilme,EPK114,Çini Ürünleri Koruma ve Onarımı,Eser Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,2,1133610,KALITE_KARARSIZ
+131,İşitme v e konuşma bozukluklarını sıralar,FTR232,İşitme ve Konuşma Tedavisi,Fizyoterapi ve Rehabilitasyon,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,4,1157144,RASTGELE
+132,Kendisini ve başkalarını tanıtabilmesi,UTI222,Almanca II,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,4,680427,CIKTI_DEGIL_ADAY
+133,Sistemlerin fiziksel değerlendirmesini yapar.,HEM146,Fiziksel Değerlendirme Yöntemleri,Hemşirelik,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,2,1134125,BLOOM
+134,"Belge akışı, dosyalamaya hakim olur",ADA216,Mahkeme Dosyalama ve Arşivleme Sistemleri,Adalet,ADALET MESLEK YÜKSEKOKULU,Ön Lisans,4,711481,KALITE_KARARSIZ
+135,GeoDa ve CBS programların girişi,COG162,Coğrafi Bilgi Teknolojileri,Coğrafya,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,2,1157955,CIKTI_DEGIL_ADAY
+136,"Geleneksel Türk Sanat Müziği icrası ile yeni dönem Türk sanat Müziği icrası arasındaki farkları inceleyip, yenilikler ve sorunlara da dikkat ederek sentez oluşturma.",TSM429,Türk Sanat Müziği Repertuarı V,Türk Sanat Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,7,787405,RASTGELE
+137,Vize Sınavına Hazırlık,DHF114,Biyoistatistik,Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058578,CIKTI_DEGIL_ADAY
+138,Korunan alanların planlanması sırasında karşılaşılabilecek sorunları tanır ve sorunları çözmede yeterli bilgiye sahip olur.,ORM459,Korunan Alan Mevzuatı ve Yönetimi,Orman Mühendisliği,ORMAN FAKÜLTESİ,Lisans,7,1174795,RASTGELE
+139,Mekanik sistem bileşenlerinin analizlerini yapar.,MMT427,Mekanik Sistem Tasarımı,Makine Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1041946,RASTGELE
+140,Organik ve organik olmayan gıdalar arasındaki farkı bilir.,TFG320,Gastronomide Yeni Trendler,Gastronomi ve Mutfak Sanatları,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,6,1156971,KALITE_KARARSIZ
+141,Okul öncesi eğitim kurumlarında program uygular.,SCG257,Okul Öncesi Eğitim Kurumlarında Uygulama I,Çocuk Gelişimi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,807646,RASTGELE
+142,Atlarda kolik belirtileri ve alınması gereken önlemlerin uygulanması.,EAA209,At ve Ahır Bakımı III,Atçılık ve Antrenörlüğü,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1173859,CIKTI_DEGIL_ADAY
+143,"Matematik köşesinin gerekliliğini ve içermesi gereken unsurları belirleyerek, ailelerin ve öğretmenlerin matematik öğretimine katkılarını değerlendirir.",CGE311,Erken Çocukluk Dönemde Fen ve Matematik,Çocuk Gelişimi,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,5,689352,BLOOM
+144,Mimari anlamda çevresel analiz yapar.,SMR223,Tarihi Çevrede Tasarım,Mimari Restorasyon,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,809240,RASTGELE
+145,Tarihi çevrenin tahrip nedenlerini tartışır.,SNT450,Kültür Varlıklarını Koruma Bilinci,Sosyoloji,EDEBİYAT FAKÜLTESİ,Lisans,8,709989,KALITE_KARARSIZ
+146,Türk modernleşmesinin tarihsel seyrini ve problem alanlarını kavrar ve yorumlar,BSY205,Türkiyenin Yönetim Yapısı,Spor Yöneticiliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1137154,KALITE_KARARSIZ
+147,Sağlık kuruluşlarında enformasyon kavramını ve önemini kavrar.,OYD127,Tıbbi Dokümantasyon,Otopsi Yardımcılığı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957572,RASTGELE
+148,Asp.Net MVC Dersleri boyunca derslerde yapılan tüm örneklerin kaynak kodu bulunabilira.,BAY106,MVC Yaşam Döngüsü,Arka-Yüz Yazılım Geliştirme,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,1161691,CIKTI_DEGIL_ADAY
+149,Spor Pedegojisi ve Öğrenmeyi Etkileyen Faktörleri bilme,EAA206,Sporda Öğrenme ve Öğretme,Atçılık ve Antrenörlüğü,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,1173913,KALITE_KARARSIZ
+150,Projektif modülleri karakterize eder.,MAT469,Değişmeli Cebire Giriş I,Matematik,FEN FAKÜLTESİ,Lisans,7,1055608,BLOOM
+151,"Kütle parametrelerine ilişkin hipotezler kurar, test eder ve yorumlar.",UTI201,İstatistik,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,3,680403,RASTGELE
+152,Dolaşım sistemi yapı ve işlevini tanımlayabilmeli,DHF115,Biyofizik,Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058588,CIKTI_DEGIL_ADAY
+153,Elektriksel malzemelerin özelliklerini kavrar.,E2M281,Elektrik Malzemeleri,Elektrik - Elektronik Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,3,1042875,RASTGELE
+154,Cümlenin ögelerini doğru yerde kullanır.,SUI106,Comparative Sturucture II,Uygulamalı İngilizce Çevirmenlik,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808579,RASTGELE
+155,ISO 14971 standardına göre risk analizi yapabilir ve risk yönetimi planı geliştirebilir.,TMH436,Tıbbi Cihaz Yasal Düzenlemeleri ve Süreçler,Tıp Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1042100,BLOOM
+156,Mesleki etik ve sorumluluk anlayışıyla çalışır,FYT124,Ortez Protez Rehabilitasyon,Fizyoterapi,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,956826,KALITE_KARARSIZ
+157,TSİ Sisteminde Sinyaller ve Sinyaller bildirilerini bilir,EPE227,Raylı Sistemlerde Sinyalizasyon Teknolojisi,Raylı Sistemler Elektrik ve Elektronik,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,919589,RASTGELE
+158,Metinleri doğru hiyerarşi ve okunaklılıkla düzenleyebilmesi,GRT235,Layout Tasarımı,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,3,1133768,CIKTI_DEGIL_ADAY
+159,Tipografik elemanları kullanarak soyut kavramları grafik nesnelere ve görselliğe dönüstürebilir ve böylece ilk temel grafik tasarım çalısmasını ortaya koyar.,GRT201,Grafik Tasarım I,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,3,1133756,BLOOM
+160,Kelime işlemci programını kullanabilme,YBP113,Ofis Yazılımları,Bilgisayar Programcılığı,YENİCE MESLEK YÜKSEKOKULU,Ön Lisans,1,705461,RASTGELE
+161,Malzemelerin elektriksel özellikleri,EPI108,Makine ve Teçhizatta İş Sağlığı ve Güvenliği II,İş Sağlığı ve Güvenliği,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,2,924574,CIKTI_DEGIL_ADAY
+162,"1. Proje önerisinden, sonuç raporuna kadar bütünüyle bir proje sürecini tamamlar ve proje yönetimi konusunda temel düzeyde tecrübe sahibi olur.",E2E487,Graduation Project I,Elektrik - Elektronik Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043475,KALITE_KARARSIZ
+163,Anadolu Beylikleri dönemi süsleme ve el sanatları ürünlerini dönem üretim koşulları içinde değerlendirir.,SAN315,Beylikler Sanatı,Sanat Tarihi,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,5,1158467,BLOOM
+164,Doğu Anadolu mutfağını bilir ve uygular,TFG316,Yöresel Türk Yemekleri,Gastronomi ve Mutfak Sanatları,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,6,1156970,RASTGELE
+165,Bireysel ve grup çalışmalarını yerine getirir.,SMT215,Staj,İç Mekan Tasarımı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,808034,BLOOM
+166,Parmak alfabesini ve günlük yaşamda kullanılan işaretleri öğrenebilmek,EBE319,İşaret Dili,Ebelik,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,5,695680,BLOOM
+167,"Öğrenciler, çeşitli dijital araçları etkili bir şekilde kullanmayı öğrenir ve öğretim sürecinde bu araçları kullanarak öğrenme materyalleri oluşturma yeteneği kazanır.",MBZ201,Öğretim Teknolojileri,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1136982,RASTGELE
+168,Proje ile ilgili yeterli bilgi toplar.,YRM230,Sistem Analizi ve Tasarımı,Raylı Sistemler Makine Teknolojisi,YENİCE MESLEK YÜKSEKOKULU,Ön Lisans,4,705578,RASTGELE
+169,Verinin modellenmesi ve analiz edilmesi becerisine sahip olur.,BOS207,Veri Toplama ve Analizi,Otonom Sistemler Teknikerliği,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1161771,BLOOM
+170,Cerrahi olmayan periodontal tedavi as¸amalarının gerc¸ekles¸tirilmesi,DHF428,Periodontoloji Klinik Eğitim I,Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058619,CIKTI_DEGIL_ADAY
+171,Dizideki temel ve yardımcı uyguları etkin olarak kullanabilme,THM336,Armoni II,Türk Halk Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,6,787224,RASTGELE
+172,Kapalı çevrim sistemlerininde kullanılan ölçüm tekniklerinin anlaşılması,TELN204,Kontrol Sistemleri ve Elemanları,Elektronik Teknolojisi,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,958574,CIKTI_DEGIL_ADAY
+173,LPG ve doğal gazın kullanım sonuçlarını analiz eder.,AEE4006,LPG and Natural Gas Applications in Vehicles,Otomotiv Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043939,BLOOM
+174,Antik dönemde Anadolu´da kurulan yerleşimlerin tanıtılması,STR121,Dünyada ve Türkiyede Antik Kentler,Turist Rehberliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808289,CIKTI_DEGIL_ADAY
+175,Sahne bilincinin oluşması,THM442,Türk Halk Müziği Bitirme Çalışması II,Türk Halk Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,8,787289,CIKTI_DEGIL_ADAY
+176,Jeotermal enerjinin tanımı.,ESM428,Jeotermal Enerji Sistemleri,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,824776,CIKTI_DEGIL_ADAY
+177,Üç fazlı asenkron motorların yapısı ve çalışmasını kavrayabilme.,AUT246,Elektrikli Araçlar ve Endüstriyel Uygulamalar için Motor ve Kontroller,Otomotiv Teknolojisi,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,960008,KALITE_KARARSIZ
+178,Çeşitli sektörlerde iş sağlığı ve güvenliği uygulamalarının öğrenilmesi,TİG225,İş Sağlığı ve Güvenliği Araştırma Uygulamaları,İş Sağlığı ve Güvenliği,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,958679,CIKTI_DEGIL_ADAY
+179,Sunum becerisinin geliştirilmesi.,YDL281,Mesleki Yabancı Dil I,İnşaat Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,3,1040540,CIKTI_DEGIL_ADAY
+180,Sağlık sigortacılığında farklı sigorta türlerini ve ödeme yöntemlerini bilir.,TTP259,Sağlık Sigortacılığı,Tıbbi Tanıtım ve Pazarlama,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957861,KALITE_KARARSIZ
+181,Test geliştirme aşamalarını izleyerek test geliştirir.,FRM301,Eğitimde Ölçme ve Değerlendirme,Türk Sanat Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,1024084,KALITE_KARARSIZ
+182,Bilim etiği,MTM408,Mühendislik Etiği,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,825188,CIKTI_DEGIL_ADAY
+183,"Elektrik-Elektronik Mühendisliğinin önemini ve temelini oluşturan kavramları, sembolleri, birimleri, elemanları, yasaları, teoremleri bilecektir.",MEE216,Basic Electrical and Electronics,Otomotiv Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1043862,BLOOM
+184,Kalite güvencenin önemi ve yararlarını kavrayabilir.,TSD206,Standardizasyon,Endüstriyel Tasarım Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,4,824572,KALITE_KARARSIZ
+185,İnsan çıktı ve girdilerini düzenleyebilir.,TSD405,Estetik ve Ergonomi,Endüstriyel Tasarım Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,7,824650,BLOOM
+186,Etik kurallarının tanınabilmesi,TET126,Meslek Etiği,Elektromekanik Taşıyıcılar,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,2,335203,CIKTI_DEGIL_ADAY
+187,Biyoreaktörleri anlar.,BMC323,Bioreactor Design,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,5,1039696,KALITE_KARARSIZ
+188,Ticaret ve ekonomik büyüme arasındaki ilişkinin analizinde kullanılan deneysel metotların gerçekçiliğini sorgulayabileceklerdir.,IKT401,Uluslararası İktisat I,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,7,678770,RASTGELE
+189,"Medeniyetimizin dayandığı temel değerleri kavramaları, benimsemeleri ve bunları davranışlarına yansıtmaları.",TUR123,Genel Türk Tarihi ve Kültürü,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,1,1157449,CIKTI_DEGIL_ADAY
+190,"Atom numarası, kütle numarası ve izotop kavramlarının tanımlanması.",KIM183,Genel Kimya,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,1,825059,CIKTI_DEGIL_ADAY
+191,Uygulanan yüklere göre yapısal davranışı analiz eder.,INS301,Yapı Statiği I,İnşaat Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,5,1040557,BLOOM
+192,Servis personellerinin özellikleri ve görev tanımlarını bilir.,ASC207,Yiyecek-İçecek Servisi,Aşçılık,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,3,746574,KALITE_KARARSIZ
+193,Yöresel çeşitlilik ve nitelik bakımından repertuvar kazanma.,THM230,Türk Halk Müziği Repertuarı II,Türk Halk Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,4,787205,BLOOM
+194,Web sunucularının güvenliği konusunda bilgi edinir.,BOY114,Web Sunucularının Kurulumu ve Konfigürasyonu,Ön-Yüz Yazılım Geliştirme,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,1134940,KALITE_KARARSIZ
+195,Üç boyutlu kompozisyonların değerlendirilmesi,MIM1012,Mimaride Form,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,2,1134328,CIKTI_DEGIL_ADAY
+196,Kat Hizmetleri Uygulamaları,STİ160,Staj,Turizm ve Otel İşletmeciliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808212,CIKTI_DEGIL_ADAY
+197,Kullanılmış suların iyileştirilmesi,CEV414,Suların Yeniden Kullanımı,Çevre Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040246,CIKTI_DEGIL_ADAY
+198,Grek tapınak mimarisinin erken evrelerini kavrayabilme,EPK116,Arkaik Dönem Mimarlığı,Eser Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,2,1133611,RASTGELE
+199,"Nerede oturdukları, kimleri tanıdıkları, nelerden hoşlandıkları vb. hakkında konuşabilmeleri",UTI220,İspanyolca II,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,4,680426,CIKTI_DEGIL_ADAY
+200,Algoritmaların tasarımı ve analizi konusunda temel bilgi ve beceriler kazanır.,BBB212,Veri Yapıları ve Algoritmalar,Bulut Bilişim Operatörlüğü,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,4,1161664,KALITE_KARARSIZ
+201,İşletmenin mali yapısını analiz eder,SMV232,İşletme Yönetimi II,Muhasebe ve Vergi Uygulamaları,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,4,808432,BLOOM
+202,Vinç tasarlayabilir.,ETM413,İş Makineleri Tasarımı,Endüstriyel Tasarım Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,7,824586,RASTGELE
+203,Metin ve görsel tasarım uyumunun sağlanması,GRT363,Çocuk Kitabı Resimleme,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,1133823,CIKTI_DEGIL_ADAY
+204,"Mikroskopik yöntemleri, Spektroskopik yöntemleri, X-ışınları kırınım yöntemlerini öğrenmesi",MEM440,Nanoteknoloji,Mekatronik Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1160867,CIKTI_DEGIL_ADAY
+205,Servis Çeşitleri,STR207,Yiyecek İçecek Hizmetleri,Turist Rehberliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,808338,CIKTI_DEGIL_ADAY
+206,Enerji üretimi ve alternatif enerji kaynakları.,ESM313,Enerji Üretimi ve Depolama Sistemleri,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,5,824797,CIKTI_DEGIL_ADAY
+207,Çocuk sağlığı ölçütleri hesapları,EBE409,Yenidoğan Sağlığı ve Hastalıkları,Ebelik,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,7,695737,CIKTI_DEGIL_ADAY
+208,İSG kurullarının görev yetki ve sorumluluklarını bilir,KIG129,İş Sağlığı ve Güvenliğine Giriş,İş Sağlığı ve Güvenliği,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,1,1173815,RASTGELE
+209,"Türk Sanat Müziğinin “Din Dışı Mûsikî” bölümünde varolan eserleri, bu yolla daha iyi icrâ eder.",MZK372,TSM Teorisi,Müzik,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,6,1161421,BLOOM
+210,"Meslekle ilgili teknik makaleleri, kullanım kılavuzlarını ve prosedürleri temel düzeyde okuyup anlayabilir.",YDL281,Mesleki Yabancı Dil I,Metalurji ve Malzeme Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,3,1042248,KALITE_KARARSIZ
+211,Eşlik ile çalışma becerisi kazanır.,MZK343,Hazırlık Resitali I,Müzik,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,1161415,KALITE_KARARSIZ
+212,Illustrate literary theory in many perspectives,ELIT431,Western Thought,İngiliz Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,7,1124579,CIKTI_DEGIL_ADAY
+213,Osmanlı döneminin önemli kentlerini öğrenme,SAN317,Balkanlarda Osmanlı Kentleri,Sanat Tarihi,EDEBİYAT FAKÜLTESİ,Lisans,5,714392,KALITE_KARARSIZ
+214,Bilimsel bir çalışmanın uygulamalı olarak nasıl yapıldığını öğrenir.,EPE230,Bitirme Projesi,Raylı Sistemler Elektrik ve Elektronik,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,4,919597,KALITE_KARARSIZ
+215,Yetişkin Eğitimi ve Yetişkinlerin Özelliklerini bilme,TİG108,İş Sağlığı ve Güvenliği Eğitim Yöntemleri,İş Sağlığı ve Güvenliği,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,2,958619,KALITE_KARARSIZ
+216,"Filozofların 19. yüzyılın toplumsal, ekonomik, etik ve siyasî problemlerini sorgulama tarzlarını kavrar ve kendi görüşünü geliştirir.",FEL302,19. Yüzyıl Felsefesi,Felsefe,EDEBİYAT FAKÜLTESİ,Lisans,6,714296,KALITE_KARARSIZ
+217,Tohum ve orman ağacı tohumlarının işlevini anlama,DKB407,Ekolojik Modelleme ve Yapay Zekâ Uygulamaları,Doğa Koruma ve Biyoçeşitlilik Yönetimi,ORMAN FAKÜLTESİ,Lisans,7,1174980,KALITE_KARARSIZ
+218,Kablosuz ve mobil ağların tipleri ve kurulumları,E2M4061,Mobil İletişime Giriş,Elektrik - Elektronik Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1042804,CIKTI_DEGIL_ADAY
+219,Topluma hizmet çalışmalarının içinde gönüllü olarak yer almaya dair olumlu tutum geliştirir.,ÜSD136,Toplumsal Hizmet Uygulamaları,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,688755,KALITE_KARARSIZ
+220,Arkeolojinin tarihçesi ve gelişimi,STR105,Arkeoloji,Turist Rehberliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808324,CIKTI_DEGIL_ADAY
+221,"Proje önerisinden, sonuç raporuna kadar bütünüyle bir proje sürecini tamamlar ve proje yönetimi konusunda temel düzeyde tecrübe sahibi olur.",BSM488,Bitirme Projesi II,Bilgisayar Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,8,1039652,KALITE_KARARSIZ
+222,Projeyi uygulayabilme aşamalarını bilir.,TSD210,Girişimcilik II,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,4,824951,KALITE_KARARSIZ
+223,"Araç ve sistem tasarımında, insan faktörünün fizyolojik ve psikolojik özellikleri hakkında bilgi sahibi olabilir.",END209,Ergonomi,Endüstri Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,3,1040279,RASTGELE
+224,Reklamda yaratıcılığı destekleyen görsel niteliklerin farkında olması,GRT336,Görsel İletişim ve Reklam,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,6,1133749,CIKTI_DEGIL_ADAY
+225,İlk insanoğlunun var olduğu günlerde yaşayış şekilleri ve yerleşik hayata geçiş süreci.,BSY325,Olimpik Hareket,Spor Yöneticiliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,5,1137132,CIKTI_DEGIL_ADAY
+226,etik kavramına yeni bakış açılarıyla bakabilmek,FEL328,Etik,Felsefe,EDEBİYAT FAKÜLTESİ,Lisans,6,714282,KALITE_KARARSIZ
+227,Use vocabulary words in conversation.,RUS211,Basic Russian I,İngiliz Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,3,707779,CIKTI_DEGIL_ADAY
+228,Cari hesabın hukuki niteliğini ve cari hesabın nasıl tutulacağını anlatır.,ADA235,Ticaret Hukuku Bilgisi,Adalet,ADALET MESLEK YÜKSEKOKULU,Ön Lisans,3,711468,BLOOM
+229,Girişimcinin ortaya çıkışını ve girişimcinin iş hayatında başarılı olması yöntemlerini kavrar,UTH235,Girişimcilik I,Ulaştırma ve Trafik Hizmetleri,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,965590,KALITE_KARARSIZ
+230,Atatürk dönemi Türk dış politikasını ana hatlarıyla ortaya koyabilir.,TAR431,Türkiye Cumhuriyeti Tarihi I,Tarih,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,7,1158810,RASTGELE
+231,Tıbbi cihazların kalibrasyon prosedürleri hakkında bilgi edinilmesi,OPT248,Tıbbi Cihaz Teknolojileri,Optisyenlik,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,4,957055,CIKTI_DEGIL_ADAY
+232,Eski yapıların mevcut durumlarını analiz eder.,MIM4021,Eski Yapılara Yeni İşlev Önerileri Stüdyosu,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,7,1134296,RASTGELE
+233,Varlık İlişkisi Modeli kullanarak veritabanı tasarlar.,YZM208,Veri Tabanı Sistemleri,Yazılım Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1042716,BLOOM
+234,Uluslararası ticarette kullanılan ödeme yöntemleri ve teslim şekilleri konusunda bilgi ve tecrübe sahibidir,UTI408,Uluslararası Ticaret Hukuku,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,8,680364,RASTGELE
+235,"Kent ormanları ve kentsel yeşil alanlarda ağaçlık alanların sağladığı fonksiyonları bilir, bunların planlanması ve yönetimine dair bilgileri uygulayabilir.",DKB426,Uluslararası Doğa Koruma Çalışmaları,Doğa Koruma ve Biyoçeşitlilik Yönetimi,ORMAN FAKÜLTESİ,Lisans,8,1175004,KALITE_KARARSIZ
+236,Matlab ile program yazma becerileri kazanmak,OMD103,Bilgisayar Programlama I,Raylı Sistemler Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,1,1043560,KALITE_KARARSIZ
+237,"Dağ, ova, kıyı ve akarsu gibi doğal çevre parametrelerinin şehir planları üzerindeki etkisini kavrar",COG254,Şehir Yerleşmeleri,Coğrafya,EDEBİYAT FAKÜLTESİ,Lisans,4,713726,KALITE_KARARSIZ
+238,İntegral formülasyonu ve varyasyon yöntemleri.,BMK433,Sonlu Elemanlar Yöntemine Giriş,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1039787,CIKTI_DEGIL_ADAY
+239,Program ve işletim sistemi kurulumu,MIM1017,Temel Bilgi Teknolojileri,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,1,1148575,CIKTI_DEGIL_ADAY
+240,Hızlı gelişen tür ve ağaç ıslahının endüstriyel plantasyonlarda kullanılmasının anlaşılması,ORM366,Endüstriyel Plantasyon ve Kavakçılık,Orman Mühendisliği,ORMAN FAKÜLTESİ,Lisans,6,1174864,CIKTI_DEGIL_ADAY
+241,Yabancı dilde metinleri anlar.,EPO279,Mesleki Yabancı Dil,Özel Güvenlik ve Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,918567,KALITE_KARARSIZ
+242,"Stajını başarıyla tamamlayan bir öğrenci, kendisine verilen iş ve göreve karşı ilgili, işi tanımlayabilen.",TSS277,Endüstriye Dayalı Eğitim (EDE),Sivil Savunma ve İtfaiyecilik,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,958757,CIKTI_DEGIL_ADAY
+243,Randevu sistemlerinin yönetimini uygulamalı olarak gerçekleştirebilir.,TDS243,Hastane ve Sağlık Bilgi Sistemleri,Tıbbi Dokümantasyon ve Sekreterlik,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957645,BLOOM
+244,Sistem hastalıklarını değerlendirebilir ve gerekli olan acil bakım uygulamalarını yapabilir.,PRM223,Yaz Stajı,İlk ve Acil Yardım,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,956941,RASTGELE
+245,Öğrencileri iş hayatına hazırlamak,EUT460,Staj III,Endüstriyel Tasarım,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,7,786927,KALITE_KARARSIZ
+246,Kurumssal risk yönetimi,END4051,Risk Analizi ve Değerlendirmesi,Endüstri Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040362,CIKTI_DEGIL_ADAY
+247,Bireysel çalışma becerisi kazanır.,SMR208,Restorasyon Keşif ve Şantiye Yönetimi,Mimari Restorasyon,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,4,809248,RASTGELE
+248,Bir alanın turistik çekicilik özelliğine sahip olup olamayacağına ilişkin fikir yürütür.,TUR201,Dünya Turizm Coğrafyası,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,3,1151640,RASTGELE
+249,Afet bilincinin kazandırılması,ÜSD349,Afet Yönetiminde Kurumlararası Koordinasyon,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,1067565,KALITE_KARARSIZ
+250,Sezgi yönteminin kavranması,FEL416,Bergson ve Etik,Felsefe,EDEBİYAT FAKÜLTESİ,Lisans,8,714317,CIKTI_DEGIL_ADAY
+251,Düşey eksen türbinleri tasarlayabilir.,ETM410,Rüzgar Enerji Sistemleri Tasarımı,Endüstriyel Tasarım Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,824583,BLOOM
+252,"Yayıncılık sürecinde editörün rolünü, görevlerini ve sorumluluklarını öğrenirler.",TRE431,Editörlük ve Redaksiyon,Türk Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,7,1068754,KALITE_KARARSIZ
+253,Durgun akışkan içerisindeki basınç değişimini değerlendirir,INS210,Akışkanlar Mekaniği,İnşaat Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1040544,BLOOM
+254,"Veri ambarları, OLAP, veri madenciliği ve Büyük Veri temel kavramları, teknikleri ile ilgili temel yeterliliklerin edinilmesi",YZM408,İş Zekası ve Veri Analitiği,Yazılım Mühendisliği,BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,7,1159294,CIKTI_DEGIL_ADAY
+255,Güncel ve çağdaş yönetim konularını anlayabilir.,BUS219,Contemporary Management Approaches,İşletme (İngilizce),İŞLETME FAKÜLTESİ,Lisans,3,1133668,KALITE_KARARSIZ
+256,"Hasta hakları, mahremiyet ve etik ilkelerle hasta güvenliğini nasıl destekleyeceklerini kavrar ve bu ilkeleri klinik uygulamalara entegre eder.",OYD160,Hasta ve Çalışan Güvenliği,Otopsi Yardımcılığı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,957592,BLOOM
+257,Alanıyla ilgili yabancı dilde kaynaklardan bilgi edinimi,EPB223,Mesleki Yabancı Dil,Bilişim Güvenliği Teknolojisi,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,1161481,CIKTI_DEGIL_ADAY
+258,"Beslenme ile ilgili bilgi, tutum ve davranışlarını düzenler.",HEM134,Beslenme,Hemşirelik,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,2,1134112,KALITE_KARARSIZ
+259,İşletmelerin kuruluşunu analiz edebilmeli,TUR125,Genel İşletme,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,1,1151663,CIKTI_DEGIL_ADAY
+260,"Pazarlama karması elemanları olan ürün, fiyat, dağıtım ve tutundurma stratejilerini pazar koşullarına göre geliştirir.",ISF302,Pazarlama Yönetimi,İşletme,İŞLETME FAKÜLTESİ,Lisans,6,680129,BLOOM
+261,Tüm biyomoleküller ve insan metabolizmasındaki görevlerini bilir.,TTP141,Tıbbi Biyoloji ve Genetik,Tıbbi Tanıtım ve Pazarlama,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957877,KALITE_KARARSIZ
+262,"Farklı bağımlılık alanlarında sosyal hizmet uygulamaları,",SHZ309,Bağımlılık ve Sosyal Hizmet,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,5,921573,CIKTI_DEGIL_ADAY
+263,Farklı engel gruplarında mesleki rehabilitasyon modellerini öğrenir.,OPO137,Mesleki Rehabilitasyon,Ortopedik Protez ve Ortez,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957150,KALITE_KARARSIZ
+264,Bakım planları oluşturur,END4010,Bakım Planlama,Endüstri Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1162280,RASTGELE
+265,Köprü teknolojisinin tartışılması,MEE4046,Construction Techniques,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1045650,CIKTI_DEGIL_ADAY
+266,Bilginin yönetimi,END4050,Bilgi ve Teknoloji Yönetimi,Endüstri Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040325,CIKTI_DEGIL_ADAY
+267,Turizmi ekonomi bilimi açısından ele alma kabiliyeti kazanırlar,TFG226,Turizm Ekonomisi,Gastronomi ve Mutfak Sanatları,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,4,1156998,BLOOM
+268,Disiplinlerarası çalışma yetisinin kazanılması ve iktisadi dünyanın yorumlanabilmesi.,SHZ109,Sosyal Hizmet İçin İktisat,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,1,920567,RASTGELE
+269,Kent içi raylı ulaşım sistemlerini sınıflandırabilir ve mukayese edebilir,EPM202,Kent İçi Raylı Ulaşım Sistemleri II,Raylı Sistemler Makinistliği,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,4,919771,BLOOM
+270,Türk Müziği Nazariyatı,ILY115,Türk Din Musikisi (Nazariyat),İslami İlimler,İSLAMİ İLİMLER FAKÜLTESİ,Lisans,1,1061577,CIKTI_DEGIL_ADAY
+271,Turizm ile ilgili hukuk ve mevzuatların öğrenciye kavratılması,TUR255,Turizm Mevzuatı,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,3,1151652,CIKTI_DEGIL_ADAY
+272,"Raylı sistem araç tasarımında gabari, ekartman, dingil basıncı vb. faktörlerin öğrenilmesi",RAY425,Raylı Taşıt Tasarımı,Raylı Sistemler Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043673,CIKTI_DEGIL_ADAY
+273,Örnek İncelemesi,MIM3020,Fütüroloji,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,6,1134300,CIKTI_DEGIL_ADAY
+274,Enerji etütleri ile ilgili bilgi edinirler.,ESC316,Sustainability and Energy Management,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,6,1160643,KALITE_KARARSIZ
+275,Anayasa hukukunun temel kavram ve konularını tanır.,ILY407,Fıkıh-III,İslami İlimler,İSLAMİ İLİMLER FAKÜLTESİ,Lisans,7,1061654,KALITE_KARARSIZ
+276,Ağaç malzeme esaslı eşya ve mobilya imalatı kapsamında göz önünde bulundurulan yapısal unsurlar hakkında bilgi edinirler.,ORM361,Ağaç Malzeme Teknolojisi,Orman Mühendisliği,ORMAN FAKÜLTESİ,Lisans,5,1174842,KALITE_KARARSIZ
+277,Jeodezik temel ödevleri öğrenir. Bu bilgilere dayalı olarak koordinat hesapları yapar.,EPM117,Topoğrafya,Raylı Sistemler Makinistliği,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,1,919754,KALITE_KARARSIZ
+278,Sensörler ve kontrol sistemlerinin çalışma prensiplerini kavrar.,EHA203,Sensörler ve Kontrol Sistemleri,Hibrid ve Elektrikli Taşıtlar Teknolojisi,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,1161806,KALITE_KARARSIZ
+279,"Diş hekimi ile ekip çalışmasını etkili bir şekilde yürüterek hasta hazırlığı, hasta takibi ve klinik hijyen kurallarını uygular",ADS125,Diş Hekimliği Klinik Çalışma Yöntemleri I,Ağız ve Diş Sağlığı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,956672,KALITE_KARARSIZ
+280,Eylem araştırmasının özelliklerini ve kuramsal temellerini.,AES320,Beden Eğitimi ve Spor Öğretiminde Eylem Araştırması,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,6,1137018,CIKTI_DEGIL_ADAY
+281,Türk ticaretine yön veren coğrafi faktörleri kavrar,COG454,Türkiye Ekonomik Coğrafyası II,Coğrafya,EDEBİYAT FAKÜLTESİ,Lisans,8,713823,KALITE_KARARSIZ
+282,Kentsel dönüşümün tanımlanması,KMY346,Kentsel Dönüşüm Uygulamaları,Siyaset Bilimi ve Kamu Yönetimi,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,6,1152576,CIKTI_DEGIL_ADAY
+283,Web sitelerini farklı cihazlara uygun hale getirme.,BOY106,İleri Web Tasarımı,Ön-Yüz Yazılım Geliştirme,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,1134913,BLOOM
+284,Projelerin beklenmedik ve yaratıcı bir sunumu olması,GRT303,Deneysel Tipografi,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,1133790,CIKTI_DEGIL_ADAY
+285,Arduino çalışmaları,SBT152,Programlamanın Temelleri Arduinoya Giriş II,Bilgisayar Teknolojisi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,807588,CIKTI_DEGIL_ADAY
+286,sanat değeri taşıyan taş eserlerin onarımı ve korunması yöntem ve tekniklerini kavrar,EPK203,Taş ve Seramik Koruma ve Onarımı I,Eser Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,1133613,BLOOM
+287,Etkili iletişimin önündeki engelleri bilir,ÜSD240,İletişim Kurma ve Empati,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,688665,KALITE_KARARSIZ
+288,"Ortaçağ’da feodal yapıyı tanımlar; dönemin kültürel, bilimsel, toplumsal, dini durumunu ifade edebilir.",TAR243,Avrupa Tarihi I,Tarih,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,3,1158732,BLOOM
+289,Banka ile ilgili kavramları öğrenebilir.,BAF206,Banka Muhasebesi,Finans ve Bankacılık,İŞLETME FAKÜLTESİ,Lisans,4,681833,KALITE_KARARSIZ
+290,"Öğrenciler, Türkiye Cumhuriyetinin kuruluşundan günümüze kadar Türkiye sağlık sisteminin gelişimini özetleyebilecektir.",DHF223,Koruyucu Hekimlik ve Epidemiyoloji,Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058603,KALITE_KARARSIZ
+291,"Ata karşı etik açıdan yaklaşır (bu yaklaşım; hayvan hakkında bilgi edinmeyi, atların karşılaştığı tehlikelerden kaçınmayı, hırsın ve ekonomik çıkarların kontrolünü ele geçirmesine izin vermemeyi ve hayvanın doğal kapasitesine saygı göstermeyi içerir).",EAA222,Atçılık Deontolojisi,Atçılık ve Antrenörlüğü,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,1173917,KALITE_KARARSIZ
+292,"Kalite kontrol çemberlerinin kullanım alanları, faydalarını ve tekniklerini öğrenir.",END4056,Toplam Kalite Yönetimi,Endüstri Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1162295,KALITE_KARARSIZ
+293,Arkeoloji ve Sanat Tarihi araştırmaları için gerekli olan teknikleri ve modern araçları kullanabilir.,STR208,Anadolu Uygarlıkları II,Turist Rehberliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,4,808345,KALITE_KARARSIZ
+294,İktisadi büyüme ve kalkınma teorileri ile ilgili temel okumaları İngilizce yapabilir.,IKT330,Mesleki Yabancı Dil II,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,6,678758,KALITE_KARARSIZ
+295,Kullanıcı çalışmaları ile geliştirilen sistemin değerlendirilmesi becerisi,BOY218,Web Tabanlı Arttırılmış ve Sanal Gerçeklik,Ön-Yüz Yazılım Geliştirme,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,4,1135374,CIKTI_DEGIL_ADAY
+296,Sosyolojinin temel kavramlarının sporla ilişkisi ve görünümlerinin öğrenilmesi.,AES321,Beden Eğitimi Sosyolojisi,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,5,691310,CIKTI_DEGIL_ADAY
+297,Borçlar Hukuku na ilişkin temel kavramları öğrenebilecek,IKT229,Borçlar Hukuku,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,3,678721,KALITE_KARARSIZ
+298,"Anorganik madde sentezlerini yaparak saflaştırma tekniklerini kullanma,",KIM253,İnorganik Kimya Laboratuvarı I,Kimya,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,3,1161081,BLOOM
+299,Yunan mitolojisinde II. kuşak tanrısal varlıkları değerlendirir.,STR102,Mitoloji II,Turist Rehberliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808348,BLOOM
+300,Hamur ve ekmek analizlerini yapabilir ve sonuçlarını değerlendirebilir.,EGK204,Tahıl Ürünleri Teknolojisi ve Kalite Analizleri,Gıda Kalite Kontrolü ve Analizi,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,746662,BLOOM
+301,3D modelleme programı ile tasarım yapabilir,MEE114,Computer Aided Technical Drawing,Makine Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,2,1160114,BLOOM
+302,Mikro ekonominin temel neo-klasik metodolojilerini açıkla,KMY220,Mikro İktisat,Siyaset Bilimi ve Kamu Yönetimi,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,4,679153,CIKTI_DEGIL_ADAY
+303,Mimari yapılardaki Osmanlıca metinlerin içeriğini kavramak.,MIM3028,Mimarlıkta Osmanlıca,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,6,1148601,KALITE_KARARSIZ
+304,Artım ve büyümenin tahmin edilmesinin anlaşılması,DKB305,Doğa Koruma Teknik ve Yöntemleri,Doğa Koruma ve Biyoçeşitlilik Yönetimi,ORMAN FAKÜLTESİ,Lisans,5,1174946,CIKTI_DEGIL_ADAY
+305,1,EPE221,Tren Mekaniği,Raylı Sistemler Elektrik ve Elektronik,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,919593,CIKTI_DEGIL_ADAY
+306,Metal malzemelerin kullanım yerleri,OPO127,Malzeme Bilgisi I,Ortopedik Protez ve Ortez,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957147,CIKTI_DEGIL_ADAY
+307,Sunucu taraflı kod yazma becerisini geliştirir,YZM415,Web Servisleri,Yazılım Mühendisliği,BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,7,1159277,KALITE_KARARSIZ
+308,asd,YRM124,Bilgisayar Destekli Tasarım I,Raylı Sistemler Makine Teknolojisi,YENİCE MESLEK YÜKSEKOKULU,Ön Lisans,2,705554,CIKTI_DEGIL_ADAY
+309,"Dünyada cinsiyet ayrımı, çocuk istismarı ve sonuçlarını analiz etmesi",COG459,Günümüz Dünya Sorunları,Psikoloji,EDEBİYAT FAKÜLTESİ,Lisans,7,1135505,CIKTI_DEGIL_ADAY
+310,"Geldiği yer, eğitimi, yakın çevresi hakkında iletişim kurabilmesi",UTI427,Almanca V,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,7,680359,CIKTI_DEGIL_ADAY
+311,Uyum sürecinin önemli unsurlarını bilir ve çözümler.,PSI416,Uyum Psikolojisi,İngiliz Dili ve Edebiyatı,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,8,1157776,KALITE_KARARSIZ
+312,Coğrafi araştırmalarda Excelde veri giriş tekniklerin tanımlaması,COG161,Coğrafyada Bilgisayar Kullanımı,Coğrafya,EDEBİYAT FAKÜLTESİ,Lisans,1,713675,CIKTI_DEGIL_ADAY
+313,Ticari görüşmeler yapmak,IRE436,Foreign Trade English II,Uluslararası İlişkiler (İngilizce),İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,8,1135172,BLOOM
+314,Hikaye türünün ana unsurlarını kavrayabilirler.,ELIT213,Short Story,İngiliz Dili ve Edebiyatı,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,3,1157874,KALITE_KARARSIZ
+315,Güçlü ve zayıf yönlerini tanıyarak sınırlılıklarını bilmesi ve davranışlarını kontrol etmesi,TFR208,Bireysel ve Takım Sporları,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,4,1064615,CIKTI_DEGIL_ADAY
+316,Turizmin doğal çevreye etkilerini öğrenme.,STİ169,Turizm ve Çevre,Turizm ve Otel İşletmeciliği,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808227,KALITE_KARARSIZ
+317,Cerrahi cihazların sahip olması gereken özellikleri yorumlayabilir.,TMH430,Cerrahi Enstrümantasyon,Tıp Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1041780,BLOOM
+318,Trafik kazalarında etkili faktörlerin ortaya konulması için gerekli analizlerin yapılması,UTH239,Kaza Yeri İnceleme ve Bilirkişilik,Ulaştırma ve Trafik Hizmetleri,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,965592,CIKTI_DEGIL_ADAY
+319,İş sağlığı ve güvenliği ile ilgili yasa ve yönetmelikleri bilir.,DKB304,Yaban Hayatı Ekolojisi ve Yönetimi,Doğa Koruma ve Biyoçeşitlilik Yönetimi,ORMAN FAKÜLTESİ,Lisans,6,1174973,KALITE_KARARSIZ
+320,"Farklı tipteki cihazlar, cihazın nasıl ölçüm yaptığı ve doğruluk, kesinlik ve hassasiyet için gerekli teknikleri hakkında deneyimini geliştirir",CEV407,Çevre Mühendisliğinde Aletli Analiz,Çevre Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040232,KALITE_KARARSIZ
+321,Mekanizmaların serbestlik derecesi.,MEE308,Dynamics of Machinery,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,6,1045624,CIKTI_DEGIL_ADAY
+322,Dönemin önde gelen şairlerin poetikalarını inceler.,TRE109,Yeni Türk Edebiyatı I,Türk Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,1,1068670,BLOOM
+323,"“Konulu Tefsir” örnekleri üzerinden; “Kur’an’da Kadın, Erkek ve Aile”, “Kur’an’da çocuk ve Gençlik”, “Kur’an’da İnanç Yönüyle İnsan Türleri”, “Kur’an’da İman, İbadet, Ahlak ve Gündelik Hayat (muamelat) İlişkisi” gibi insan hayatının en önemli meselelerine dair Kur’an’ın ortaya koyduğu ilke ve bakış açılarını öğreneceklerdir.",ÜSD109,Tefsir Metinleri-I,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,687987,RASTGELE
+324,Öğrenci eserleri kavramsal ve tarihsel açıdan da değerlendirir,EUT342,Enstrüman Tarihi II,Endüstri Ürünleri Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,6,786803,BLOOM
+325,Avrupa Birliği’nin kurulma nedenlerinin ve sürecini açıklayabilme,ÜSD202,Türkiye Avrupa Birliği İlişkileri,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,688758,RASTGELE
+326,Antik Yunan siyasi düşüncesinin temel oluşumlarını sınıflandırmak.,TAR443,Siyasal Düşünceler Tarihi I,Tarih,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,7,1158803,KALITE_KARARSIZ
+327,uygulamalar için doğru malzeme seçimini yapar,AUT248,Kompozit Malzemeler,Otomotiv Teknolojisi,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,960009,RASTGELE
+328,Nesnelerin İnterneti Bulut Platformları,SBT263,Nesnelerin İnterneti ve Uygulamaları,Bilgisayar Teknolojisi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,807564,CIKTI_DEGIL_ADAY
+329,Hasta güvenliği konusunda kavramsal bir anlayış geliştirmesi; hasta güvenliğinin artırılmasında bireylerin ve sistemin rolünü anlaması,FYT148,Hasta ve Çalışan Güvenliği,Fizyoterapi,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,956852,CIKTI_DEGIL_ADAY
+330,AUS ile entegre edilmiş ulaştırma planlaması prosesleri öğrenir.,INS426,Akıllı Ulaşım Sistemleri,İnşaat Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040518,KALITE_KARARSIZ
+331,UYAP’ ın pratikteki kullanımının öğrenilmesi sağlanmalı,ADA233,Uyap Temel Eğitimi,Adalet,ADALET MESLEK YÜKSEKOKULU,Ön Lisans,3,711508,CIKTI_DEGIL_ADAY
+332,Girişimcilik kavramlarını ve süreçlerini anlayabilir.,HIT428,Girişimcilik ve İletişim,Halkla İlişkiler ve Tanıtım,İŞLETME FAKÜLTESİ,Lisans,8,681814,RASTGELE
+333,Normal hareket ve fonksiyonu tanımlar ve Bobath kapsamında inmede görülen hareket ve fonksiyon bozukluklarıyla karşılaştırabilir.,FTR340,Nörofizyolojik Yaklaşımlar II,Fizyoterapi ve Rehabilitasyon,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,6,1157176,RASTGELE
+334,"Organizasyonlarda iletişim, motivasyon, liderlik, haberleşmeyi açıklar.",TFI202,Yönetim ve Organizasyon,Turizm İşletmeciliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,4,787572,RASTGELE
+335,Düzlemde ve üç boyutta parçacık ve rijit cisimlerin dengesi,TMH209,Statik,Tıp Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,3,1041798,CIKTI_DEGIL_ADAY
+336,Derleyici tasarımının temel prensiplerinin öğrenilmesi,BSM415,Derleyici Tasarımı,Bilgisayar Mühendisliği (%30 İngilizce),BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,7,1159043,CIKTI_DEGIL_ADAY
+337,"Cumhuriyet’in kuruluşundan itibaren hızlanan sanatta batı etkisini dönemin siyasal, toplumsal ve kültürel yapısı içinde kavrar.",SAN414,Çağdaş Türk Sanatı,Sanat Tarihi,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,8,1158535,KALITE_KARARSIZ
+338,"Fungusların morfolojik yapısı, üremeleri, bitkilerde oluşturduğu simptomlar, sınıflandırılmaları, önemli bitki fungal hastalıklar ve mücadelesi konularında bilgi sahibi olunacak",ORM259,Fitopatoloji,Orman Mühendisliği,ORMAN FAKÜLTESİ,Lisans,3,1174822,KALITE_KARARSIZ
+339,Seri kart üretimi ve teknikleri,TET114,Lehimleme Teknikleri,Elektromekanik Taşıyıcılar,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,2,335196,CIKTI_DEGIL_ADAY
+340,Öğrenci Türk Halk Müziği Kavramını ve oluşumunu kavrar.,THM365,THM Bilgileri I,Türk Sanat Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,787385,RASTGELE
+341,"Termodinamik kanunlar çerçevesinde Isı Makinesi, Isı Pompası ve Soğutma Makinesi sistemlerinin temel özelliklerini bilir ve açıklar",MEE321,Refrigeration Technology,Makine Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,5,1160158,RASTGELE
+342,Kazıların Arkeoloji Bilimi için Yeri ve Önemi,ARC431,Genel Arkeoloji,İngiliz Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,7,707829,CIKTI_DEGIL_ADAY
+343,İnsan ve bilgisayar etkileşiminde kullanılan değerlendirme yöntemlerini bilir,YZM315,İnsan Bilgisayar Etkileşimi,Yazılım Mühendisliği,BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,5,1159320,BLOOM
+344,Turların yönetilmesinde rehberlerin etkisini bilir ve tur yönetebilir.,TFR220,Tur Planlaması ve Yönetimi,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,4,1064608,KALITE_KARARSIZ
+345,Etüt çalışmaları,TBE217,Elektrik Tesisat Planları,Elektrik,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,959780,CIKTI_DEGIL_ADAY
+346,"Yönetimin tanımını, gelişim sürecini (klasik ve neo-klasik teoriler) ve işlevlerini analiz eder.",ÜSD252,Yönetim ve Organizasyon,Üniversite Seçmeli Dersler Havuzu,REKTÖRLÜK,Lisans,1,688709,RASTGELE
+347,Proje konusu belirleyebilme ve planlayabilme,KIM428,Kimya Araştırması Projesi II,Kimya,FEN FAKÜLTESİ,Lisans,8,684033,BLOOM
+348,"Metal, seramik, polimer esaslı, karma yapılı ve ahşap malzemeler ve bu malzemelerin özellikleri konusunda bilgi verir.",EUT251,Malzeme Bilimi,Endüstriyel Tasarım,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,3,786845,BLOOM
+349,Kan pıhtılaşmasının mekanizmasını ve pıhtılaşmada rol alan proteinleri bilebilmeli,DHF218,Tıbbi Biyokimya,Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058572,CIKTI_DEGIL_ADAY
+350,Çocuk gelişimi alanına özgü temel İngilizce kavram ve terimleri tanımlar.,CGE212,Mesleki Yabancı Dil II,Çocuk Gelişimi,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,4,689306,KALITE_KARARSIZ
+351,Mesleğiyle ilgili İngilizce yazılmış metinleri okuyup anlayabilmek.,KIG246,Mesleki Yabancı Dil II,İş Sağlığı ve Güvenliği,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,1173824,KALITE_KARARSIZ
+352,Ergonomi ve kullanıcı deneyimi ilkelerini araç iç mekan tasarımında nasıl uygulayacağını bilir.,EUT447,Araç İç Mekan Tasarımı II,Endüstriyel Tasarım,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,7,786913,BLOOM
+353,Çıkarım sistemlerini kullanarak bulanık mantık uygulamaları yapar.,END4055,Bulanık Mantık,Endüstri Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040346,RASTGELE
+354,Yarıiletken Cihazların İşleyişini Anlam,E2E122,Fundamentals of Electrical and Electronics Engineering,Elektrik - Elektronik Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,2,1043380,KALITE_KARARSIZ
+355,Modern mantık ile klasik mantık arasındaki farkı karşılaştırabilir.,SOS334,Modern Mantık,Sosyoloji,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,6,1158595,BLOOM
+356,İşyeri bina ve eklentilerinde karşılaşılan sağlık ve güvenlik riskleri,KIG231,İş Sağlığı ve Güvenliği II,İş Sağlığı ve Güvenliği,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1173838,CIKTI_DEGIL_ADAY
+357,Kobi ve finans,BYZ211,Girişimcilik ve Kariyer Planlama,Yapay Zeka Operatörlüğü,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1157592,CIKTI_DEGIL_ADAY
+358,İnisiyatif alma becerisi ortaya koyabilirler.,IRE421,Entrepreneurship,Uluslararası İlişkiler (İngilizce),İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,7,1135151,BLOOM
+359,"Atletizm tanımı, branşların farklılıkları.",BSY106,Atletizm,Spor Yöneticiliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,2,1137099,CIKTI_DEGIL_ADAY
+360,Müsabaka analizi prensiplerinin ve analiz yöntemlerinin elde edilmesi,ANT3001,Yarışma/Müsabaka Analizi,Antrenörlük Eğitimi,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,5,1136152,CIKTI_DEGIL_ADAY
+361,Görsel araç ve nesneleri kullanabilir ve yönetebilir,CPE317,Visual Programming,Bilgisayar Mühendisliği (İngilizce),BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,5,1159182,RASTGELE
+362,Farklı maliyet hesaplama yöntemlerini öğrenir.,IKT331,Maliyet Muhasebesi,İktisat,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,5,678788,KALITE_KARARSIZ
+363,Bu sistemlerin analiz ve tasarımında kullanılan mühendislik yaklaşımlarının ve yöntemlerin öğrenilmesi.,CEV419,Hava Kirliliğinde Modelleme,Çevre Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040239,CIKTI_DEGIL_ADAY
+364,"Öğrenciler, coğrafya alanında bağımsız araştırma yapma, veri toplama, analiz etme ve sonuçlarını yorumlama yeteneklerini geliştirir.",COG455,Seminer,Coğrafya,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,7,1158063,RASTGELE
+365,"Ulusal ve Uluslararası spor saha ve malzemelerinin standart bilgilerini de tanır. Ülkenin spor kulüplerinin, okul kplerinin ve diğer spor örgütlerinin tesisleşme, saha ve malzeme kazanım ve kullanımlarına yardımcı olabilecek bilgilere sahip olur",ANT2148,Sporda Saha ve Malzeme Bilgisi (Seçmeli Teorik II),Antrenörlük Eğitimi,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,4,1056770,RASTGELE
+366,Konuya alışıksa ve konuşma süreci belirgin göstergelerle nitelendirilmişse uzun konuşmaları ve karmaşık tartışmaları izlemesi beklenir.,TAR000,Hazırlık,Tarih,EDEBİYAT FAKÜLTESİ,Lisans,,714623,RASTGELE
+367,"İnsandaki sistemlerin anatomik yapı, hastalıkları, hastalık tanıları, laboratuvar yöntemleri ve tedavilerine ilişkin terimleri bilir",OPO115,Tıbbi Terminoloji,Ortopedik Protez ve Ortez,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957149,KALITE_KARARSIZ
+368,"Personel, kabin ve uçak altı bagajı ile eşyaların nasıl taranacağını öğrenir",EPO262,Liman ve Havaalanı Güvenliği,Özel Güvenlik ve Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,4,918574,KALITE_KARARSIZ
+369,Paylaşımlı hafızada paralel program geliştirilmesi,CPE404,Parallel Programming,Bilgisayar Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1040011,CIKTI_DEGIL_ADAY
+370,ülkelere göre duvar Resmi sanatının gelişimini inceler,RES353,Duvar Resmi III,Resim,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,786578,BLOOM
+371,"Kuvvet, enerji, iş, güç ifadelerini açıklayabilecekler",REN101,Introduction to Railway Systems Engineering,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,1,1160651,RASTGELE
+372,(CAD) sistemlerini ve grafik modellemeyi kavrayabilir.,URT337,Bilgisayar Tümleşikli İmalat,İmalat Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,5,825015,BLOOM
+373,Fiziksel uygunlukla ilgili temel kavramları,AEZ304,Fiziksel Uygunluk,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,6,1136899,CIKTI_DEGIL_ADAY
+374,Mesleki becerilerini kullanarak üretim ve/veya hizmet süreçlerine etkin katkı sağlar.,BMK400,İşletmede Mesleki Eğitim,Biyomedikal Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1162098,KALITE_KARARSIZ
+375,Nanotıp potansiyeli hakkında hem hasta hem de sağlık sağlayıcının bakış açısıyla tıbbi sorunları anlar.,BMK458,İlaç Taşıyıcı Sistemlerde Nanotıp,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1039768,KALITE_KARARSIZ
+376,Sporda performansı arttırıcı maddelerin tanıtılması.,ANT2093,Ergojenik Yardım ve Dopingle Mücadele (Seçmeli Teorik I),Antrenörlük Eğitimi,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1136028,CIKTI_DEGIL_ADAY
+377,Eğri ailesinden diferansiyel denklemi elde eder.,MAT205,Diferansiyel Denklemler I,Matematik,FEN FAKÜLTESİ,Lisans,3,1055674,BLOOM
+378,Biyomateryal vücuda tanıtıldığında kaskadların fizyolojik aktivasyonunun öğrenilmesi,MEE252,Biomaterials,Tıp Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,4,213529,CIKTI_DEGIL_ADAY
+379,Endüstriyel tasarımı süreçlerini bilir.,ESC303,Patent and Industrial Design,Makine Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,5,1042991,RASTGELE
+380,Geometrinin ve eleman davranış fonksiyonunun ifadesi.,MTM424,Sonlu Elemanlar Yöntemleri,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,8,860725,CIKTI_DEGIL_ADAY
+381,Serbest el çizim kabiliyetinin geliştirilmesi.,MIM1008,Mimari Eskiz ve Maket,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,2,1134327,CIKTI_DEGIL_ADAY
+382,"Dönemin ressamını ve stil özelliklerini anlayabilme, çağdaşı olan ressamlarla karşılaştırmalı olarak inceler.",ARC307,Antik Dönem Resim Sanatı I,Arkeoloji,EDEBİYAT FAKÜLTESİ,Lisans,5,713638,BLOOM
+383,Verilen bir araştırma sonucuna uygun çözüm önerileri geliştirir.,TFI302,Araştırma Yöntemleri,Turizm İşletmeciliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,6,787515,RASTGELE
+384,Odundan elde edilen ve plaka olarak dekorasyonda kullanılan malzemelerin tanınması ve özelliklerini öğrenir,SMT144,Malzeme Bilgisi II,İç Mekan Tasarımı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808050,KALITE_KARARSIZ
+385,"Öğrenci, bir problem verildiğinde onu çözmek için etkili bir paralel algoritma tasarlayabilir.",BAY225,CPU ile Paralel Programlama,Arka-Yüz Yazılım Geliştirme,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,1161707,BLOOM
+386,Analizini yaptığı ara rengin hangi renklerin hangi miktarlardaki birleşiminden meydana geldiğini tespit eder.,SMO231,Renk Analizi,Moda Tasarımı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,809799,RASTGELE
+387,Batıda ve Osmanlı’da gazetecilik faaliyetlerinin ortaya çıkış sürecini bilir.,GZT412,Yerel Politika ve Yerel Basın,Gazetecilik,SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ,Lisans,8,1156912,KALITE_KARARSIZ
+388,"Türev araçları tanımlar, karşılaştırır ve uygular",UTI315,Risk Yönetimi,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,5,680441,RASTGELE
+389,Kuvvetli ve zayıf zamanlarda mızrap sırasını karıştırmaz.,TSM317,Çalgı V,Türk Sanat Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,787407,CIKTI_DEGIL_ADAY
+390,Türk Dış Politikasının yoğunlaştığı konuları öğrenir.,HIT367,Uluslararası İlişkiler ve Örgütler,Halkla İlişkiler ve Tanıtım,İŞLETME FAKÜLTESİ,Lisans,5,681754,RASTGELE
+391,Olgu ve değer ilişkisini öğrenme,KMY431,Siyaset Felsefesi,Siyaset Bilimi ve Kamu Yönetimi,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,7,1053604,KALITE_KARARSIZ
+392,Biyomedikal veri biliminin karşılaştığı zorlukları tartışır.,BMK445,Biyomedikal Veri Bilimine Giriş,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1039754,BLOOM
+393,Mühendislik kullanılan değişkenler ile birimlerini ve onlar arasındaki işlişkiyi açıklayabilir.,E2E101,Introduction to Electrical and Electronics Engineering,Elektrik - Elektronik Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,1,1042858,BLOOM
+394,Interface ile çoklu kalıtımın uygulanması,YZM205,Nesne Yönelimli Programlama,Yazılım Mühendisliği,BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ,Lisans,3,1159249,CIKTI_DEGIL_ADAY
+395,Öğrenciler drama kavramının tanımını ve anlamını tanımlar.,TFR308,Yaratıcı Drama,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,6,1064570,KALITE_KARARSIZ
+396,İnsan kaynakları yönetiminin tarihsel süreçlerini bilir,TFI301,İnsan Kaynakları Yönetimi,Turizm İşletmeciliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,5,787509,BLOOM
+397,Trafik güvenliği açısından risk faktörlerini belirler ve önleyici öneriler geliştirir.,TOK108,Trafik ve Denetleme Tekniği,Otobüs Kaptanlığı,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,2,959903,BLOOM
+398,Geleneksel olmayan talaş kaldırma yöntemlerinin kullanım gereksinimlerini öğrenir,MEE208,Manufacturing Processes II,Makine Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,4,1042969,KALITE_KARARSIZ
+399,Analyze electrical circuits with AC excitation,CPE205,Circuit Analysis,Bilgisayar Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,3,1039949,CIKTI_DEGIL_ADAY
+400,ınterpret how postcolonial literary works weaken the colonial discourse.,ELIT406,Post-Colonial English Literature,İngiliz Dili ve Edebiyatı,EDEBİYAT FAKÜLTESİ,Lisans,8,707790,CIKTI_DEGIL_ADAY
+401,Türkiye'nin mutlak ve göreli coğrafi konumunu özetlemesi,COG460,Türkiye Coğrafyası,Psikoloji,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,8,1158405,CIKTI_DEGIL_ADAY
+402,"Öğrenciler, ısı değiştiricilerinde zorlanmış taşınım ısı transferi korelasyonlarını uygulama yeteneğine sahip olacaktır.",RAY4019,Isı Değiştiriciler,Raylı Sistemler Mühendisliği,MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043655,KALITE_KARARSIZ
+403,"Varyans analizi (ANOVA, ANCOVA) türlerini uygular ve sonuçlarını yorumlar.",PSİ207,İleri İstatistiksel Teknikler,Psikoloji,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,3,1158320,BLOOM
+404,Kamu yönetiminin hukuki boyutu ile ilgili temel konular hakkında yaklaşımlar geliştirebilir,TBİ203,İş Hukuku,İklimlendirme ve Soğutma Teknolojisi,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,3,933564,KALITE_KARARSIZ
+405,3. Araştırma verilerini uygun istatistiksel yöntemlerle analiz eder.,PSİ104,İstatistiğe Giriş,Psikoloji,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,2,1158332,BLOOM
+406,İlgili kanun ve yönetmeliği kapsam dahilinde değerlendirir.,SAN212,Kazı Teknikleri ve Yüzey Araştırmaları,Sanat Tarihi,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,4,1158458,BLOOM
+407,Urojinekolojik sorunlardan korunmada ebenin rolünü açıklamak,EBE405,Ürojinekolojide Ebelik Yaklaşımları,Ebelik,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,7,695735,KALITE_KARARSIZ
+408,Tahribatlı deney yöntemleri ile malzeme muayenesini öğrenir.,MMT202,Malzeme Muayenesi,Metalurji,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,958892,KALITE_KARARSIZ
+409,"Ahşapların özellikleri, oluşumları ve türleri hakkında bilgi edinerek, tanıyabilme",EPK207,Ahşap Eser Koruma ve Onarımı,Eser Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,3,1133615,KALITE_KARARSIZ
+410,Rekreasyonun ve aktivitelerinin tanımlanması,TFR309,Rekreasyon Etkinlikleri I,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,5,1064564,CIKTI_DEGIL_ADAY
+411,Adli bulguların tanınması,EPO161,Adli Bilimler ve Olay Yeri Koruma,Özel Güvenlik ve Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,1,915569,CIKTI_DEGIL_ADAY
+412,"Kompresörler, santrifüj kompresörler, aksiyal kompresörler, kompresör kademesinin hız diyagramları, kademe karakteristiklerini sınıflandırır.",AEE4003,Gas Turbines,Otomotiv Mühendisliği (%30 İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1160350,RASTGELE
+413,Geometri,STV101,Matematik,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808650,CIKTI_DEGIL_ADAY
+414,İlgili sistemlerde kullanılacak elektrik kumanda ve otomatik kontrol devrelerini tanır ve bağlantılarını yapar.,MEE4038,Heating Systems Design,Makine Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1160199,BLOOM
+415,Trifaze değişken alan senkron motorunun çalışması ve açık devre karakteristiklerinin ve V-eğrilerinin ölçülmesi,ESM211,Elektromekanik Enerji Dönüşümü,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,3,824860,CIKTI_DEGIL_ADAY
+416,"Dönemin sonunda öğrenciler, Meslekleriyle ilgili İngilizce yazılmış metinleri okuyup anlayabiliyor olacaklardır.",YRM228,Mesleki Yabancı Dil II,Raylı Sistemler Makine Teknolojisi,YENİCE MESLEK YÜKSEKOKULU,Ön Lisans,4,705577,KALITE_KARARSIZ
+417,Mahalli idarelerin mali sorunlarını kavrayabilme,BSY403,Mahalli İdareler,Spor Yöneticiliği,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,7,691731,KALITE_KARARSIZ
+418,Mekanizmaların yüksek verimlilik açısından belirlenmesi,MEE307,Mechanisms,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,5,1160696,CIKTI_DEGIL_ADAY
+419,kültürel sosyalleşme hakkında değerlendirme becerisine sahip olur.,SOS429,Kültür Sosyolojisi,Sosyoloji,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,7,1158661,RASTGELE
+420,"İç mekan tasarımında gürültü denetimi, akustik ve ses yalıtımı hakkında bilgiler edinmek",SMT115,Yapı Fiziği,İç Mekan Tasarımı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808060,KALITE_KARARSIZ
+421,Çevre ve doğa eğitiminin önemini açıklar,SCG255,Okul Öncesi Dönemde Fen ve Matematik,Çocuk Gelişimi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,3,807822,RASTGELE
+422,Mimariye bağlı süsleme çeşitlerini kavrar ve sınıflar.,SAN303,İslam Süsleme ve El Sanatları I,Sanat Tarihi,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,5,1158475,BLOOM
+423,Bölgesel yapı tiplerini analiz edebilir.,SAN420,Kafkaslarda Türk ve İslam Mimarisi,Sanat Tarihi,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,8,1158538,BLOOM
+424,Radyodiagnoz sonuçlarına göre hastalarını fizyoterapi rehabilitasyon programını değiştirir.,FTR222,Fizyoterapide Radyoloji,Fizyoterapi ve Rehabilitasyon,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,4,1157143,RASTGELE
+425,Ruh sağlığı ile beden sağlığı arasındaki ilişkiyi anlar.,FTR137,Psikoloji,Fizyoterapi ve Rehabilitasyon,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,1,1157121,BLOOM
+426,Sinema Tarihindeki uluslararası çapta etkisi olan dönemleri bilir,RTS102,Dünya Sinema Tarihi,"Radyo, Televizyon ve Sinema",SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ,Lisans,2,1156780,RASTGELE
+427,"Reaksiyon stokiyometrisi, sıcaklığı ve basıncı verilen bir reaksiyon sistemi için denge bileşimini belirleyin.",MEE4036,Thermochemical Processes,Makine Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1041966,CIKTI_DEGIL_ADAY
+428,Gebelik öncesinde yeterli ve dengeli beslenmenin önemini bilmek,EBE321,Gebelik Öncesi Sırasında ve Sonrası Fonksiyonel Beslenme,Ebelik,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,5,1134261,RASTGELE
+429,Roma dönemi arkeolojisini tanımlar.,ARC425,Roma Arkeolojisi,Arkeoloji,İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ,Lisans,7,1157632,KALITE_KARARSIZ
+430,Hareketli görüntü tasarım ilkelerini kavrar.,GRT361,Hareketli Görüntü,Grafik Tasarımı,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,5,1133728,BLOOM
+431,Turizm işletmeleri ile ilgili tanımlamaları bilir.,TFI102,Turizm İşletmeciliği,Turizm İşletmeciliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,2,787533,KALITE_KARARSIZ
+432,Fransız Devrimi nde müziği tanımlar.,MZK262,Müzik Tarihi II,Müzik,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,4,1161410,RASTGELE
+433,"PMOS, NMOS, CMOS dijital devreleri bilir.",BMK450,Sayısal Mantık Devreleri,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1039786,KALITE_KARARSIZ
+434,Tasarım sürecinde ergonomi girdilerinin etkisini fark eder,EUT283,Ergonomi,Endüstriyel Tasarım,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,3,786841,BLOOM
+435,Kentin mekânsal örüntülerine eleştirel teorik çerçevede bakabilmek.,MIM4035,Mimarlık-Kent ve Tüketim,Mimarlık,SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ,Lisans,7,1148610,RASTGELE
+436,Koruma ve onarıma ilişkin yasal ve yönetsel boyutu öğrenir.,EPK108,Staj,Eser Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,2,1133604,KALITE_KARARSIZ
+437,İşyerlerinde tutulması gereken kayıtların ne olduğunu bilir ve yapabilir.,EPI102,Endüstriye Dayalı Eğitim (EDE),İş Sağlığı ve Güvenliği,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,2,924571,KALITE_KARARSIZ
+438,İlaçların beklenen etkileri ve yan etkileri arasındaki farkı ayırt edebilmeli,TTP232,Farmakoloji III,Tıbbi Tanıtım ve Pazarlama,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,4,957862,CIKTI_DEGIL_ADAY
+439,Teknik antrenman yaptırmayı bilir,ANT2154,Sporda Teknik Taktik Öğretimi (Seçmeli Teorik II),Antrenörlük Eğitimi,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,4,1056773,RASTGELE
+440,Öğrenciler hedef dile karşı pozitif bir tutum geliştireceklerdir.,YDL183,Yabancı Dil I,Tıbbi Laboratuvar Teknikleri,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957772,KALITE_KARARSIZ
+441,Kolluk Çeşitleri,EPO254,Genel Kollukla İlişkiler ve Entegrasyon,Özel Güvenlik ve Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,4,918570,RASTGELE
+442,Güneş enerjisi ile ilgili temel bilgi yanında uygulamalara genel bir bakış açısı kazanır,ESM328,Güneş Enerjisi Laboratuvarı,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,6,824731,KALITE_KARARSIZ
+443,Restoran yeri ve konsep seçimi konusunda yeterli bilgiye sahip olur.,ASC212,Restoran İşletmeciliği,Aşçılık,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,4,746560,KALITE_KARARSIZ
+444,Paket programları aracılığıyla çizilen parçayı optimize edin.,AEE4016,Computer Aided Vehicle Design,Otomotiv Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1043925,CIKTI_DEGIL_ADAY
+445,"Öğrenciler, çocuk suçluluğu ile ilgili teoriler, suçlu olarak nitelendirilen çocukların hak ve gereksinimleri konusunda bilgi sahibi olur.",SHZ214,Çocuk Suçluluğu ve Sosyal Hizmet,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,4,921561,KALITE_KARARSIZ
+446,İşçi ve işveren hak ve sorumluluklarını analiz edebilir.,TFR423,İş ve Sosyal Güvenlik Hukuku,Rekreasyon Yönetimi,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,7,1064640,BLOOM
+447,Modern imalata yöntemleri ile tasarım yapabilmesi,MEE4010,Modern Manufacturing Methods,Makine Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1160222,CIKTI_DEGIL_ADAY
+448,Protez ve ortez malzemelerinin özelliklerini öğrenmek,OPO134,Malzeme Bilgisi II,Ortopedik Protez ve Ortez,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,957144,KALITE_KARARSIZ
+449,Çeşitli özellikte bilim etkinlikleri tasarlar.,CGE312,Çocuk ve Bilim,Çocuk Gelişimi,SAĞLIK BİLİMLERİ FAKÜLTESİ,Lisans,6,689316,BLOOM
+450,Ahşap üzerine boyama ve ikona resminde uygulama bilgi ve becerisine sahip olur,EPK115,İkona Koruma ve Onarımı,Eser Koruma,ESKİPAZAR MESLEK YÜKSEKOKULU,Ön Lisans,1,1133596,KALITE_KARARSIZ
+451,Tasarım ve üretim arasındaki hazırlık sürecini yönetmeyi.,ESM104,Temel İmalat İşlemleri,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,2,824789,CIKTI_DEGIL_ADAY
+452,Işık etkileri ve izleyicide yarattığı etkiler üzerine öğrencilere bilgi verilecektir.,STV125,Temel Kamera,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,808654,RASTGELE
+453,Türk Halk Edebiyatı türlerini öğrenir,THM232,Türk Halk Edebiyatı II,Türk Halk Müziği,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,4,787206,KALITE_KARARSIZ
+454,"Turizmde ortaya çıkabilecek kriz türlerini, özelliklerini ve turizm endüstrisi üzerine etkilerini açıklayabilir.",TUR262,Turizm Rehberliğinde Kriz Yönetimi,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,4,1157458,RASTGELE
+455,Öğrenciler günlük yaşamda iletişimin ilkelerini analiz eder.,ODT117,İletişim Becerileri,Odyometri,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,961582,BLOOM
+456,"Olimpiyat oyunlarını, günümüzdeki uygulamaları",ANT2111,Olimpizm ve Olimpik Hareket (Seçmeli Teorik I),Antrenörlük Eğitimi,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1136037,CIKTI_DEGIL_ADAY
+457,Kredi sürecini izler ve raporlar,ARY412,Kredi Analizi,Aktüerya ve Risk Yönetimi,İŞLETME FAKÜLTESİ,Lisans,8,681397,BLOOM
+458,"Basit ifadelerle nereli olduğunu, eğitimini, yakın çevresini ve somut ihtiyaçlarını anlatabilmesi",UTI327,Almanca III,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,5,680371,CIKTI_DEGIL_ADAY
+459,"İşletmede uygulanan iş sağlığı ve güvenliği (İSG), hijyen ve sanitasyon kurallarına uygun çalışır.",EGK108,Endüstriye Dayalı Öğretim (Staj),Gıda Kalite Kontrolü ve Analizi,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,2,746637,BLOOM
+460,Mekatronik teknolojisinde önemli yeri olan esnek imalat sistemlerini teorik ve uygulamalı olarak öğretilmesi.,MTM330,Akışkanlar Mekaniği,Mekatronik Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,6,825137,CIKTI_DEGIL_ADAY
+461,"Nerede oturdukları, kimleri tanıdıkları, nelerden hoşlandıkları vb. hakkında konuşabilmesi",UTI217,Rusça I,Uluslararası İşletmecilik,İŞLETME FAKÜLTESİ,Lisans,3,680411,CIKTI_DEGIL_ADAY
+462,İktisat biliminin yöntemi.,BSY108,İktisada Giriş,Spor Yöneticiliği,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,2,691676,RASTGELE
+463,Kil malzeme ile 3 boyutlu figür çalışması yapar.,RES260,Heykel II,Resim,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,4,786639,RASTGELE
+464,"Hücre işleme, algılama ve karakterizasyon için kullanılan mikro sistemlerin işleyişini ve önemini anlar.",BMK459,BiyoMEMS'e Giriş,Biyomedikal Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,7,1162084,KALITE_KARARSIZ
+465,Yugoslavya'nın dağılması süreci ve sonrasında milliyetçiliğin ve etnik sorunların öğrenilmesi,ULU406,Balkanlarda Milliyetçilik ve Etnik Sorunları,Uluslararası İlişkiler,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,8,1135058,CIKTI_DEGIL_ADAY
+466,Yeşil pazarlamanın çevre açısından önemini kavrar.,TFI232,Pazarlamada Yeni Yaklaşımlar,Turizm İşletmeciliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,4,787508,KALITE_KARARSIZ
+467,Çözüm önerileri ve işlem basamaklarının tespitini yapar.,BOG210,Sistem Analizi ve Tasarımı,Oyun Geliştirme ve Programlama,BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU,Ön Lisans,4,1135004,RASTGELE
+468,Temel düzeyde yazılı iletişim yetkinliği kazanır.,YDL183,Yabancı Dil I,Biyomedikal Mühendisliği,MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,1,1162108,KALITE_KARARSIZ
+469,Öğrenciler haber içeriklerini eleştirel bakış açısıyla çözümler.,GZT411,Medya ve Ötekileştirme Pratikleri,Gazetecilik,SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ,Lisans,7,1156904,BLOOM
+470,Basketbol ile ilgili temel konuların öğretimi,AES305,Basketbol,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,5,1136829,CIKTI_DEGIL_ADAY
+471,Her türlü yol ve yük şartlarında taşıt kontrolüne hakim olmak,TOK131,Temel Sürücülük Eğitimi,Otobüs Kaptanlığı,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,1,959898,KALITE_KARARSIZ
+472,"Kardiyovasküler sistem hastalıklarını, tedavi ve tanı seçeneklerini, yaşam değişikliklerini öğrenirler. Hipertansiyon, gelişiminde etkili olan faktörler, hipertansiyondan korunmak için yapılması gerekenler, kan basıncı takibi ve önemi, sınır değerleri, hipertansiyonu olan bireye rehberlik etme becerisi kazanır",OPO211,Damar Hastalıkları,Ortopedik Protez ve Ortez,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,3,957108,BLOOM
+473,"Muhasebenin tanımı, Fonksiyonları, Türleri, Temel Kavramları",TUR115,Genel Muhasebe,Turizm Rehberliği,SAFRANBOLU TURİZM FAKÜLTESİ,Lisans,1,1151664,CIKTI_DEGIL_ADAY
+474,Günlük hayatta enerji harcamasını azaltacak düzenlemeler yapabilir,OYD143,Beden Eğitimi,Otopsi Yardımcılığı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,1,957579,KALITE_KARARSIZ
+475,Kaslarin yapısı ve fonksiyonları hakkında genel bir bilgi sahibidir,DHF112,Anatomi I,Diş Hekimliği,DİŞ HEKİMLİĞİ FAKÜLTESİ,Lisans,,1058589,KALITE_KARARSIZ
+476,Ahşap malzemelerde uygulanan birleştirme çeşitlerini tanımak ve uygulayabilme,SMT142,Dekorasyonda Üretim Teknikleri II,İç Mekan Tasarımı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808049,BLOOM
+477,Öğrenciler sosyal hizmet uygulama alanlarına ilişkin mevzuat bilgisi edinir.,SHZ307,Sosyal Hizmet Mevzuatı,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,5,921572,KALITE_KARARSIZ
+478,Tırnaktaki anatomik bozuklukları görebilme becerisine sahip olurlar,EAA106,Nallama Tekniklerine Giriş,Atçılık ve Antrenörlüğü,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,2,1173895,KALITE_KARARSIZ
+479,CBS yüzey analizleri yapmayı öğrenir.,UTH230,Coğrafi Bilgi Sistemleri ve Yol Modellemesi,Ulaştırma ve Trafik Hizmetleri,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,965606,KALITE_KARARSIZ
+480,"Yerel yönetimin türleri ve işlevleri,",SHZ315,Yerel Yönetimler ve Sosyal Hizmet,Sosyal Hizmet,İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ,Lisans,5,921576,CIKTI_DEGIL_ADAY
+481,Sunucu ve/veya istemci tarafında çalıştırılan bir programı web tabanlı bir dil/teknoloji kullanarak kodlayın.,TMH421,Web Programlama,Tıp Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1041771,CIKTI_DEGIL_ADAY
+482,Dosya yapılarının ihtiyaç duyulan uygulamalarda kullanımı.,CPE104,Programming Languages II,Bilgisayar Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,2,1039945,CIKTI_DEGIL_ADAY
+483,"Elektrik motorlarını, motorlardaki yol verme yöntemlerini, motor bağlantılarını bilir.",ETM202,Temel Elektrik ve Elektronik,Endüstriyel Tasarım Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,4,824589,KALITE_KARARSIZ
+484,Sinemanın toplumsal yaşam içindeki yerine ve önemine dair eleştirel bakış açısı kazanır,STV126,Sinemaya Giriş,Radyo ve Televizyon Programcılığı,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,2,808696,RASTGELE
+485,Gymnospermae ve Angiospermae'ler arasındaki farkları bilir,DKB208,Sulak Alan Ekolojisi ve Yönetimi,Doğa Koruma ve Biyoçeşitlilik Yönetimi,ORMAN FAKÜLTESİ,Lisans,4,1174935,KALITE_KARARSIZ
+486,Etkili sunum bilgisini yapacağı sunumlarda gösterir.,HIT327,Sunum Teknikleri,Halkla İlişkiler ve Tanıtım,İŞLETME FAKÜLTESİ,Lisans,5,681783,RASTGELE
+487,"Gaz yakma cihazlarının elektrik, su, gaz bağlantılarını, Tüm sisteme gerekli akışkanı doldurup kontrolleri ve Montaj sonrası sızdırmazlık testini yaparak test sonucu kaçak tespitinde, kaçak yerini bulup kaçağı giderebilir.",ESM206,Doğalgaz Sistemleri Teknolojisi,Enerji Sistemleri Mühendisliği,TEKNOLOJİ FAKÜLTESİ,Lisans,4,824791,BLOOM
+488,Beden dilini iyi kullanan bir konuşmacının özelliklerini bilir.,OYD156,Sunum Teknikleri,Otopsi Yardımcılığı,SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU,Ön Lisans,2,957596,KALITE_KARARSIZ
+489,Eğitsel oyunlardan kullanılan araç-gereçlerin etkili kullanımı,AEZ405,Eğitsel Oyunlar,Beden Eğitimi ve Spor Öğretmenliği,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,7,691164,CIKTI_DEGIL_ADAY
+490,KOBİ’lerin Türkiye ekonomisindeki önemli rolünün kavrar ve analiz eder,GIR431,KOBİ' lerin Yönetimi,Girişimcilik,İŞLETME FAKÜLTESİ,Lisans,7,681590,BLOOM
+491,İnsanların kendi vücutlarını tanımaları ve bunu sağlıklı bir şekilde nasıl kullanacaklarının öğretilmesi.,EGK116,Beden Eğitimi,Gıda Kalite Kontrolü ve Analizi,EFLANİ MESLEK YÜKSEKOKULU,Ön Lisans,2,746654,CIKTI_DEGIL_ADAY
+492,Endüstriyel tasarım ve markalar hakkında bilgi edinmek,TMA226,Patent ve Endüstriyel Tasarım,Makine,TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU,Ön Lisans,4,959660,BLOOM
+493,Öğrenci genel felsefi yaklaşımları spor eğitimine dahil edebilir.,ANT2125,Sporda Etik Değerler ve Fair-Play Eğitimi (Seçmeli Teorik I),Antrenörlük Eğitimi,HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU,Lisans,3,1056674,RASTGELE
+494,Bazı İslam filozoflarının siyaset görüşleri,FEL424,Siyaset Felsefesi,Felsefe,EDEBİYAT FAKÜLTESİ,Lisans,8,714329,CIKTI_DEGIL_ADAY
+495,Temel yaşam desteği işlemlerini uygular.,SGY115,İlk Yardım,Giyim Üretim Teknolojisi,SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU,Ön Lisans,1,781650,RASTGELE
+496,Konvansiyonel ve yüksek hızlı tren boji çeşitlerinin öğrenilmesi,REN425,Rail Vehicle Design,Raylı Sistemler Mühendisliği (İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,7,1045671,CIKTI_DEGIL_ADAY
+497,"Ritm, armoni işitme, atonal işitme becerileri orta düzeyin üzerine çıkar.",MZK308,Solfej VI / Dikte VI,Müzik,SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ,Lisans,6,1161365,KALITE_KARARSIZ
+498,İşletmenin ve yönetimin gelişimini ve bu alanlardaki gelişmelerin birbirleriyle olan ilişkilerini anlamak.,BSY203,Genel İşletme Bilgisi,Spor Yöneticiliği,HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ,Lisans,3,1137149,KALITE_KARARSIZ
+499,Farklı malzeme türlerini mühendislik problemleri bağlamında karşılaştırır.,E2E281,Electrical Materials,Elektrik - Elektronik Mühendisliği (İngilizce),MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ,Lisans,3,1159701,BLOOM
+500,Bireysel fonksiyonel bölgelerdeki kas-iskelet sistemi yapılarının ayrıntılı bir analizini sağlayın.,BMC322,Kinesiology,Biyomedikal Mühendisliği (%30 İngilizce),MÜHENDİSLİK FAKÜLTESİ,Lisans,6,1039731,CIKTI_DEGIL_ADAY

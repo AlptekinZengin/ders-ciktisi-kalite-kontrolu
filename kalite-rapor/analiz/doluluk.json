@@ -1,0 +1,142 @@
+{
+ "incelenen": 14912,
+ "toplam": 14912,
+ "tamamen_bos": 792,
+ "ciktisiz": 1210,
+ "hocasiz": 2478,
+ "konusuz": 1000,
+ "ciktisiz_lisans_yuzde": 8.42869342442357,
+ "ciktisiz_onlisans_yuzde": 6.964397251717677,
+ "birim_ciktisiz": [
+  [
+   "REKTÖRLÜK",
+   46.71814671814672,
+   259
+  ],
+  [
+   "İLAHİYAT FAKÜLTESİ",
+   32.41379310344828,
+   145
+  ],
+  [
+   "ORMAN FAKÜLTESİ",
+   28.94736842105263,
+   228
+  ],
+  [
+   "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+   18.772563176895307,
+   831
+  ],
+  [
+   "MÜHENDİSLİK FAKÜLTESİ",
+   12.560153994225217,
+   2078
+  ],
+  [
+   "EDEBİYAT FAKÜLTESİ",
+   12.208760484622553,
+   1073
+  ],
+  [
+   "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+   11.698880976602238,
+   983
+  ],
+  [
+   "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+   9.84251968503937,
+   254
+  ],
+  [
+   "İŞLETME FAKÜLTESİ",
+   9.47109471094711,
+   813
+  ],
+  [
+   "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+   7.0588235294117645,
+   340
+  ],
+  [
+   "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+   6.545454545454546,
+   275
+  ],
+  [
+   "SAFRANBOLU TURİZM FAKÜLTESİ",
+   5.938242280285036,
+   421
+  ],
+  [
+   "ESKİPAZAR MESLEK YÜKSEKOKULU",
+   5.649717514124294,
+   354
+  ],
+  [
+   "EFLANİ MESLEK YÜKSEKOKULU",
+   3.3175355450236967,
+   211
+  ],
+  [
+   "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+   3.2822757111597376,
+   457
+  ],
+  [
+   "SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ",
+   3.1746031746031744,
+   126
+  ],
+  [
+   "HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ",
+   2.4916943521594686,
+   602
+  ],
+  [
+   "SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ",
+   2.446043165467626,
+   695
+  ],
+  [
+   "HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU",
+   2.159468438538206,
+   602
+  ],
+  [
+   "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+   2.0110957004160888,
+   1442
+  ],
+  [
+   "SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU",
+   1.4905149051490514,
+   738
+  ],
+  [
+   "FEN FAKÜLTESİ",
+   0.9900990099009901,
+   202
+  ],
+  [
+   "YENİCE MESLEK YÜKSEKOKULU",
+   0.6289308176100629,
+   159
+  ],
+  [
+   "SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ",
+   0.5952380952380952,
+   168
+  ],
+  [
+   "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+   0.5084745762711864,
+   590
+  ],
+  [
+   "TEKNOLOJİ FAKÜLTESİ",
+   0.15723270440251572,
+   636
+  ]
+ ]
+}

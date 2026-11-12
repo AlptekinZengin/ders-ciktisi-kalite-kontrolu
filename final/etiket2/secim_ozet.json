@@ -1,0 +1,34 @@
+{
+ "ham_satir": 70396,
+ "havuz_buyuklugu": 32079,
+ "secilen_toplam": 500,
+ "grup_sayilari": {
+  "RASTGELE": 100,
+  "CIKTI_DEGIL_ADAY": 150,
+  "KALITE_KARARSIZ": 150,
+  "BLOOM": 100
+ },
+ "bloom_alt_gruplar": {
+  "belirsiz_fark": 50,
+  "ust_duzey_rastgele": 50
+ },
+ "eksik_tamamlanan_KALITE_KARARSIZ": 0,
+ "farkli_program": 125,
+ "farkli_ders_id": 498,
+ "en_cok_cumle_olan_program": 8,
+ "seviye_dagilimi": {
+  "Lisans": 354,
+  "Ön Lisans": 146
+ },
+ "kural_sonucu_dagilimi": {
+  "DUZGUN": 198,
+  "CIKTI_DEGIL": 157,
+  "BELIRSIZ": 145
+ },
+ "kalite_modeli_tahmin_dagilimi": {
+  "DUZGUN": 359,
+  "BELIRSIZ": 138,
+  "CIKTI_DEGIL": 3
+ },
+ "not": "RASTGELE grubu kısıtsızdır ama seçimi ders/program sayaçlarına işlenir; sonraki gruplar kalan kotayla sınırlıdır."
+}

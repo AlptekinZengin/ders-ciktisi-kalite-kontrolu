@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<title>Proje Anlatımı</title>
+<style>
+  @page { size: A4; margin: 18mm 17mm 18mm 17mm; }
+  :root { --ink:#1d2433; --soft:#5a6475; --accent:#2f6fdb; --accent2:#e8f0fd; --warn:#c2410c; --warnbg:#fff1e8; --ok:#15803d; --okbg:#e9f8ef; --line:#d9dee7; }
+  body { font-family: "Segoe UI", Calibri, Arial, sans-serif; color:var(--ink); font-size:11pt; line-height:1.55; background:#fff; margin:0; }
+  h1 { font-size:22pt; margin:0 0 4px; color:var(--accent); }
+  .sub { color:var(--soft); margin-bottom:18px; }
+  h2 { font-size:14.5pt; margin:22px 0 8px; padding-bottom:4px; border-bottom:2px solid var(--accent2); page-break-after:avoid; }
+  h3 { font-size:12pt; margin:14px 0 6px; page-break-after:avoid; }
+  p { margin:6px 0 8px; }
+  .box { border-radius:8px; padding:10px 14px; margin:10px 0; page-break-inside:avoid; }
+  .info { background:var(--accent2); border-left:4px solid var(--accent); }
+  .warn { background:var(--warnbg); border-left:4px solid var(--warn); }
+  .good { background:var(--okbg); border-left:4px solid var(--ok); }
+  .ex { font-family: Georgia, serif; font-style:italic; }
+  table { width:100%; border-collapse:collapse; margin:8px 0 12px; font-size:10pt; page-break-inside:avoid; }
+  th, td { border:1px solid var(--line); padding:6px 8px; text-align:left; vertical-align:top; }
+  th { background:#f3f5f9; }
+  .tag { display:inline-block; padding:1px 8px; border-radius:10px; font-size:9pt; font-weight:600; }
+  .t-ok { background:var(--okbg); color:var(--ok); }
+  .t-bel { background:#fff7d6; color:#92400e; }
+  .t-no { background:#fde8e8; color:#b91c1c; }
+  .stairs { display:flex; align-items:flex-end; gap:4px; margin:10px 0 4px; page-break-inside:avoid; }
+  .step { flex:1; background:var(--accent); color:#fff; border-radius:6px 6px 0 0; padding:6px 5px; font-size:9pt; text-align:center; }
+  .step b { display:block; font-size:10pt; }
+  .flow { display:flex; gap:6px; align-items:stretch; margin:10px 0; page-break-inside:avoid; }
+  .flow div { flex:1; border:1.5px solid var(--accent); border-radius:8px; padding:7px; font-size:9.5pt; text-align:center; }
+  .flow .arrow { flex:0 0 14px; border:none; padding:0; align-self:center; color:var(--accent); font-weight:700; }
+  ul { margin:4px 0 8px 20px; padding:0; }
+  li { margin:3px 0; }
+  .small { font-size:9.5pt; color:var(--soft); }
+  .pb { page-break-before:always; }
+</style>
+</head>
+<body>
+
+<h1>Bu projede ne yapıyoruz?</h1>
+<div class="sub">Yapay Zekâ dersi vize projesi · Liseli birine anlatır gibi · 9 Kasım 2026</div>
+
+<div class="box info">
+<b>Tek cümleyle:</b> Üniversitelerde her dersin "bu dersi bitiren öğrenci şunları yapabilir" diye yazılmış cümleleri var. Bu cümlelerin bir kısmı kötü yazılmış. Biz, binlerce cümleyi tek tek okuyup hangilerinin kötü olduğunu ve iyi olanların ne kadar "zor" bir beceri istediğini söyleyen bir yapay zekâ kuruyoruz.
+</div>
+
+<h2>1. Önce temel kavram: "öğrenme çıktısı" ne demek?</h2>
+<p>Bir üniversitedeki her dersin resmi bir tanıtım sayfası var. Bu sayfada derste hangi konuların işlendiği, kaç kredi olduğu gibi bilgiler yazıyor. En önemli kısımlardan biri de <b>öğrenme çıktıları</b>: dersi geçen bir öğrencinin dönem sonunda neyi <i>yapabilir</i> hâle geleceğini anlatan 4-8 kısa cümle.</p>
+<p>Bir benzetme: Ehliyet kursu düşün. "Öğrenci trafik kuralları hakkında bilgi sahibi olur" demek yerine "Öğrenci aracı geri geri park eder" demek çok daha net. İkincisini sınavda kontrol edebilirsin: ya park eder ya etmez. Birincisini nasıl ölçeceğin belli değil.</p>
+<p>İşte öğrenme çıktıları da tam böyle olmalı: <b>ölçülebilir bir eylem</b> içermeli.</p>
+
+<h2>2. Sorun: Cümlelerin bir kısmı kötü yazılmış</h2>
+<p>Karabük Üniversitesi'nin sitesinden topladığımız gerçek cümlelere baktığımızda üç türlü cümle görüyoruz:</p>
+<table>
+<tr><th style="width:20%">Tür</th><th style="width:45%">Gerçek örnek (Karabük'ten)</th><th>Neden böyle?</th></tr>
+<tr><td><span class="tag t-ok">Düzgün</span></td><td class="ex">"Farklı görüntüleme modalitelerinin klinik uygulamalardaki kullanım alanlarını karşılaştırır."</td><td>Ne yapılacağı belli: karşılaştırmak. Sınavda sorulabilir.</td></tr>
+<tr><td><span class="tag t-bel">Belirsiz</span></td><td class="ex">"Yakın dönem Türkiye tarihi hakkında bilgi sahibi olur."</td><td>"Bilgi sahibi olmak" ölçülemez. Ne kadar bilgi? Neyi yapabilecek?</td></tr>
+<tr><td><span class="tag t-no">Çıktı değil</span></td><td class="ex">"SQL deyimleri", "Anten kurma", "Bunları uygulayabilme."</td><td>Bunlar cümle bile değil; bir konu başlığı ya da yarım kalmış ifade.</td></tr>
+</table>
+<p>Daha ilginç sorunlar da çıktı. Bir derste beş çıktının beşi de birebir aynı cümle: <span class="ex">"Sosyolojinin temel kavramlarının sporla ilişkisi ve görünümlerinin öğrenilmesi."</span> Birisi muhtemelen kopyala-yapıştır yapıp düzeltmeyi unutmuş.</p>
+
+<div class="box warn">
+<b>Neden önemli?</b> Üniversiteler düzenli olarak denetleniyor. Türkiye'de bu işi <b>YÖKAK</b> (Yükseköğretim Kalite Kurulu) yapıyor; mühendislik bölümleri için <b>MÜDEK</b> diye ayrı bir kurum var. Denetçiler bu cümlelere bakıyor ve "öğrencinin bunu öğrendiğini nasıl ölçüyorsunuz?" diye soruyor. Cümle kötüyse cevap da yok. Bir üniversitede binlerce ders, on binlerce cümle var. Bunları elle tek tek okumak haftalar sürer.
+</div>
+
+<h2>3. İkinci soru: Cümle ne kadar "zor" bir şey istiyor?</h2>
+<p>Eğitimciler 1950'lerden beri öğrenmeyi basamaklara ayırıyor. Buna <b>Bloom taksonomisi</b> deniyor (Benjamin Bloom'un adından). 2001'de güncellenmiş hâli şöyle bir merdiven:</p>
+<div class="stairs">
+  <div class="step" style="height:40px;background:#8fb1ec"><b>1. Hatırlama</b>tanımlar, sayar</div>
+  <div class="step" style="height:58px;background:#77a0e7"><b>2. Anlama</b>açıklar, özetler</div>
+  <div class="step" style="height:76px;background:#5f8fe2"><b>3. Uygulama</b>hesaplar, kullanır</div>
+  <div class="step" style="height:94px;background:#477edd"><b>4. Analiz</b>karşılaştırır, ayırt eder</div>
+  <div class="step" style="height:112px;background:#2f6fdb"><b>5. Değerlendirme</b>eleştirir, karar verir</div>
+  <div class="step" style="height:130px;background:#1f55b3"><b>6. Yaratma</b>tasarlar, geliştirir</div>
+</div>
+<p class="small">Aşağıdan yukarı çıktıkça beceri zorlaşıyor. Fiil, cümlenin hangi basamakta olduğunun en büyük ipucu.</p>
+<p>Lise örneğiyle: "Newton'un yasalarını sayar" <b>hatırlama</b>. "Bir topun düşme süresini hesaplar" <b>uygulama</b>. "Yeni bir deney tasarlar" <b>yaratma</b>.</p>
+<p>Bu neden önemli? Bir mühendislik programının bütün dersleri sadece "tanımlar, sayar" diyorsa, o program öğrenciye problem çözmeyi öğretmiyor demektir. Basamak dağılımına bakarak hangi programın dengesiz olduğunu görebiliriz.</p>
+
+<h2>4. Yapay zekâ ne yapacak?</h2>
+<p>Her cümle için iki soruya cevap verecek:</p>
+<div class="flow">
+  <div><b>Cümle</b><br>"Döküm için uygun kalıp malzemesini seçer."</div>
+  <div class="arrow">→</div>
+  <div><b>Soru 1</b><br>Düzgün mü, belirsiz mi, çıktı değil mi?<br><span class="tag t-ok">Düzgün</span></div>
+  <div class="arrow">→</div>
+  <div><b>Soru 2</b> (düzgünse)<br>Bloom'un hangi basamağı?<br><b>Değerlendirme</b></div>
+  <div class="arrow">→</div>
+  <div><b>Sonuç</b><br>Program raporu: "Şu derslerin cümleleri düzeltilmeli"</div>
+</div>
+<p>Sıra önemli: belirsiz bir cümlenin basamağını sormak anlamsız. "Bilgi sahibi olur" cümlesi hangi basamakta? Hiçbirinde. O yüzden önce kaliteye, sonra basamağa bakıyoruz.</p>
+
+<h2>5. Veriyi nereden ve neden topluyoruz?</h2>
+<h3>Nereden?</h3>
+<p>Her üniversite, Avrupa'daki ortak sistem (Bologna süreci) gereği derslerinin bilgilerini herkese açık bir sitede yayımlamak zorunda. Buna <b>Bilgi Paketi</b> deniyor. Karabük Üniversitesi'nin bilgi paketinde 170 program (108 lisans, 62 ön lisans) ve toplam 14.912 ders sayfası var.</p>
+<h3>Nasıl?</h3>
+<p>Bir program yazdım; sırayla ders sayfalarını açıp "öğrenme çıktıları" tablosunu okuyor ve bir tabloya (CSV dosyası) kaydediyor. Her satırda üniversite, fakülte, program, ders kodu, ders adı, yarıyıl, çıktının sırası ve cümlenin kendisi var.</p>
+<div class="box info">
+<b>Siteyi yormamak için:</b> Önce sitenin kullanım şartlarına baktık; tarama yasaklayan bir kural bulamadık. Yine de program her sayfa arasında 2-3 saniye bekliyor, yani bir insanın gezinmesi kadar yavaş. Bu yüzden hepsini toplamak yaklaşık 11 saat sürüyor, gece boyunca çalışıyor.
+</div>
+<h3>Neden bu kadar çok?</h3>
+<ul>
+<li><b>Vize raporu için:</b> Rubrikte "veri seti ve ön analiz" 25 puan. Kaç cümle, ne kadarı sorunlu, hangi fiiller sık, programlar arasında fark var mı; bunları gerçek veriyle göstermemiz lazım.</li>
+<li><b>Final için:</b> Projenin asıl sözü "bütün üniversiteyi tarayıp düzeltilecek dersleri gösteriyorum". Bunun için bütün cümleler gerekiyor.</li>
+<li><b>Karşılaştırma için:</b> Bu konudaki en yakın Türkçe çalışma yaklaşık 38 bin cümle kullanmış. Bizde de bir üniversitenin tamamı olursa geride kalmayız.</li>
+</ul>
+<p><b>Dürüst not:</b> Modeli eğitmek için bütün cümleler gerekmiyor. Eğitimde sadece etiketlenmiş cümleler kullanılıyor (bir sonraki bölüm). Toplanan cümlelerin çoğu analiz ve son rapor için.</p>
+<p class="small">Şu ana kadar (9 Kasım akşamı) yaklaşık 2.200 cümle, 441 ders, 120 programdan veri geldi. Dersler karışık sırayla toplandığı için bu ilk kısım bile bütün üniversiteden bir örnek gibi davranıyor. Raporda tam sayılar kullanılacak.</p>
+
+<h2>6. Etiketleme: Yapay zekâya "doğru cevabı" öğretmek</h2>
+<p>Bir yapay zekâ modeli, öğretmenin işaretlediği örneklerden öğrenir. Tıpkı çözümlü soru bankası gibi: "Bu cümle belirsiz, şu cümle uygulama basamağında" diye işaretlenmiş örnekleri görür, sonra yeni cümlelerde aynı kararı vermeye çalışır.</p>
+<p>Bunun için şöyle bir yol izliyoruz:</p>
+<ol>
+<li><b>Kural rehberi:</b> Önce yazılı bir rehber hazırlanıyor: hangi cümle "belirsiz" sayılır, hangi fiil hangi basamağa girer, kararsız kalınca ne yapılır. Herkes aynı kurala göre karar versin diye.</li>
+<li><b>300 cümle seçiliyor:</b> Toplanan veriden, farklı programlardan karışık olarak 300 cümle.</li>
+<li><b>Yapay zekâ ilk tahmini yapıyor:</b> 3 yardımcı yapay zekâ (Claude Sonnet) rehbere bakarak her cümleye ilk tahmini yazıyor.</li>
+<li><b>Son kararı ben veriyorum:</b> Tahminleri tek tek kontrol edip onaylıyor ya da düzeltiyorum. Tabloda "model tahmini" ve "benim kararım" ayrı sütunlarda duruyor; hangisinin kimden geldiği hep belli.</li>
+</ol>
+<div class="box good">Neden son kararı insan veriyor? Çünkü modeli sınayacağımız "doğru cevap anahtarı" bu olacak. Cevap anahtarını da yapay zekâ yazarsa, yapay zekâyı kendi cevaplarıyla sınamış oluruz; bu hile olur.</div>
+
+<h2>7. Başkaları bu konuda ne yapmış?</h2>
+<p>Bir araştırmanın değeri, daha önce yapılmamış bir şey yapmasından gelir. Bu yüzden önce ne yapılmış diye baktık. 22 kaynak bulduk ve her birini açıp gerçekten var olduğunu kontrol ettik.</p>
+<table>
+<tr><th style="width:30%">Ne yapılmış</th><th>Ne öğrendik</th></tr>
+<tr><td>İngilizce cümleleri Bloom basamağına ayıran modeller</td><td>Çok çalışma var. Örneğin 21 binden fazla İngilizce çıktıyla yapılan bir çalışmada başarı oldukça yüksek. Ama hiçbirinde "bu cümle kötü yazılmış" seçeneği yok; her cümlenin bir basamağı olduğunu varsayıyorlar.</td></tr>
+<tr><td>Türkiye'de elle yapılan incelemeler</td><td>Birkaç araştırmacı çıktıları elle okumuş. Birinde 324 cümlenin %54'ü kötü yazılmış çıkmış. Bizim yaptığımızın elle yapılmış hâli; demek ki sorun gerçek.</td></tr>
+<tr><td>Açar (2024), Harran Üniversitesi</td><td>En yakın çalışma. Türkçe çıktıları derin öğrenmeyle Bloom basamağına ayırmış, yaklaşık %90 doğruluk elde etmiş. Ama cümlenin kötü yazılıp yazılmadığına bakmıyor.</td></tr>
+</table>
+<div class="box info"><b>Bizim farkımız (literatür boşluğu):</b> Bulabildiğimiz kadarıyla, Türkçe çıktılarda <b>önce yazım kalitesini kontrol eden</b>, sonra basamağı belirleyen ve bunu <b>bütün bir üniversitenin programlarına uygulayıp düzeltilecek dersleri listeleyen</b> bir çalışma yok.</div>
+<p class="small">"Bulabildiğimiz kadarıyla" diyoruz, çünkü bazı Türk veri tabanları (DergiPark, YÖK Tez) otomatik aramaya izin vermedi; Google Akademik'te elle de baktık.</p>
+
+<h2>8. Finalde ne yapacağız?</h2>
+<p>Vize sadece bir rapor; finalde modelin gerçekten çalıştığını göstereceğiz. Dört adımda, basitten karmaşığa gidiyoruz. Her adım bir öncekini geçebiliyor mu diye bakıyoruz:</p>
+<table>
+<tr><th style="width:28%">Adım</th><th>Basitçe nasıl çalışır</th></tr>
+<tr><td>1. Kural tabanlı yöntem</td><td>Bir fiil listesi: "hesaplar" görürse uygulama, "bilgi sahibi olur" görürse belirsiz der. Yapay zekâ bile değil; diğerlerini kıyaslayacağımız çıta.</td></tr>
+<tr><td>2. Klasik makine öğrenmesi</td><td>Cümledeki kelimeleri sayıp etiketli örneklerden kalıp çıkarır. Hızlı, bilgisayarda saniyeler sürer.</td></tr>
+<tr><td>3. Türkçe dil modeli (BERTurk)</td><td>Milyonlarca Türkçe metinle önceden eğitilmiş bir model. Kelimelerin anlamını ve bağlamını anlıyor. Bizim örneklerle ince ayar yapacağız. Bilgisayarımdaki ekran kartı (RTX 4060) buna yetiyor.</td></tr>
+<tr><td>4. Büyük dil modeli (isteğe bağlı)</td><td>ChatGPT, Claude gibi bir modele rehberi verip doğrudan soracağız. Eğitim gerektirmiyor ama yavaş ve ücretli.</td></tr>
+</table>
+<h3>Başarıyı nasıl ölçeceğiz?</h3>
+<p>Sadece "yüzde kaç doğru?" yetmez. Diyelim cümlelerin %80'i düzgün. Her cümleye "düzgün" diyen tembel bir model de %80 doğruluk alır ama hiçbir işe yaramaz. Bu yüzden her sınıf için ayrı ayrı başarıya bakıp ortalamasını alacağız (buna <b>macro-F1</b> deniyor). Ayrıca modelin en çok neyi neyle karıştırdığını gösteren bir tablo çıkaracağız (<b>karışıklık tablosu</b>). Mesela "değerlendirme" ile "analiz"i sık karıştırıyorsa onu görürüz.</p>
+
+<h2>9. Şu an neredeyiz?</h2>
+<table>
+<tr><th>İş</th><th>Durum</th></tr>
+<tr><td>Konu ve plan</td><td><span class="tag t-ok">Bitti</span></td></tr>
+<tr><td>Literatür taraması (22 kaynak + Açar 2024)</td><td><span class="tag t-ok">Bitti</span></td></tr>
+<tr><td>Veri toplama (14.912 ders)</td><td><span class="tag t-bel">Sürüyor, gece bitecek</span></td></tr>
+<tr><td>Kural rehberi ve 300 cümlenin ilk tahmini</td><td><span class="tag t-bel">6.000 cümle birikince başlayacak</span></td></tr>
+<tr><td>Benim kontrolüm (300 cümle)</td><td>Sıradaki</td></tr>
+<tr><td>Ön analiz ve grafikler</td><td>Sıradaki</td></tr>
+<tr><td>Raporu yazma (Word + PDF, ~12 sayfa)</td><td>Sıradaki · teslim 12 Kasım</td></tr>
+</table>
+
+<h2>Küçük sözlük</h2>
+<table>
+<tr><td style="width:28%"><b>Öğrenme çıktısı</b></td><td>Dersi bitiren öğrencinin yapabileceği şeyi anlatan cümle.</td></tr>
+<tr><td><b>Bloom taksonomisi</b></td><td>Öğrenmeyi hatırlamadan yaratmaya altı basamağa ayıran sınıflama.</td></tr>
+<tr><td><b>YÖKAK / MÜDEK</b></td><td>Üniversitelerin kalitesini denetleyen kurumlar (genel / mühendislik).</td></tr>
+<tr><td><b>Bilgi Paketi</b></td><td>Üniversitenin bütün ders bilgilerini yayımladığı açık site.</td></tr>
+<tr><td><b>Etiket</b></td><td>Bir örneğe verilen doğru cevap ("belirsiz", "uygulama" gibi).</td></tr>
+<tr><td><b>Model</b></td><td>Örneklerden öğrenip yeni örneklere karar veren program.</td></tr>
+<tr><td><b>Literatür boşluğu</b></td><td>Daha önce kimsenin yapmadığı, bizim dolduracağımız kısım.</td></tr>
+<tr><td><b>Macro-F1</b></td><td>Her sınıftaki başarının ortalaması; az görülen sınıfları da hesaba katar.</td></tr>
+</table>
+
+</body>
+</html>

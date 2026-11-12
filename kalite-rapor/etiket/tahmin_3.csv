@@ -1,0 +1,101 @@
+no,kalite,bloom,guven,gerekce
+201,DUZGUN,UYGULAMA,orta,"Fiil: okur, yöntemi çalıştırma; HATIRLAMA da olabilir"
+202,DUZGUN,ANALIZ,yuksek,Fiil: karşılaştırır (Karar 2)
+203,DUZGUN,HATIRLAMA,orta,"Fiil: tarar (yazım), bilgi bulma; UYGULAMA adayı"
+204,CIKTI_DEGIL,,yuksek,"Önemi ile biten isim öbeği, eylem yok"
+205,DUZGUN,ANALIZ,yuksek,Fiil: inceler
+206,DUZGUN,ANALIZ,orta,"inceler ölçülebilir; farkındalık geliştirir yok sayıldı"
+207,BELIRSIZ,,yuksek,kavrayabilme ölçülemez fiil
+208,DUZGUN,ANLAMA,yuksek,Fiil: sınıflandırır
+209,DUZGUN,UYGULAMA,orta,Fiil: hazırlar; kalıp izleme varsayıldı
+210,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+211,DUZGUN,ANLAMA,orta,Fiil: çevirir
+212,DUZGUN,YARATMA,yuksek,"Fiil: geliştirebilir, tasarlayabilir"
+213,BELIRSIZ,,orta,Beceri geliştirir; ölçülemez
+214,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilir
+215,DUZGUN,ANLAMA,orta,"açıklar, tartışır; konuyu anlatma"
+216,DUZGUN,UYGULAMA,yuksek,Fiil: işlem yapar
+217,DUZGUN,UYGULAMA,orta,-mek ile biten nesneli; Fiil: kurmak
+218,DUZGUN,UYGULAMA,orta,Fiil: cümle kurar
+219,DUZGUN,YARATMA,orta,"kullanır, çözüm geliştirir; UYGULAMA adayı"
+220,DUZGUN,UYGULAMA,orta,"bilir yok sayıldı, uygular (Karar 6)"
+221,BELIRSIZ,,yuksek,hakimiyet sağlar ölçülemez
+222,DUZGUN,HATIRLAMA,orta,-me ile biten; Fiil: tanımlar
+223,DUZGUN,YARATMA,yuksek,Fiil: tasarımını yapar
+224,BELIRSIZ,,yuksek,bilir ölçülemez
+225,DUZGUN,ANLAMA,dusuk,"gözden geçirir; emin değilim, BELIRSIZ adayı"
+226,BELIRSIZ,,yuksek,anlayabilme ölçülemez
+227,DUZGUN,YARATMA,orta,Fiil: planlayabilir
+228,DUZGUN,YARATMA,orta,"Beceri kazanır ama oluşturma ölçülebilir"
+229,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+230,BELIRSIZ,,yuksek,kavrar ölçülemez
+231,DUZGUN,UYGULAMA,yuksek,Fiil: denklemleri çözer
+232,BELIRSIZ,,yuksek,bilir ölçülemez
+233,DUZGUN,ANLAMA,yuksek,Fiil: ifade edebilir
+234,DUZGUN,ANLAMA,orta,tartışabilir; konuyu anlatma
+235,DUZGUN,HATIRLAMA,orta,-me ile biten; Fiil: tanımlar
+236,DUZGUN,UYGULAMA,orta,"hesap ve seçim yapar; ölçütsüz"
+237,DUZGUN,ANALIZ,orta,"öğrenme yok sayıldı; tespit eder, neden"
+238,DUZGUN,UYGULAMA,yuksek,Fiil: problemleri çözer
+239,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilecek
+240,DUZGUN,UYGULAMA,orta,"Fiil: gösterir; ANLAMA adayı"
+241,BELIRSIZ,,yuksek,bilir ölçülemez
+242,DUZGUN,UYGULAMA,orta,"kullanarak oluşturur; kalıp, özgün değil"
+243,DUZGUN,ANALIZ,orta,Fiil: öğeleri tespit eder
+244,DUZGUN,DEGERLENDIRME,orta,"farkındalık yok sayıldı; Fiil: değerlendirir"
+245,DUZGUN,DEGERLENDIRME,orta,-me ile biten; Fiil: değerlendirir
+246,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+247,DUZGUN,HATIRLAMA,yuksek,Fiil: listeler
+248,DUZGUN,ANALIZ,yuksek,anlayıp analiz eder; en yüksek
+249,DUZGUN,ANLAMA,orta,-mek ile biten; Fiil: ifade eder
+250,BELIRSIZ,,yuksek,bilir ölçülemez
+251,DUZGUN,UYGULAMA,orta,Fiil: uygular; nesne kavramsal
+252,DUZGUN,HATIRLAMA,yuksek,Fiil: tanır
+253,DUZGUN,BILISSEL_DEGIL,orta,"Montaj yapar, el becerisi"
+254,BELIRSIZ,,yuksek,öğrenir ölçülemez
+255,BELIRSIZ,,yuksek,öğrenir ölçülemez
+256,BELIRSIZ,,dusuk,"katkıda bulunur; emin değilim, DUZGUN UYGULAMA adayı"
+257,DUZGUN,UYGULAMA,orta,"öğrenir yok sayıldı; müziğinde kullanır"
+258,BELIRSIZ,,yuksek,deneyime sahip olabilme ölçülemez
+259,CIKTI_DEGIL,,yuksek,"İsim öbeği, eylem yok"
+260,BELIRSIZ,,yuksek,yetenekleri gelişecektir ölçülemez
+261,BELIRSIZ,,yuksek,bilir ölçülemez
+262,DUZGUN,ANALIZ,yuksek,Fiil: karşılaştırır
+263,CIKTI_DEGIL,,dusuk,"Geliştirilmesi isim öbeği; emin değilim, DUZGUN YARATMA adayı"
+264,BELIRSIZ,,orta,Beceri geliştirme ölçülemez
+265,DUZGUN,HATIRLAMA,yuksek,Fiil: listeler
+266,DUZGUN,ANALIZ,yuksek,Fiil: karşılaştırabilirler
+267,DUZGUN,UYGULAMA,yuksek,Fiil: uygulayabilecektir
+268,DUZGUN,ANLAMA,orta,Fiil: ayırt eder
+269,BELIRSIZ,,yuksek,kavrar ölçülemez
+270,CIKTI_DEGIL,,yuksek,"İsim öbeği, eylem yok"
+271,DUZGUN,UYGULAMA,yuksek,Fiil: denklemleri kurar
+272,DUZGUN,ANLAMA,orta,-me ile biten; Fiil: açıklar
+273,DUZGUN,YARATMA,yuksek,Fiil: sentezler
+274,DUZGUN,UYGULAMA,orta,Fiil: araştırma yapar; genel
+275,BELIRSIZ,,yuksek,bilir ölçülemez
+276,DUZGUN,UYGULAMA,orta,"anlama yok sayıldı; kurma, -ma ile biten"
+277,BELIRSIZ,,yuksek,bilir ölçülemez
+278,BELIRSIZ,,yuksek,bilgiler edinir ölçülemez
+279,DUZGUN,ANLAMA,yuksek,Fiil: anlatabilirler
+280,DUZGUN,UYGULAMA,orta,-me ile biten; Fiil: kod yazma
+281,BELIRSIZ,,yuksek,öğrenir ölçülemez
+282,DUZGUN,UYGULAMA,orta,Fiil: analizleri yapar; araç kullanımı
+283,DUZGUN,YARATMA,orta,Fiil: entegre edebilecek; sentez
+284,DUZGUN,ANLAMA,orta,-mek ile biten; Fiil: tartışmak
+285,DUZGUN,ANALIZ,yuksek,Fiil: analiz edebilir
+286,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+287,DUZGUN,DEGERLENDIRME,yuksek,Fiil: değerlendirir
+288,DUZGUN,ANALIZ,orta,"analiz ederek yorum yapabilme; DEGERLENDIRME adayı"
+289,BELIRSIZ,,yuksek,Bilme ölçülemez
+290,DUZGUN,DEGERLENDIRME,orta,"kavrar yok sayıldı; değerlendirmelerde bulunur"
+291,BELIRSIZ,,yuksek,bilgi sahibi olur ölçülemez
+292,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+293,DUZGUN,UYGULAMA,orta,Fiil: kullanır; araç
+294,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+295,BELIRSIZ,,yuksek,öğrenilir edilgen belirsiz fiil
+296,BELIRSIZ,,yuksek,kavramak ölçülemez
+297,BELIRSIZ,,yuksek,anlamak ölçülemez
+298,BELIRSIZ,,yuksek,kavrar ölçülemez
+299,DUZGUN,ANLAMA,orta,Fiil: ifade eder
+300,DUZGUN,HATIRLAMA,yuksek,Fiil: ezberler (rehber 300)

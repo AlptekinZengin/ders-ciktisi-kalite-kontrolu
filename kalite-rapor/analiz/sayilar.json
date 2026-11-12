@@ -1,0 +1,342 @@
+{
+ "toplanan_ders": 14912,
+ "bos_ders": 1210,
+ "cumle": 69186,
+ "ders_ciktili": 13702,
+ "program_birimi": 168,
+ "program_adi": 135,
+ "birim": 29,
+ "seviye_cumle": {
+  "Lisans": 54516,
+  "Ön Lisans": 14670
+ },
+ "ingilizce": 214,
+ "ders_basina_cikti_ort": 5.05,
+ "ders_basina_cikti_medyan": 5,
+ "ders_basina_cikti_min_max": [
+  1,
+  34
+ ],
+ "kelime_ort": 8.1,
+ "kelime_medyan": 7,
+ "kelime_3_ve_alti": 4271,
+ "benzersiz_cumle": 32348,
+ "tekrarli_cumle_satiri": 49860,
+ "ders_ici_tekrar_satiri": 458,
+ "ders_ici_tekrarli_ders": 265,
+ "en_sik_tekrar": [
+  [
+   "öğrenciler hedef dile karşı pozitif bir tutum geliştireceklerdir",
+   246
+  ],
+  [
+   "türk dış politikasının temel nitelikleri hakkında fikir sahibi olur",
+   163
+  ],
+  [
+   "yakın dönem türkiye tarihi hakkında bilgi sahibi olur",
+   163
+  ],
+  [
+   "güncel gelişmeleri geçmişin koşullarıyla karşılaştırarak değerlendirir",
+   163
+  ],
+  [
+   "türk i̇nkılâbı nın önemini kavrar",
+   162
+  ]
+ ],
+ "en_sik_son_kelime": [
+  [
+   "açıklar",
+   3935
+  ],
+  [
+   "bilir",
+   3320
+  ],
+  [
+   "eder",
+   2712
+  ],
+  [
+   "öğrenir",
+   2617
+  ],
+  [
+   "olur",
+   2604
+  ],
+  [
+   "kavrar",
+   2471
+  ],
+  [
+   "uygular",
+   2426
+  ],
+  [
+   "yapar",
+   2232
+  ],
+  [
+   "tanımlar",
+   2056
+  ],
+  [
+   "tanır",
+   1615
+  ],
+  [
+   "kullanır",
+   1614
+  ],
+  [
+   "kazanır",
+   1446
+  ],
+  [
+   "değerlendirir",
+   1381
+  ],
+  [
+   "yapabilir",
+   1230
+  ],
+  [
+   "anlar",
+   1038
+  ],
+  [
+   "açıklayabilir",
+   1027
+  ],
+  [
+   "geliştirir",
+   1027
+  ],
+  [
+   "edebilir",
+   830
+  ],
+  [
+   "yorumlar",
+   777
+  ],
+  [
+   "çözer",
+   670
+  ]
+ ],
+ "ornek_kalite": {
+  "DUZGUN": [
+   210,
+   70.0,
+   64.8,
+   75.2
+  ],
+  "CIKTI_DEGIL": [
+   12,
+   4.0,
+   1.8,
+   6.2
+  ],
+  "BELIRSIZ": [
+   78,
+   26.0,
+   21.0,
+   31.0
+  ]
+ },
+ "ornek_bloom": {
+  "ANLAMA": 52,
+  "BILISSEL_DEGIL": 8,
+  "UYGULAMA": 67,
+  "YARATMA": 20,
+  "HATIRLAMA": 26,
+  "ANALIZ": 27,
+  "DEGERLENDIRME": 10
+ },
+ "ornek_seviye_kalite": {
+  "Lisans": {
+   "DUZGUN": 134,
+   "CIKTI_DEGIL": 11,
+   "BELIRSIZ": 49
+  },
+  "Ön Lisans": {
+   "DUZGUN": 76,
+   "BELIRSIZ": 29,
+   "CIKTI_DEGIL": 1
+  }
+ },
+ "kural_dogruluk": 87.3,
+ "kural_f1": {
+  "DUZGUN": 0.917,
+  "BELIRSIZ": 0.767,
+  "CIKTI_DEGIL": 0.7
+ },
+ "kural_macro_f1": 0.795,
+ "kural_karisiklik": {
+  "DUZGUN": {
+   "DUZGUN": 199,
+   "BELIRSIZ": 11
+  },
+  "BELIRSIZ": {
+   "DUZGUN": 21,
+   "BELIRSIZ": 56,
+   "CIKTI_DEGIL": 1
+  },
+  "CIKTI_DEGIL": {
+   "CIKTI_DEGIL": 7,
+   "DUZGUN": 4,
+   "BELIRSIZ": 1
+  }
+ },
+ "birim_belirsiz_kural": [
+  [
+   "REKTÖRLÜK",
+   46.4,
+   698
+  ],
+  [
+   "SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ",
+   41.7,
+   856
+  ],
+  [
+   "EFLANİ MESLEK YÜKSEKOKULU",
+   39.8,
+   987
+  ],
+  [
+   "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+   38.3,
+   439
+  ],
+  [
+   "ORMAN FAKÜLTESİ",
+   38.0,
+   868
+  ],
+  [
+   "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+   37.8,
+   3181
+  ],
+  [
+   "ESKİPAZAR MESLEK YÜKSEKOKULU",
+   35.3,
+   1414
+  ],
+  [
+   "SAFRANBOLU TURİZM FAKÜLTESİ",
+   34.7,
+   1915
+  ],
+  [
+   "İSLAMİ İLİMLER FAKÜLTESİ",
+   34.6,
+   474
+  ],
+  [
+   "HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ",
+   33.9,
+   3045
+  ],
+  [
+   "HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU",
+   33.3,
+   3052
+  ],
+  [
+   "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+   32.2,
+   1119
+  ],
+  [
+   "İLAHİYAT FAKÜLTESİ",
+   30.1,
+   485
+  ],
+  [
+   "ADALET MESLEK YÜKSEKOKULU",
+   28.9,
+   294
+  ],
+  [
+   "İŞLETME FAKÜLTESİ",
+   28.5,
+   3573
+  ],
+  [
+   "TEKNOLOJİ FAKÜLTESİ",
+   27.5,
+   3126
+  ],
+  [
+   "SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ",
+   26.6,
+   3595
+  ],
+  [
+   "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+   26.5,
+   4260
+  ],
+  [
+   "EDEBİYAT FAKÜLTESİ",
+   26.3,
+   4592
+  ],
+  [
+   "SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU",
+   25.3,
+   3734
+  ],
+  [
+   "SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ",
+   24.1,
+   582
+  ],
+  [
+   "MÜHENDİSLİK FAKÜLTESİ",
+   22.9,
+   9227
+  ],
+  [
+   "YENİCE MESLEK YÜKSEKOKULU",
+   22.9,
+   725
+  ],
+  [
+   "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+   22.8,
+   3208
+  ],
+  [
+   "FEN FAKÜLTESİ",
+   22.7,
+   1043
+  ],
+  [
+   "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+   19.8,
+   2124
+  ],
+  [
+   "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+   19.6,
+   1714
+  ],
+  [
+   "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+   17.5,
+   1297
+  ],
+  [
+   "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+   15.4,
+   7345
+  ]
+ ]
+}

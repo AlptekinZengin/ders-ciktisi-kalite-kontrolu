@@ -1,0 +1,168 @@
+﻿no,kalite,bloom,guven,gerekce
+1,BELIRSIZ,,yuksek,Beceri edinir; ölçülemez
+2,DUZGUN,UYGULAMA,orta,Basit uygulama geliştirir; kalıplı
+3,DUZGUN,ANLAMA,orta,Fiil: çeviri yapabilir
+4,DUZGUN,HATIRLAMA,orta,Fiil: tanım yapar; -meli
+5,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+6,BELIRSIZ,,yuksek,Fiil: anlar
+7,BELIRSIZ,,yuksek,Fiil: kavrayabilir
+8,CIKTI_DEGIL,,yuksek,Yarım ifade; eylem yok
+9,BELIRSIZ,,yuksek,Bilgi kazanır; ölçülemez
+10,DUZGUN,HATIRLAMA,orta,Seçer; ölçütsüz listeden seçme
+11,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+12,CIKTI_DEGIL,,orta,Öğrenim ile biten isim öbeği
+13,DUZGUN,YARATMA,yuksek,Fiil: tasarlayabilir
+14,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+15,BELIRSIZ,,yuksek,Fiil: kavrar
+16,DUZGUN,UYGULAMA,yuksek,Fiil: uyarlar
+17,DUZGUN,YARATMA,orta,Seçer ve proses geliştirir; en yüksek
+18,DUZGUN,UYGULAMA,yuksek,Fiil: çizim yapar
+19,BELIRSIZ,,yuksek,Fiil: kavramak
+20,DUZGUN,ANLAMA,dusuk,Emin değilim: bağ kurar; DUZGUN ANLAMA veya BELIRSIZ
+21,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+22,DUZGUN,ANALIZ,orta,Bilir yok sayıldı; hata analizi yapar
+23,BELIRSIZ,,yuksek,Deneyim kazanma; ölçülemez
+24,DUZGUN,UYGULAMA,orta,Fiil: kullanabilir; nesne genel
+25,CIKTI_DEGIL,,orta,Nesnesiz isim öbeği
+26,DUZGUN,YARATMA,yuksek,Fiil: tasarlar ve geliştirir
+27,DUZGUN,ANALIZ,orta,Anket mülakat analiz yapar; en yüksek analiz
+28,DUZGUN,UYGULAMA,orta,Sentezi gerçekleştirir; laboratuvar işlemi
+29,CIKTI_DEGIL,,orta,Uygulanması ile biten isim öbeği
+30,BELIRSIZ,,yuksek,Fiil: anlar
+31,DUZGUN,ANLAMA,orta,Belirler: bilinen yöntemleri saptama; -me
+32,BELIRSIZ,,yuksek,Fiil: anlar
+33,BELIRSIZ,,yuksek,Fiil: anlar
+34,BELIRSIZ,,yuksek,Hakim olunması; ölçülemez
+35,CIKTI_DEGIL,,dusuk,Emin değilim: CIKTI_DEGIL veya DUZGUN ANLAMA; edilgen isim öbeği
+36,CIKTI_DEGIL,,orta,Öğrenilmesi ile biten isim öbeği
+37,DUZGUN,HATIRLAMA,yuksek,Fiil: tanım yapabilir
+38,BELIRSIZ,,yuksek,Fiil: bilir
+39,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+40,BELIRSIZ,,yuksek,Fiil: kavrar
+41,BELIRSIZ,,yuksek,Fiil: bilir
+42,BELIRSIZ,,yuksek,Fiil: öğrenir
+43,DUZGUN,ANALIZ,orta,Muhteva analizi yapabilme; -me nesneli
+44,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+45,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+46,DUZGUN,ANALIZ,yuksek,Fiil: analiz edebilir
+47,BELIRSIZ,,yuksek,Fiil: anlar
+48,DUZGUN,YARATMA,orta,Fiil: çerçeve oluşturur
+49,DUZGUN,YARATMA,orta,Obje tasarımı gerçekleştirir
+50,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+51,DUZGUN,UYGULAMA,orta,Fiil: kullanır; adapte olur
+52,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+53,CIKTI_DEGIL,,yuksek,Tek sözcük; eylem yok
+54,BELIRSIZ,,yuksek,Fiil: bilir
+55,CIKTI_DEGIL,,orta,İsim öbeği; eylem yok
+56,DUZGUN,UYGULAMA,orta,Çalışmalar yapabilir; nesne genel
+57,DUZGUN,HATIRLAMA,orta,Fiil: tanıması; -ma
+58,BELIRSIZ,,orta,Genel yetenek kazanır; ölçülemez
+59,CIKTI_DEGIL,,orta,Öğrenilmesi ile biten isim öbeği
+60,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+61,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+62,BELIRSIZ,,yuksek,Fiil: öğrenme
+63,BELIRSIZ,,yuksek,Fiil: öğrenir
+64,DUZGUN,YARATMA,orta,Beceri: analiz bütçeleme planlama; en yüksek planlama
+65,DUZGUN,UYGULAMA,orta,Basit uygulama geliştirir; fonksiyon kullanır
+66,DUZGUN,UYGULAMA,yuksek,Fiil: kullanır
+67,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+68,DUZGUN,UYGULAMA,yuksek,Fiil: çözer
+69,CIKTI_DEGIL,,orta,Anlaşılması ile biten isim öbeği
+70,BELIRSIZ,,orta,Pratik beceri geliştirir; genel
+71,BELIRSIZ,,yuksek,Fiil: bilir
+72,BELIRSIZ,,orta,Sürdürebilirliğini sağlar; ölçülemez
+73,BELIRSIZ,,yuksek,Fiil: bilir
+74,BELIRSIZ,,yuksek,Fiil: kavrayabilme
+75,BELIRSIZ,,yuksek,Fiil: öğrenir
+76,BELIRSIZ,,yuksek,Fiil: öğrenir
+77,BELIRSIZ,,yuksek,Fiil: öğrenir
+78,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+79,DUZGUN,DEGERLENDIRME,orta,Fiil: değerlendirebilme; -me
+80,BELIRSIZ,,yuksek,Yetenek geliştirme kabiliyeti; ölçülemez
+81,CIKTI_DEGIL,,dusuk,Emin değilim: isim öbeği veya DUZGUN UYGULAMA; yarım cümle
+82,BELIRSIZ,,yuksek,Fiil: bilir
+83,DUZGUN,DEGERLENDIRME,orta,Fiil: değerlendirmek
+84,DUZGUN,ANALIZ,orta,İngilizce; fiil: analyze
+85,CIKTI_DEGIL,,orta,Kazanılması ile biten isim öbeği
+86,DUZGUN,ANALIZ,yuksek,Keşfeder ve inceler; en yüksek inceler
+87,CIKTI_DEGIL,,orta,Yürütülmesi; isim öbeği
+88,DUZGUN,UYGULAMA,orta,Fiil: arıza giderir
+89,BELIRSIZ,,yuksek,Fiil: öğrenme
+90,BELIRSIZ,,yuksek,Fiil: kavrama
+91,BELIRSIZ,,yuksek,Fiil: anlar
+92,DUZGUN,ANALIZ,yuksek,Fiil: karşılaştırır; karar 2
+93,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilir
+94,DUZGUN,ANLAMA,orta,Okur; anlar yok sayıldı
+95,BELIRSIZ,,dusuk,Emin değilim: BELIRSIZ veya DUZGUN UYGULAMA; destekler
+96,BELIRSIZ,,yuksek,Fiil: anlamak
+97,BELIRSIZ,,yuksek,Bilgi kazanır; ölçülemez
+98,BELIRSIZ,,yuksek,Fiil: bilir
+99,DUZGUN,UYGULAMA,orta,Kullanır ve tartışır; en yüksek kullanır
+100,DUZGUN,UYGULAMA,orta,Fiil: başvuru hazırlar
+101,DUZGUN,UYGULAMA,dusuk,Emin değilim: UYGULAMA veya YARATMA; yaratıcı kullanır
+102,DUZGUN,UYGULAMA,yuksek,Fiil: hesaplar
+103,DUZGUN,UYGULAMA,orta,Rapor yazar; kalıplı
+104,BELIRSIZ,,yuksek,Fiil: kavrar
+105,BELIRSIZ,,yuksek,Fiil: kavrayabilir
+106,DUZGUN,UYGULAMA,dusuk,Emin değilim: UYGULAMA veya BILISSEL_DEGIL; sözlü edim
+107,BELIRSIZ,,yuksek,Fiil: bilir
+108,CIKTI_DEGIL,,orta,Adapte edilmesi; isim öbeği
+109,CIKTI_DEGIL,,yuksek,Hocanın işi; bilgilendirme
+110,BELIRSIZ,,yuksek,Fiil: öğrenebilmeli
+111,CIKTI_DEGIL,,orta,Öğretilmesi; hocanın işi
+112,BELIRSIZ,,yuksek,Fiil: öğrenebilir
+113,DUZGUN,YARATMA,orta,Öğrenir yok sayıldı; fikri işe dönüştürür
+114,BELIRSIZ,,yuksek,Bilgi sahibi olur
+115,DUZGUN,DEGERLENDIRME,yuksek,Fiil: değerlendirir
+116,BELIRSIZ,,yuksek,Yeti kazanır; ölçülemez
+117,CIKTI_DEGIL,,yuksek,İsim; eylem yok
+118,CIKTI_DEGIL,,orta,Öğrenilmesi ile biten isim öbeği
+119,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+120,BELIRSIZ,,yuksek,Fiil: kavrar
+121,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+122,CIKTI_DEGIL,,orta,Giderilmesi ile biten isim öbeği
+123,BELIRSIZ,,yuksek,Fiil: bilir
+124,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+125,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+126,CIKTI_DEGIL,,yuksek,Tanımları; isim öbeği
+127,DUZGUN,HATIRLAMA,yuksek,Fiil: tanırlar
+128,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+129,CIKTI_DEGIL,,yuksek,Sınav adı; eylem yok
+130,BELIRSIZ,,yuksek,Fiil: bilme
+131,DUZGUN,HATIRLAMA,yuksek,Fiil: sıralar
+132,DUZGUN,UYGULAMA,dusuk,Emin değilim: UYGULAMA veya HATIRLAMA; tanıtabilme
+133,DUZGUN,DEGERLENDIRME,dusuk,Emin değilim: DEGERLENDIRME veya UYGULAMA; değerlendirme yapar
+134,BELIRSIZ,,yuksek,Hakim olur; ölçülemez
+135,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+136,DUZGUN,YARATMA,yuksek,Fiil: sentez oluşturma
+137,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+138,DUZGUN,HATIRLAMA,orta,Fiil: tanır; bilgiye sahip olur yok sayıldı
+139,DUZGUN,ANALIZ,yuksek,Fiil: analiz yapar
+140,BELIRSIZ,,yuksek,Fiil: bilir
+141,DUZGUN,UYGULAMA,yuksek,Fiil: uygular
+142,CIKTI_DEGIL,,orta,Uygulanması ile biten isim öbeği
+143,DUZGUN,DEGERLENDIRME,yuksek,Fiil: değerlendirir
+144,DUZGUN,ANALIZ,yuksek,Fiil: analiz yapar
+145,DUZGUN,ANLAMA,orta,Fiil: tartışır; konuyu anlatma
+146,DUZGUN,ANLAMA,orta,Yorumlar; kavrar yok sayıldı
+147,BELIRSIZ,,yuksek,Fiil: kavrar
+148,CIKTI_DEGIL,,dusuk,Emin değilim: CIKTI_DEGIL veya BELIRSIZ; bozuk cümle
+149,BELIRSIZ,,yuksek,Fiil: bilme
+150,DUZGUN,ANALIZ,dusuk,Emin değilim: ANALIZ veya ANLAMA; karakterize eder
+151,DUZGUN,ANALIZ,orta,Kurar test eder yorumlar; en yüksek test
+152,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlayabilmeli
+153,BELIRSIZ,,yuksek,Fiil: kavrar
+154,DUZGUN,UYGULAMA,yuksek,Fiil: kullanır
+155,DUZGUN,YARATMA,orta,Analiz yapar; plan geliştirir
+156,BELIRSIZ,,dusuk,Emin değilim: BELIRSIZ veya BILISSEL_DEGIL; tutum
+157,BELIRSIZ,,yuksek,Fiil: bilir
+158,DUZGUN,UYGULAMA,orta,Fiil: düzenleyebilme
+159,DUZGUN,YARATMA,orta,Dönüştürür ve çalışma ortaya koyar
+160,DUZGUN,UYGULAMA,yuksek,Fiil: kullanabilme
+161,CIKTI_DEGIL,,yuksek,İsim öbeği; eylem yok
+162,DUZGUN,YARATMA,orta,Projeyi tamamlar; tecrübe sahibi yok sayıldı
+163,DUZGUN,DEGERLENDIRME,yuksek,Fiil: değerlendirir
+164,DUZGUN,BILISSEL_DEGIL,dusuk,Emin değilim: BILISSEL_DEGIL veya UYGULAMA; yemek yapma
+165,DUZGUN,UYGULAMA,orta,Çalışmaları yerine getirir; nesne genel
+166,BELIRSIZ,,yuksek,Fiil: öğrenebilmek
+167,DUZGUN,YARATMA,orta,Materyal oluşturma yeteneği; ölçülebilir

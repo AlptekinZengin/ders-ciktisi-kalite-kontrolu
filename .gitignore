@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Model dosyalari (depoya konmaz; 09_tumunu_etiketle.py yeniden uretir)
+*.pt
+*.bin
+*.safetensors
+yz-final-model/
+model/
+models/
+
+Thumbs.db
+.DS_Store

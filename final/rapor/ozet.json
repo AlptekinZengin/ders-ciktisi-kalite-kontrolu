@@ -1,0 +1,458 @@
+{
+  "sorunlu_en_yuksek_10": [
+    {
+      "birim": "ESKİPAZAR MESLEK YÜKSEKOKULU",
+      "program": "Özel Güvenlik ve Koruma",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 183,
+      "sorunlu_yuzde": 62.3,
+      "ust_basamak_yuzde": 24.64
+    },
+    {
+      "birim": "EFLANİ MESLEK YÜKSEKOKULU",
+      "program": "Atçılık ve Antrenörlüğü",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 281,
+      "sorunlu_yuzde": 58.72,
+      "ust_basamak_yuzde": 18.1
+    },
+    {
+      "birim": "EFLANİ MESLEK YÜKSEKOKULU",
+      "program": "Gıda Kalite Kontrolü ve Analizi",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 252,
+      "sorunlu_yuzde": 58.33,
+      "ust_basamak_yuzde": 22.86
+    },
+    {
+      "birim": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "program": "Sosyal Hizmet",
+      "seviye": "Lisans",
+      "cumle_sayisi": 317,
+      "sorunlu_yuzde": 55.52,
+      "ust_basamak_yuzde": 29.08
+    },
+    {
+      "birim": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "program": "Otopsi Yardımcılığı",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 229,
+      "sorunlu_yuzde": 54.59,
+      "ust_basamak_yuzde": 13.46
+    },
+    {
+      "birim": "REKTÖRLÜK",
+      "program": "Üniversite Seçmeli Dersler Havuzu",
+      "seviye": "Lisans",
+      "cumle_sayisi": 698,
+      "sorunlu_yuzde": 53.87,
+      "ust_basamak_yuzde": 31.06
+    },
+    {
+      "birim": "SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU",
+      "program": "Turist Rehberliği",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 331,
+      "sorunlu_yuzde": 53.17,
+      "ust_basamak_yuzde": 13.55
+    },
+    {
+      "birim": "ESKİPAZAR MESLEK YÜKSEKOKULU",
+      "program": "Eser Koruma",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 259,
+      "sorunlu_yuzde": 52.12,
+      "ust_basamak_yuzde": 22.58
+    },
+    {
+      "birim": "TEKNOLOJİ FAKÜLTESİ",
+      "program": "Mekatronik Mühendisliği",
+      "seviye": "Lisans",
+      "cumle_sayisi": 807,
+      "sorunlu_yuzde": 51.92,
+      "ust_basamak_yuzde": 25.0
+    },
+    {
+      "birim": "SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ",
+      "program": "Gazetecilik",
+      "seviye": "Lisans",
+      "cumle_sayisi": 422,
+      "sorunlu_yuzde": 51.9,
+      "ust_basamak_yuzde": 34.48
+    }
+  ],
+  "sorunlu_en_dusuk_10": [
+    {
+      "birim": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "program": "Biyomedikal Mühendisliği",
+      "seviye": "Lisans",
+      "cumle_sayisi": 737,
+      "sorunlu_yuzde": 10.04,
+      "ust_basamak_yuzde": 36.2
+    },
+    {
+      "birim": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "program": "Mekatronik Mühendisliği",
+      "seviye": "Lisans",
+      "cumle_sayisi": 509,
+      "sorunlu_yuzde": 10.61,
+      "ust_basamak_yuzde": 33.19
+    },
+    {
+      "birim": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "program": "Matematik",
+      "seviye": "Lisans",
+      "cumle_sayisi": 424,
+      "sorunlu_yuzde": 11.08,
+      "ust_basamak_yuzde": 11.67
+    },
+    {
+      "birim": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "program": "Elektrik - Elektronik Mühendisliği (%30 İngilizce)",
+      "seviye": "Lisans",
+      "cumle_sayisi": 511,
+      "sorunlu_yuzde": 11.15,
+      "ust_basamak_yuzde": 35.9
+    },
+    {
+      "birim": "YENİCE MESLEK YÜKSEKOKULU",
+      "program": "Bilgisayar Programcılığı",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 197,
+      "sorunlu_yuzde": 12.18,
+      "ust_basamak_yuzde": 8.67
+    },
+    {
+      "birim": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "program": "Elektrik - Elektronik Mühendisliği (İngilizce)",
+      "seviye": "Lisans",
+      "cumle_sayisi": 511,
+      "sorunlu_yuzde": 12.52,
+      "ust_basamak_yuzde": 36.02
+    },
+    {
+      "birim": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "program": "Uluslararası İlişkiler",
+      "seviye": "Lisans",
+      "cumle_sayisi": 509,
+      "sorunlu_yuzde": 13.95,
+      "ust_basamak_yuzde": 30.82
+    },
+    {
+      "birim": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "program": "Uluslararası İlişkiler (İngilizce)",
+      "seviye": "Lisans",
+      "cumle_sayisi": 501,
+      "sorunlu_yuzde": 15.37,
+      "ust_basamak_yuzde": 28.54
+    },
+    {
+      "birim": "FEN FAKÜLTESİ",
+      "program": "Matematik",
+      "seviye": "Lisans",
+      "cumle_sayisi": 520,
+      "sorunlu_yuzde": 15.38,
+      "ust_basamak_yuzde": 12.5
+    },
+    {
+      "birim": "TEKNOLOJİ FAKÜLTESİ",
+      "program": "Endüstriyel Tasarım Mühendisliği",
+      "seviye": "Lisans",
+      "cumle_sayisi": 770,
+      "sorunlu_yuzde": 15.71,
+      "ust_basamak_yuzde": 36.36
+    }
+  ],
+  "ust_basamak_en_yuksek_5": [
+    {
+      "birim": "SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ",
+      "program": "Mimarlık",
+      "seviye": "Lisans",
+      "cumle_sayisi": 582,
+      "sorunlu_yuzde": 35.22,
+      "ust_basamak_yuzde": 38.99
+    },
+    {
+      "birim": "ORMAN FAKÜLTESİ",
+      "program": "Orman Mühendisliği",
+      "seviye": "Lisans",
+      "cumle_sayisi": 433,
+      "sorunlu_yuzde": 48.04,
+      "ust_basamak_yuzde": 36.89
+    },
+    {
+      "birim": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "program": "Siyaset Bilimi ve Kamu Yönetimi",
+      "seviye": "Lisans",
+      "cumle_sayisi": 418,
+      "sorunlu_yuzde": 22.73,
+      "ust_basamak_yuzde": 36.84
+    },
+    {
+      "birim": "SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ",
+      "program": "Grafik Tasarımı",
+      "seviye": "Lisans",
+      "cumle_sayisi": 512,
+      "sorunlu_yuzde": 34.38,
+      "ust_basamak_yuzde": 36.61
+    },
+    {
+      "birim": "TEKNOLOJİ FAKÜLTESİ",
+      "program": "Endüstriyel Tasarım Mühendisliği",
+      "seviye": "Lisans",
+      "cumle_sayisi": 770,
+      "sorunlu_yuzde": 15.71,
+      "ust_basamak_yuzde": 36.36
+    }
+  ],
+  "ust_basamak_en_dusuk_5": [
+    {
+      "birim": "YENİCE MESLEK YÜKSEKOKULU",
+      "program": "Bilgisayar Programcılığı",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 197,
+      "sorunlu_yuzde": 12.18,
+      "ust_basamak_yuzde": 8.67
+    },
+    {
+      "birim": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "program": "Ameliyathane Hizmetleri",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 257,
+      "sorunlu_yuzde": 49.42,
+      "ust_basamak_yuzde": 9.23
+    },
+    {
+      "birim": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "program": "Gaz ve Tesisatı Teknolojisi",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 203,
+      "sorunlu_yuzde": 21.18,
+      "ust_basamak_yuzde": 9.38
+    },
+    {
+      "birim": "EFLANİ MESLEK YÜKSEKOKULU",
+      "program": "Aşçılık",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 210,
+      "sorunlu_yuzde": 38.57,
+      "ust_basamak_yuzde": 10.08
+    },
+    {
+      "birim": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "program": "Ağız ve Diş Sağlığı",
+      "seviye": "Ön Lisans",
+      "cumle_sayisi": 228,
+      "sorunlu_yuzde": 44.74,
+      "ust_basamak_yuzde": 10.32
+    }
+  ],
+  "birim_siralamasi": [
+    {
+      "birim": "REKTÖRLÜK",
+      "cumle_sayisi": 698,
+      "sorunlu_yuzde": 53.87,
+      "ust_basamak_yuzde": 31.06,
+      "uni_ort_fark_puan": 20.67
+    },
+    {
+      "birim": "ORMAN FAKÜLTESİ",
+      "cumle_sayisi": 868,
+      "sorunlu_yuzde": 48.5,
+      "ust_basamak_yuzde": 34.68,
+      "uni_ort_fark_puan": 15.3
+    },
+    {
+      "birim": "SAFRANBOLU TÜRKER İNANOĞLU İLETİŞİM FAKÜLTESİ",
+      "cumle_sayisi": 856,
+      "sorunlu_yuzde": 47.43,
+      "ust_basamak_yuzde": 34.22,
+      "uni_ort_fark_puan": 14.23
+    },
+    {
+      "birim": "EFLANİ MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 987,
+      "sorunlu_yuzde": 46.4,
+      "ust_basamak_yuzde": 14.56,
+      "uni_ort_fark_puan": 13.2
+    },
+    {
+      "birim": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 3181,
+      "sorunlu_yuzde": 45.99,
+      "ust_basamak_yuzde": 15.48,
+      "uni_ort_fark_puan": 12.79
+    },
+    {
+      "birim": "SAFRANBOLU TURİZM FAKÜLTESİ",
+      "cumle_sayisi": 1915,
+      "sorunlu_yuzde": 45.48,
+      "ust_basamak_yuzde": 23.85,
+      "uni_ort_fark_puan": 12.28
+    },
+    {
+      "birim": "HASAN DOĞAN BEDEN EĞİTİMİ VE SPOR YÜKSEKOKULU",
+      "cumle_sayisi": 3052,
+      "sorunlu_yuzde": 44.43,
+      "ust_basamak_yuzde": 19.81,
+      "uni_ort_fark_puan": 11.23
+    },
+    {
+      "birim": "ESKİPAZAR MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 1414,
+      "sorunlu_yuzde": 44.34,
+      "ust_basamak_yuzde": 22.24,
+      "uni_ort_fark_puan": 11.14
+    },
+    {
+      "birim": "HASAN DOĞAN SPOR BİLİMLERİ FAKÜLTESİ",
+      "cumle_sayisi": 3045,
+      "sorunlu_yuzde": 44.14,
+      "ust_basamak_yuzde": 19.28,
+      "uni_ort_fark_puan": 10.94
+    },
+    {
+      "birim": "DİŞ HEKİMLİĞİ FAKÜLTESİ",
+      "cumle_sayisi": 439,
+      "sorunlu_yuzde": 43.05,
+      "ust_basamak_yuzde": 17.6,
+      "uni_ort_fark_puan": 9.85
+    },
+    {
+      "birim": "İSLAMİ İLİMLER FAKÜLTESİ",
+      "cumle_sayisi": 474,
+      "sorunlu_yuzde": 40.3,
+      "ust_basamak_yuzde": 31.8,
+      "uni_ort_fark_puan": 7.1
+    },
+    {
+      "birim": "ADALET MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 294,
+      "sorunlu_yuzde": 39.12,
+      "ust_basamak_yuzde": 24.58,
+      "uni_ort_fark_puan": 5.92
+    },
+    {
+      "birim": "TEKNOLOJİ FAKÜLTESİ",
+      "cumle_sayisi": 3126,
+      "sorunlu_yuzde": 36.28,
+      "ust_basamak_yuzde": 28.51,
+      "uni_ort_fark_puan": 3.08
+    },
+    {
+      "birim": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 1119,
+      "sorunlu_yuzde": 35.48,
+      "ust_basamak_yuzde": 29.92,
+      "uni_ort_fark_puan": 2.28
+    },
+    {
+      "birim": "SAFRANBOLU FETHİ TOKER GÜZEL SANATLAR VE TASARIM FAKÜLTESİ",
+      "cumle_sayisi": 3595,
+      "sorunlu_yuzde": 35.27,
+      "ust_basamak_yuzde": 25.31,
+      "uni_ort_fark_puan": 2.07
+    },
+    {
+      "birim": "SAFRANBOLU BAŞAK CENGİZ MİMARLIK FAKÜLTESİ",
+      "cumle_sayisi": 582,
+      "sorunlu_yuzde": 35.22,
+      "ust_basamak_yuzde": 38.99,
+      "uni_ort_fark_puan": 2.02
+    },
+    {
+      "birim": "İLAHİYAT FAKÜLTESİ",
+      "cumle_sayisi": 485,
+      "sorunlu_yuzde": 33.81,
+      "ust_basamak_yuzde": 31.46,
+      "uni_ort_fark_puan": 0.61
+    },
+    {
+      "birim": "İŞLETME FAKÜLTESİ",
+      "cumle_sayisi": 3573,
+      "sorunlu_yuzde": 33.22,
+      "ust_basamak_yuzde": 26.7,
+      "uni_ort_fark_puan": 0.02
+    },
+    {
+      "birim": "SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 3734,
+      "sorunlu_yuzde": 30.8,
+      "ust_basamak_yuzde": 17.38,
+      "uni_ort_fark_puan": -2.4
+    },
+    {
+      "birim": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 3208,
+      "sorunlu_yuzde": 30.64,
+      "ust_basamak_yuzde": 16.18,
+      "uni_ort_fark_puan": -2.56
+    },
+    {
+      "birim": "MÜHENDİSLİK FAKÜLTESİ",
+      "cumle_sayisi": 9227,
+      "sorunlu_yuzde": 30.19,
+      "ust_basamak_yuzde": 26.35,
+      "uni_ort_fark_puan": -3.01
+    },
+    {
+      "birim": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "cumle_sayisi": 4260,
+      "sorunlu_yuzde": 29.77,
+      "ust_basamak_yuzde": 30.28,
+      "uni_ort_fark_puan": -3.43
+    },
+    {
+      "birim": "EDEBİYAT FAKÜLTESİ",
+      "cumle_sayisi": 4592,
+      "sorunlu_yuzde": 29.62,
+      "ust_basamak_yuzde": 30.2,
+      "uni_ort_fark_puan": -3.58
+    },
+    {
+      "birim": "YENİCE MESLEK YÜKSEKOKULU",
+      "cumle_sayisi": 725,
+      "sorunlu_yuzde": 27.45,
+      "ust_basamak_yuzde": 12.74,
+      "uni_ort_fark_puan": -5.75
+    },
+    {
+      "birim": "FEN FAKÜLTESİ",
+      "cumle_sayisi": 1043,
+      "sorunlu_yuzde": 26.17,
+      "ust_basamak_yuzde": 17.01,
+      "uni_ort_fark_puan": -7.03
+    },
+    {
+      "birim": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "cumle_sayisi": 1297,
+      "sorunlu_yuzde": 24.67,
+      "ust_basamak_yuzde": 27.53,
+      "uni_ort_fark_puan": -8.53
+    },
+    {
+      "birim": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "cumle_sayisi": 2124,
+      "sorunlu_yuzde": 23.31,
+      "ust_basamak_yuzde": 31.43,
+      "uni_ort_fark_puan": -9.89
+    },
+    {
+      "birim": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+      "cumle_sayisi": 1714,
+      "sorunlu_yuzde": 22.93,
+      "ust_basamak_yuzde": 18.4,
+      "uni_ort_fark_puan": -10.27
+    },
+    {
+      "birim": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "cumle_sayisi": 7345,
+      "sorunlu_yuzde": 20.38,
+      "ust_basamak_yuzde": 28.98,
+      "uni_ort_fark_puan": -12.82
+    }
+  ],
+  "duzeltilecek_ders_sayisi": 4580,
+  "bos_ders_sayisi": 1210,
+  "en_az_100_cumleli_program_sayisi": 168
+}

@@ -1,0 +1,684 @@
+{
+ "model": "dbmdz/bert-base-turkish-cased",
+ "ayarlar": {
+  "max_length": 64,
+  "batch": 16,
+  "lr": 3e-05,
+  "epoch": 5,
+  "weight_decay": 0.01,
+  "isinma": 0.1,
+  "kayip": "sinif agirlikli CE",
+  "val": "egitimin %10'u, tabakali",
+  "sinanan_model": "son epoch",
+  "tohumlar": [
+   42,
+   43,
+   44
+  ],
+  "sapma": "np.std (ddof=0)"
+ },
+ "torch": "2.15.0+cpu",
+ "karsilastirma_sonuc_02": {
+  "kalite": {
+   "Kural": {
+    "macro_f1": 0.881,
+    "dogruluk": 0.91
+   },
+   "TF-IDF + SVM | ILK_300_ve_yeni": {
+    "macro_f1": 0.81,
+    "dogruluk": 0.87
+   },
+   "TF-IDF + lojistik regresyon | ILK_300_ve_yeni": {
+    "macro_f1": 0.8,
+    "dogruluk": 0.87
+   }
+  },
+  "bloom": {
+   "TF-IDF + SVM | ILK_300_ve_yeni": {
+    "macro_f1": 0.543,
+    "dogruluk": 0.683
+   },
+   "TF-IDF + lojistik regresyon | ILK_300_ve_yeni": {
+    "macro_f1": 0.569,
+    "dogruluk": 0.698
+   }
+  }
+ },
+ "berturk": {
+  "kalite": {
+   "siniflar": [
+    "BELIRSIZ",
+    "CIKTI_DEGIL",
+    "DUZGUN"
+   ],
+   "egitim_havuzu_n": 695,
+   "test_n": 100,
+   "tohumlar": [
+    {
+     "macro_f1": 0.9636588529882041,
+     "dogruluk": 0.98,
+     "sinif_f1": [
+      0.9655172413793104,
+      0.9333333333333333,
+      0.9921259842519685
+     ],
+     "karisiklik": [
+      [
+       28,
+       1,
+       1
+      ],
+      [
+       0,
+       7,
+       0
+      ],
+      [
+       0,
+       0,
+       63
+      ]
+     ],
+     "tohum": 42,
+     "egitim_n": 625,
+     "val_n": 70,
+     "test_n": 100,
+     "sure_sn": 279.5,
+     "val_egri": [
+      {
+       "epoch": 1,
+       "egitim_kaybi": 0.9921,
+       "val_macro_f1": 0.7572
+      },
+      {
+       "epoch": 2,
+       "egitim_kaybi": 0.5245,
+       "val_macro_f1": 0.8464
+      },
+      {
+       "epoch": 3,
+       "egitim_kaybi": 0.2142,
+       "val_macro_f1": 0.9317
+      },
+      {
+       "epoch": 4,
+       "egitim_kaybi": 0.0829,
+       "val_macro_f1": 0.9443
+      },
+      {
+       "epoch": 5,
+       "egitim_kaybi": 0.047,
+       "val_macro_f1": 0.9277
+      }
+     ]
+    },
+    {
+     "macro_f1": 0.9671957671957672,
+     "dogruluk": 0.96,
+     "sinif_f1": [
+      0.9333333333333333,
+      1.0,
+      0.9682539682539683
+     ],
+     "karisiklik": [
+      [
+       28,
+       0,
+       2
+      ],
+      [
+       0,
+       7,
+       0
+      ],
+      [
+       2,
+       0,
+       61
+      ]
+     ],
+     "tohum": 43,
+     "egitim_n": 625,
+     "val_n": 70,
+     "test_n": 100,
+     "sure_sn": 276.2,
+     "val_egri": [
+      {
+       "epoch": 1,
+       "egitim_kaybi": 1.0142,
+       "val_macro_f1": 0.8052
+      },
+      {
+       "epoch": 2,
+       "egitim_kaybi": 0.4676,
+       "val_macro_f1": 0.8476
+      },
+      {
+       "epoch": 3,
+       "egitim_kaybi": 0.1998,
+       "val_macro_f1": 0.8888
+      },
+      {
+       "epoch": 4,
+       "egitim_kaybi": 0.1115,
+       "val_macro_f1": 0.8742
+      },
+      {
+       "epoch": 5,
+       "egitim_kaybi": 0.0698,
+       "val_macro_f1": 0.8888
+      }
+     ]
+    },
+    {
+     "macro_f1": 0.9364545594053791,
+     "dogruluk": 0.95,
+     "sinif_f1": [
+      0.9180327868852459,
+      0.9230769230769231,
+      0.9682539682539683
+     ],
+     "karisiklik": [
+      [
+       28,
+       0,
+       2
+      ],
+      [
+       1,
+       6,
+       0
+      ],
+      [
+       2,
+       0,
+       61
+      ]
+     ],
+     "tohum": 44,
+     "egitim_n": 625,
+     "val_n": 70,
+     "test_n": 100,
+     "sure_sn": 274.9,
+     "val_egri": [
+      {
+       "epoch": 1,
+       "egitim_kaybi": 1.0818,
+       "val_macro_f1": 0.4957
+      },
+      {
+       "epoch": 2,
+       "egitim_kaybi": 0.6234,
+       "val_macro_f1": 0.8502
+      },
+      {
+       "epoch": 3,
+       "egitim_kaybi": 0.2622,
+       "val_macro_f1": 0.9159
+      },
+      {
+       "epoch": 4,
+       "egitim_kaybi": 0.0843,
+       "val_macro_f1": 0.9033
+      },
+      {
+       "epoch": 5,
+       "egitim_kaybi": 0.0392,
+       "val_macro_f1": 0.8909
+      }
+     ]
+    }
+   ],
+   "macro_f1_ort": 0.9557697265297835,
+   "macro_f1_sapma": 0.013734001633674666,
+   "dogruluk_ort": 0.9633333333333333,
+   "dogruluk_sapma": 0.012472191289246483,
+   "sinif_f1_ort": [
+    0.9389611205326299,
+    0.9521367521367522,
+    0.9762113069199684
+   ],
+   "karisiklik_ort_satir_gercek_sutun_tahmin": [
+    [
+     28.0,
+     0.33,
+     1.67
+    ],
+    [
+     0.33,
+     6.67,
+     0.0
+    ],
+    [
+     1.33,
+     0.0,
+     61.67
+    ]
+   ]
+  },
+  "bloom": {
+   "siniflar": [
+    "ANALIZ",
+    "ANLAMA",
+    "BILISSEL_DEGIL",
+    "DEGERLENDIRME",
+    "HATIRLAMA",
+    "UYGULAMA",
+    "YARATMA"
+   ],
+   "egitim_havuzu_n": 342,
+   "test_n": 63,
+   "tohumlar": [
+    {
+     "macro_f1": 0.33205683205683206,
+     "dogruluk": 0.42857142857142855,
+     "sinif_f1": [
+      0.6111111111111112,
+      0.6363636363636364,
+      0.0,
+      0.15384615384615385,
+      0.46153846153846156,
+      0.3076923076923077,
+      0.15384615384615385
+     ],
+     "karisiklik": [
+      [
+       11,
+       1,
+       0,
+       3,
+       0,
+       0,
+       0
+      ],
+      [
+       1,
+       7,
+       0,
+       0,
+       0,
+       0,
+       2
+      ],
+      [
+       1,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ],
+      [
+       3,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ],
+      [
+       1,
+       0,
+       0,
+       2,
+       3,
+       0,
+       0
+      ],
+      [
+       3,
+       4,
+       0,
+       1,
+       4,
+       4,
+       3
+      ],
+      [
+       1,
+       0,
+       0,
+       2,
+       0,
+       2,
+       1
+      ]
+     ],
+     "tohum": 42,
+     "egitim_n": 307,
+     "val_n": 35,
+     "test_n": 63,
+     "sure_sn": 142.8,
+     "val_egri": [
+      {
+       "epoch": 1,
+       "egitim_kaybi": 2.02,
+       "val_macro_f1": 0.1016
+      },
+      {
+       "epoch": 2,
+       "egitim_kaybi": 1.8987,
+       "val_macro_f1": 0.3681
+      },
+      {
+       "epoch": 3,
+       "egitim_kaybi": 1.863,
+       "val_macro_f1": 0.2821
+      },
+      {
+       "epoch": 4,
+       "egitim_kaybi": 1.6977,
+       "val_macro_f1": 0.3278
+      },
+      {
+       "epoch": 5,
+       "egitim_kaybi": 1.5547,
+       "val_macro_f1": 0.3069
+      }
+     ]
+    },
+    {
+     "macro_f1": 0.4657961086532515,
+     "dogruluk": 0.5396825396825397,
+     "sinif_f1": [
+      0.9285714285714286,
+      0.6363636363636364,
+      0.0,
+      0.5454545454545454,
+      0.46153846153846156,
+      0.3076923076923077,
+      0.38095238095238093
+     ],
+     "karisiklik": [
+      [
+       13,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1
+      ],
+      [
+       0,
+       7,
+       0,
+       0,
+       3,
+       0,
+       0
+      ],
+      [
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       1
+      ],
+      [
+       0,
+       0,
+       0,
+       3,
+       0,
+       0,
+       1
+      ],
+      [
+       0,
+       2,
+       0,
+       1,
+       3,
+       0,
+       0
+      ],
+      [
+       0,
+       3,
+       2,
+       2,
+       0,
+       4,
+       8
+      ],
+      [
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       4
+      ]
+     ],
+     "tohum": 43,
+     "egitim_n": 307,
+     "val_n": 35,
+     "test_n": 63,
+     "sure_sn": 144.7,
+     "val_egri": [
+      {
+       "epoch": 1,
+       "egitim_kaybi": 2.0385,
+       "val_macro_f1": 0.0357
+      },
+      {
+       "epoch": 2,
+       "egitim_kaybi": 1.9422,
+       "val_macro_f1": 0.0687
+      },
+      {
+       "epoch": 3,
+       "egitim_kaybi": 1.7273,
+       "val_macro_f1": 0.4927
+      },
+      {
+       "epoch": 4,
+       "egitim_kaybi": 1.3929,
+       "val_macro_f1": 0.5029
+      },
+      {
+       "epoch": 5,
+       "egitim_kaybi": 1.1533,
+       "val_macro_f1": 0.6061
+      }
+     ]
+    },
+    {
+     "macro_f1": 0.26989280560709134,
+     "dogruluk": 0.30158730158730157,
+     "sinif_f1": [
+      0.4090909090909091,
+      0.4444444444444444,
+      0.5,
+      0.0,
+      0.2857142857142857,
+      0.25,
+      0.0
+     ],
+     "karisiklik": [
+      [
+       9,
+       0,
+       0,
+       4,
+       1,
+       0,
+       1
+      ],
+      [
+       1,
+       4,
+       0,
+       0,
+       3,
+       0,
+       2
+      ],
+      [
+       1,
+       0,
+       1,
+       0,
+       0,
+       1,
+       0
+      ],
+      [
+       3,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ],
+      [
+       2,
+       1,
+       0,
+       1,
+       2,
+       0,
+       0
+      ],
+      [
+       10,
+       3,
+       0,
+       0,
+       2,
+       3,
+       1
+      ],
+      [
+       3,
+       0,
+       0,
+       2,
+       0,
+       1,
+       0
+      ]
+     ],
+     "tohum": 44,
+     "egitim_n": 307,
+     "val_n": 35,
+     "test_n": 63,
+     "sure_sn": 142.6,
+     "val_egri": [
+      {
+       "epoch": 1,
+       "egitim_kaybi": 1.9841,
+       "val_macro_f1": 0.0936
+      },
+      {
+       "epoch": 2,
+       "egitim_kaybi": 1.8977,
+       "val_macro_f1": 0.2301
+      },
+      {
+       "epoch": 3,
+       "egitim_kaybi": 1.8287,
+       "val_macro_f1": 0.196
+      },
+      {
+       "epoch": 4,
+       "egitim_kaybi": 1.732,
+       "val_macro_f1": 0.565
+      },
+      {
+       "epoch": 5,
+       "egitim_kaybi": 1.6452,
+       "val_macro_f1": 0.5379
+      }
+     ]
+    }
+   ],
+   "macro_f1_ort": 0.3559152487723916,
+   "macro_f1_sapma": 0.0817371562682435,
+   "dogruluk_ort": 0.42328042328042326,
+   "dogruluk_sapma": 0.09727394873465732,
+   "sinif_f1_ort": [
+    0.6495911495911496,
+    0.5723905723905723,
+    0.16666666666666666,
+    0.2331002331002331,
+    0.402930402930403,
+    0.2884615384615385,
+    0.17826617826617827
+   ],
+   "karisiklik_ort_satir_gercek_sutun_tahmin": [
+    [
+     11.0,
+     0.33,
+     0.0,
+     2.33,
+     0.67,
+     0.0,
+     0.67
+    ],
+    [
+     0.67,
+     6.0,
+     0.0,
+     0.0,
+     2.0,
+     0.0,
+     1.33
+    ],
+    [
+     0.67,
+     0.0,
+     0.33,
+     0.0,
+     0.0,
+     1.33,
+     0.67
+    ],
+    [
+     2.0,
+     0.0,
+     0.0,
+     1.33,
+     0.0,
+     0.0,
+     0.67
+    ],
+    [
+     1.0,
+     1.0,
+     0.0,
+     1.33,
+     2.67,
+     0.0,
+     0.0
+    ],
+    [
+     4.33,
+     3.33,
+     0.67,
+     1.0,
+     2.0,
+     3.67,
+     4.0
+    ],
+    [
+     1.33,
+     0.0,
+     0.0,
+     1.67,
+     0.0,
+     1.33,
+     1.67
+    ]
+   ]
+  }
+ },
+ "toplam_sure_sn": 1268.8
+}

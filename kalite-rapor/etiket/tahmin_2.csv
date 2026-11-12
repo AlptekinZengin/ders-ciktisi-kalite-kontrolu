@@ -1,0 +1,101 @@
+no,kalite,bloom,guven,gerekce
+101,DUZGUN,UYGULAMA,orta,-ma ile biten nesneli; toplama/gruplandırma UYGULAMA
+102,BELIRSIZ,,yuksek,öğrenebilme: ölçülemez fiil
+103,DUZGUN,YARATMA,orta,tasarlamak en yüksek fiil; -mak biçimi
+104,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+105,BELIRSIZ,,yuksek,bilgi kazanır: ölçülemez
+106,DUZGUN,HATIRLAMA,orta,söyleyebilme: HATIRLAMA tablosunda; -me biçimi
+107,DUZGUN,UYGULAMA,yuksek,Fiil: yapılandırır
+108,DUZGUN,HATIRLAMA,orta,ezberden sunabilir; İngilizce kopya yok sayıldı
+109,BELIRSIZ,,yuksek,bilir: ölçülemez fiil
+110,DUZGUN,UYGULAMA,orta,hazırlayabilmek: -mek kuralı; kalıp dosya hazırlama
+111,DUZGUN,ANALIZ,orta,araştırır ölçülebilir; öğrenir yok sayıldı
+112,DUZGUN,UYGULAMA,orta,internet kullanabilme: kullanır UYGULAMA
+113,DUZGUN,UYGULAMA,orta,Fiil: uygular
+114,DUZGUN,UYGULAMA,orta,uygulamak; -mak biçimi
+115,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+116,DUZGUN,ANALIZ,dusuk,emin değilim: aydınlatma ANALIZ ya da ANLAMA
+117,DUZGUN,UYGULAMA,dusuk,emin değilim: kullanma becerisi genel; BELIRSIZ olabilir
+118,BELIRSIZ,,yuksek,öğrenir: ölçülemez fiil
+119,DUZGUN,BILISSEL_DEGIL,orta,beden dili kullanımı bedensel
+120,DUZGUN,YARATMA,orta,geliştirebilir: yeni ürün; nesne genel
+121,DUZGUN,DEGERLENDIRME,yuksek,karşılaştırır ve değerlendirir: en yüksek DEGERLENDIRME
+122,DUZGUN,BILISSEL_DEGIL,yuksek,Rehberde örnek: el kullanımı bedensel
+123,DUZGUN,ANLAMA,orta,tespit eder: bilinen koşulları saptama
+124,DUZGUN,UYGULAMA,dusuk,cümle oluşturabilir; konu listesi gürültülü; CIKTI_DEGIL adayı
+125,DUZGUN,UYGULAMA,yuksek,bilir yok sayıldı; uygulayabilir
+126,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+127,BELIRSIZ,,yuksek,bilir: ölçülemez fiil
+128,DUZGUN,DEGERLENDIRME,orta,beceri edinir; değerlendirme/kullanma ölçülebilir; en yüksek
+129,DUZGUN,DEGERLENDIRME,yuksek,açıklar ve değerlendirebilir: en yüksek
+130,DUZGUN,UYGULAMA,orta,bilgiyle doğru seçim yapar; ölçütle uygulama
+131,BELIRSIZ,,yuksek,takip eder: Karar 3
+132,BELIRSIZ,,yuksek,bilgi ve beceriye sahip olacak: ölçülemez
+133,BELIRSIZ,,yuksek,bilgiye sahip olur: ölçülemez
+134,DUZGUN,UYGULAMA,orta,yapar: eylem var; nesne genel
+135,DUZGUN,ANALIZ,orta,sorgulayabilme: ANALIZ tablosunda; -me biçimi
+136,DUZGUN,YARATMA,orta,yöntem ve süreç belirleme: rehber 136
+137,BELIRSIZ,,yuksek,anlamış olmak: ölçülemez
+138,BELIRSIZ,,yuksek,bilgi ve deneyim kazanılması: ölçülemez
+139,DUZGUN,ANLAMA,orta,yorumlamayı: rehber 139; öğrenme yok sayıldı
+140,DUZGUN,UYGULAMA,orta,bilgiyi kullanır: kavramsal nesne
+141,DUZGUN,DEGERLENDIRME,yuksek,Fiil: değerlendirebilir
+142,DUZGUN,UYGULAMA,yuksek,Fiil: çizer
+143,BELIRSIZ,,yuksek,bilir: ölçülemez fiil
+144,DUZGUN,UYGULAMA,orta,ayarları yönetebilir: çalıştırma
+145,DUZGUN,YARATMA,yuksek,Fiil: sentezler
+146,DUZGUN,UYGULAMA,orta,uyarlayabilmek: UYGULAMA tablosunda; -mek biçimi
+147,DUZGUN,UYGULAMA,orta,elde eder: bilinen yöntemle türetme
+148,DUZGUN,UYGULAMA,orta,kullanarak imaj alır: rehber 148
+149,BELIRSIZ,,yuksek,bilir: ölçülemez fiil
+150,DUZGUN,DEGERLENDIRME,yuksek,Fiil: değerlendirir
+151,DUZGUN,UYGULAMA,yuksek,gösterir ve çizer
+152,DUZGUN,ANALIZ,yuksek,karşılaştırır: Karar 2
+153,DUZGUN,UYGULAMA,orta,koda çevirebilme: rehber 153; -me biçimi
+154,BELIRSIZ,,yuksek,bilmek ve kavramak: ölçülemez
+155,BELIRSIZ,,yuksek,bilgiler edinirler: rehber 155
+156,DUZGUN,ANALIZ,yuksek,bilir yok sayıldı; karşılaştırır ANALIZ
+157,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+158,DUZGUN,HATIRLAMA,yuksek,tanımlayabileceklerdir: kalıp atıldı
+159,DUZGUN,HATIRLAMA,yuksek,tanımlayabilecektir: HATIRLAMA tablosunda
+160,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+161,DUZGUN,YARATMA,orta,mekanik tasarım yapabilir; tasarım YARATMA
+162,DUZGUN,UYGULAMA,orta,çizebilir ve sunabilir; bilinen programla çizim
+163,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilir
+164,DUZGUN,BILISSEL_DEGIL,orta,müzikal icra: rehber 164
+165,DUZGUN,UYGULAMA,orta,seçme ve uygulama becerisi; -me biçimi
+166,DUZGUN,BILISSEL_DEGIL,dusuk,emin değilim: işaret dili bedensel; UYGULAMA adayı
+167,BELIRSIZ,,yuksek,öğrenecektir: ölçülemez fiil
+168,BELIRSIZ,,yuksek,öğrenir: ölçülemez fiil
+169,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+170,DUZGUN,YARATMA,orta,web sayfası tasarlar; araçlarla kalıp işi olabilir
+171,DUZGUN,UYGULAMA,yuksek,hesap yapabilme ve diyagram kullanabilme
+172,CIKTI_DEGIL,,yuksek,hocanın işi: bilgilendirme
+173,DUZGUN,ANLAMA,orta,belirler: bilinen zararları saptama
+174,DUZGUN,UYGULAMA,yuksek,bilinen yöntemle çözüm yapar
+175,DUZGUN,HATIRLAMA,yuksek,tanımlayabilecektir
+176,DUZGUN,UYGULAMA,orta,Fiil: uygular
+177,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+178,DUZGUN,ANALIZ,yuksek,karşılaştırır: Karar 2
+179,DUZGUN,ANALIZ,yuksek,analiz yapar ve sunar
+180,DUZGUN,ANALIZ,orta,test ve deneme yapabilme: test eder ANALIZ
+181,DUZGUN,UYGULAMA,orta,terimlerle cümle kurar; kalıp üretim
+182,DUZGUN,YARATMA,yuksek,tasarlar ve uygular: en yüksek
+183,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+184,DUZGUN,YARATMA,orta,uygular ve çözüm geliştirir: en yüksek
+185,DUZGUN,UYGULAMA,orta,kazanımlarını kullanır: kavramsal nesne
+186,DUZGUN,UYGULAMA,orta,ithalat yapabilir: ürün üreten eylem
+187,BELIRSIZ,,yuksek,bilir: ölçülemez fiil
+188,BELIRSIZ,,yuksek,anlar: ölçülemez fiil
+189,BELIRSIZ,,yuksek,bilgi sahibi olur: ölçülemez
+190,DUZGUN,UYGULAMA,dusuk,emin değilim: yapmayı bilir; BELIRSIZ adayı
+191,BELIRSIZ,,yuksek,öğrenir: ölçülemez fiil
+192,DUZGUN,UYGULAMA,orta,bilgileri kullanabilir: kavramsal nesne
+193,DUZGUN,UYGULAMA,orta,Kodlamak: Karar 1
+194,BELIRSIZ,,yuksek,anlayabilecektir: ölçülemez fiil
+195,BELIRSIZ,,yuksek,takip edebilir: Karar 3
+196,DUZGUN,ANALIZ,yuksek,Fiil: analiz edebilir
+197,DUZGUN,ANALIZ,yuksek,inceler ve açıklar: en yüksek ANALIZ
+198,DUZGUN,UYGULAMA,orta,kullanmak; terimler kavramsal nesne
+199,BELIRSIZ,,yuksek,öğrenir: ölçülemez fiil
+200,DUZGUN,ANLAMA,yuksek,Fiil: sınıflandırır

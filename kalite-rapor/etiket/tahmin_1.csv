@@ -1,0 +1,101 @@
+no,kalite,bloom,guven,gerekce
+1,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilir
+2,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+3,DUZGUN,ANLAMA,yuksek,Fiil: yorumlayabilir; verilen çıktıyı açma
+4,DUZGUN,BILISSEL_DEGIL,orta,Elle şekillendirip kalıp yapma; psikomotor
+5,DUZGUN,UYGULAMA,yuksek,Fiil: kullanabilir; bilinen programlar
+6,DUZGUN,YARATMA,orta,Fiil: tasarım geliştirebilmek; -mek eylemli
+7,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+8,CIKTI_DEGIL,,orta,Öğrenilmesi ile biten isim öbekleri; konu listesi
+9,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+10,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+11,DUZGUN,ANALIZ,orta,Fiil: belirleyebilir; güvenirlik saptama
+12,BELIRSIZ,,orta,Takip edebilir; karar 3
+13,DUZGUN,ANALIZ,yuksek,Fiil: analiz edebilir
+14,BELIRSIZ,,yuksek,Edilgen öğrenilir; ölçülemez
+15,BELIRSIZ,,orta,Öğrenme; ölçülemez fiil
+16,DUZGUN,ANALIZ,yuksek,Kurar ve analiz eder; en yüksek ANALIZ
+17,DUZGUN,YARATMA,orta,Fiil: oluşturabilecektir; kendi proje ürünü
+18,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilir
+19,BELIRSIZ,,yuksek,Fiil: öğrenir
+20,DUZGUN,UYGULAMA,orta,Kullanabilmek; -mek eylemli; yazım hatası
+21,BELIRSIZ,,yuksek,Gerekli becerileri kazanır; genel beceri
+22,DUZGUN,HATIRLAMA,orta,Fiil: tanımlayabilir; ANLAMA da olabilir
+23,BELIRSIZ,,yuksek,Hakimiyet sağlayabilme; ölçülemez
+24,DUZGUN,ANLAMA,orta,Fiil: tartışabilir; DEGERLENDIRME olabilir
+25,DUZGUN,UYGULAMA,yuksek,Sıralar ve uygular; en yüksek UYGULAMA
+26,DUZGUN,ANLAMA,orta,Bilgi verir; soru sorar; ifade etme
+27,DUZGUN,ANLAMA,orta,Fiil: ifade eder
+28,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlar
+29,BELIRSIZ,,orta,Takip eder; karar 3
+30,DUZGUN,HATIRLAMA,yuksek,Fiil: tanıyabilme
+31,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+32,BELIRSIZ,,yuksek,Öğrenmek ve bilir; ölçülemez
+33,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+34,BELIRSIZ,,yuksek,Alışkanlık kazanır; ölçülemez
+35,BELIRSIZ,,yuksek,Algılama gücü gelişir; ölçülemez
+36,DUZGUN,HATIRLAMA,yuksek,Fiil: tanımlayabilecekler
+37,DUZGUN,UYGULAMA,yuksek,Fiil: kullanır; yazım hatası
+38,DUZGUN,ANLAMA,orta,İşaretleme yapıp not alma; ölçülebilir
+39,DUZGUN,UYGULAMA,yuksek,Fiil: uygular
+40,DUZGUN,DEGERLENDIRME,orta,Değerlendirme yeteneği geliştirir; ölçülebilir fiil
+41,DUZGUN,UYGULAMA,orta,Fiil: oluşturur; hazır form; YARATMA olabilir
+42,BELIRSIZ,,dusuk,Nesnesiz yapabilir; emin değilim; CIKTI_DEGIL olabilir
+43,BELIRSIZ,,yuksek,Fiil: bilir
+44,DUZGUN,ANALIZ,yuksek,Fiil: analiz eder
+45,DUZGUN,UYGULAMA,orta,Rapor hazırlayabilir; kalıp ürün
+46,DUZGUN,UYGULAMA,yuksek,Hesaplama ve çözme yeteneği
+47,BELIRSIZ,,yuksek,Bilgi sahibi olmak
+48,DUZGUN,ANLAMA,orta,Fiil: ilişkilendirebilir
+49,DUZGUN,HATIRLAMA,yuksek,Fiil: tanır
+50,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+51,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+52,DUZGUN,UYGULAMA,yuksek,Fiil: hesaplamaları yapar
+53,CIKTI_DEGIL,,yuksek,Yükümlülükler; isim öbeği
+54,DUZGUN,UYGULAMA,orta,Oluşturma; -me eylemli nesneli
+55,BELIRSIZ,,yuksek,Fiil: kavrar
+56,BELIRSIZ,,yuksek,Fiil: kavrar
+57,BELIRSIZ,,yuksek,Düşünebilir; ölçülemez
+58,DUZGUN,UYGULAMA,yuksek,Fiil: uygular
+59,DUZGUN,ANLAMA,orta,İlişkilendirerek açıklar
+60,DUZGUN,UYGULAMA,yuksek,Fiil: çözer; yöntem kullanma
+61,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+62,DUZGUN,HATIRLAMA,yuksek,Fiil: listeler
+63,DUZGUN,BILISSEL_DEGIL,yuksek,Çalar; psikomotor
+64,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+65,DUZGUN,ANLAMA,yuksek,Öğrenir yok sayıldı; örneklendirir
+66,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+67,BELIRSIZ,,yuksek,Fiil: bilir
+68,DUZGUN,ANALIZ,orta,Çözümlemeyi öğrenmiş olacak; çözümleme ölçülebilir
+69,DUZGUN,UYGULAMA,yuksek,Kavrar yok sayıldı; uygular
+70,DUZGUN,ANLAMA,orta,Tasvir eder; belirler
+71,DUZGUN,ANLAMA,yuksek,Fiil: açıklayabilecek
+72,BELIRSIZ,,yuksek,Fiil: kavrayabilmeli
+73,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+74,DUZGUN,ANLAMA,orta,Belirleyebilir; bilinen özellikler
+75,BELIRSIZ,,yuksek,Fiil: öğrenir
+76,BELIRSIZ,,yuksek,Fiil: kavrar
+77,BELIRSIZ,,yuksek,Fiil: öğrenir
+78,DUZGUN,UYGULAMA,yuksek,Anlar yok sayıldı; uygular
+79,BELIRSIZ,,orta,Takip edebileceklerdir; karar 3
+80,DUZGUN,ANLAMA,orta,Rapor eder; aktarma; UYGULAMA olabilir
+81,DUZGUN,UYGULAMA,yuksek,Fiil: çizebilir
+82,DUZGUN,YARATMA,orta,Planlaması yapabilir; kendi iş fikri
+83,CIKTI_DEGIL,,yuksek,Olanak verecektir; hocanın işi
+84,BELIRSIZ,,yuksek,Fiil: anlar
+85,CIKTI_DEGIL,,yuksek,Nesnesiz isim öbeği
+86,DUZGUN,UYGULAMA,yuksek,Fiil: hesaplar
+87,DUZGUN,ANLAMA,orta,Açıklayabilecek ve tartışabilecek; tartışır konuyu anlatma
+88,BELIRSIZ,,yuksek,Fiil: bilir
+89,DUZGUN,BILISSEL_DEGIL,orta,Hazırlayıp pişirebilir; psikomotor
+90,BELIRSIZ,,yuksek,Fiil: öğrenir
+91,DUZGUN,HATIRLAMA,yuksek,Tanır; kavrar yok sayıldı
+92,BELIRSIZ,,dusuk,Yol gösterir; ölçülebilirlik belirsiz; CIKTI_DEGIL olabilir
+93,BELIRSIZ,,yuksek,Becerileri geliştirmek; genel
+94,CIKTI_DEGIL,,dusuk,Bozuk İngilizce yarım ifade; BELIRSIZ olabilir
+95,CIKTI_DEGIL,,yuksek,Konu başlığı; eylem yok
+96,BELIRSIZ,,yuksek,Fiil: kavrayabilme
+97,DUZGUN,ANLAMA,yuksek,Fiil: açıklar; yazım hatası
+98,DUZGUN,YARATMA,orta,Algoritma geliştirebilme; -me eylemli
+99,DUZGUN,ANLAMA,yuksek,Fiil: açıklar
+100,DUZGUN,YARATMA,orta,Analiz ve tasarım yapar; en yüksek YARATMA

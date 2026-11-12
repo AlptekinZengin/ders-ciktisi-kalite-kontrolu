@@ -1,0 +1,96 @@
+{
+ "toplam_satir": 70396,
+ "bos_atilan": 1210,
+ "ingilizce": 214,
+ "siniflanan_satir": 68972,
+ "benzersiz_cumle": 32379,
+ "cikti_satir": 69186,
+ "kalite_dagilimi_satir": {
+  "BELIRSIZ": {
+   "sayi": 20816,
+   "yuzde": 30.09
+  },
+  "CIKTI_DEGIL": {
+   "sayi": 2080,
+   "yuzde": 3.01
+  },
+  "DUZGUN": {
+   "sayi": 46076,
+   "yuzde": 66.6
+  },
+  "INGILIZCE": {
+   "sayi": 214,
+   "yuzde": 0.31
+  }
+ },
+ "bloom_dagilimi_DUZGUN_icinde": {
+  "ANALIZ": {
+   "sayi": 5552,
+   "yuzde": 12.05
+  },
+  "ANLAMA": {
+   "sayi": 13094,
+   "yuzde": 28.42
+  },
+  "BILISSEL_DEGIL": {
+   "sayi": 857,
+   "yuzde": 1.86
+  },
+  "DEGERLENDIRME": {
+   "sayi": 2817,
+   "yuzde": 6.11
+  },
+  "HATIRLAMA": {
+   "sayi": 6220,
+   "yuzde": 13.5
+  },
+  "UYGULAMA": {
+   "sayi": 14324,
+   "yuzde": 31.09
+  },
+  "YARATMA": {
+   "sayi": 3212,
+   "yuzde": 6.97
+  }
+ },
+ "model_kural_ayni_oran": 0.8804,
+ "model_kural_ayni_satir": 60720,
+ "capraz_tablo_satir_kural_sutun_model": {
+  "BELIRSIZ": {
+   "BELIRSIZ": 16044,
+   "CIKTI_DEGIL": 161,
+   "DUZGUN": 2326
+  },
+  "CIKTI_DEGIL": {
+   "BELIRSIZ": 46,
+   "CIKTI_DEGIL": 995,
+   "DUZGUN": 69
+  },
+  "DUZGUN": {
+   "BELIRSIZ": 4726,
+   "CIKTI_DEGIL": 924,
+   "DUZGUN": 43681
+  }
+ },
+ "kalite_guven_alti_0_6_satir": 480,
+ "bloom_guven_alti_0_5_satir": 734,
+ "elle_etiketli_satir": 2261,
+ "elle_kalite_model_esit_oran": 0.9951,
+ "elle_bloom_karsilastirilan_satir": 1046,
+ "elle_bloom_model_esit_oran": 1.0,
+ "sure_sn": {
+  "egitim_toplam": 69.7,
+  "egitim_kalite": 28.3,
+  "egitim_bloom": 38.5,
+  "tahmin": 53.9
+ },
+ "egitim": {
+  "kalite_n": 795,
+  "kalite_epoch": 5,
+  "bloom_n": 405,
+  "bloom_epoch": 13,
+  "tohum": 42,
+  "model_klasoru": "C:\\Users\\Alptekin Zengin\\.venvs\\yz-final-model",
+  "tahmin_metni": "benzersiz norm grubunun ilk ham cümlesi"
+ }
+}

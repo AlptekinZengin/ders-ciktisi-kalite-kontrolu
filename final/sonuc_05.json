@@ -1,0 +1,496 @@
+{
+ "not": "BERTurk ve TF-IDF Bloom sonuclari, kalite etiketi dogru verilmis 63 cumlede olculmustu; bu yuzden onlarla en adil kiyas (b) 'ikisi de duzgun dediginde'dir, (a) 'uctan uca' daha zorlu bir olcudur.",
+ "bicim_kontrolu": {
+  "GPT-6.1 Sol": {
+   "tamam": true,
+   "sorunlar": [],
+   "satir": 100
+  },
+  "Claude Haiku": {
+   "tamam": true,
+   "sorunlar": [],
+   "satir": 100
+  }
+ },
+ "modeller": {
+  "GPT-6.1 Sol": {
+   "kalite": {
+    "macro_f1": 0.984,
+    "dogruluk": 0.98,
+    "n": 100,
+    "sinif_f1": {
+     "BELIRSIZ": 0.967,
+     "CIKTI_DEGIL": 1.0,
+     "DUZGUN": 0.984
+    },
+    "karisiklik_satir_gercek_sutun_tahmin": [
+     [
+      29,
+      0,
+      1
+     ],
+     [
+      0,
+      7,
+      0
+     ],
+     [
+      1,
+      0,
+      62
+     ]
+    ]
+   },
+   "bloom_uctan_uca_a": {
+    "macro_f1": 0.833,
+    "dogruluk": 0.857,
+    "n": 63,
+    "sinif_f1": {
+     "ANALIZ": 0.889,
+     "ANLAMA": 1.0,
+     "BILISSEL_DEGIL": 0.857,
+     "DEGERLENDIRME": 0.571,
+     "HATIRLAMA": 0.923,
+     "UYGULAMA": 0.882,
+     "YARATMA": 0.706
+    },
+    "karisiklik_satir_gercek_sutun_tahmin": [
+     [
+      12,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+     ],
+     [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      1,
+      0,
+      0,
+      15,
+      3
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+     ]
+    ],
+    "yok_sayisi": 1,
+    "karisiklik_not": "sutunlar 7 Bloom sinifi; YOK tahminleri karisikliga girmez (satir toplami 63'ten kucuk olabilir)"
+   },
+   "bloom_ikisi_de_duzgun_b": {
+    "macro_f1": 0.846,
+    "dogruluk": 0.871,
+    "n": 62,
+    "sinif_f1": {
+     "ANALIZ": 0.889,
+     "ANLAMA": 1.0,
+     "BILISSEL_DEGIL": 0.857,
+     "DEGERLENDIRME": 0.667,
+     "HATIRLAMA": 0.923,
+     "UYGULAMA": 0.882,
+     "YARATMA": 0.706
+    },
+    "karisiklik_satir_gercek_sutun_tahmin": [
+     [
+      12,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+     ],
+     [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      6,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      1,
+      0,
+      0,
+      15,
+      3
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+     ]
+    ],
+    "cumle_sayisi": 62
+   }
+  },
+  "Claude Haiku": {
+   "kalite": {
+    "macro_f1": 0.975,
+    "dogruluk": 0.97,
+    "n": 100,
+    "sinif_f1": {
+     "BELIRSIZ": 0.949,
+     "CIKTI_DEGIL": 1.0,
+     "DUZGUN": 0.976
+    },
+    "karisiklik_satir_gercek_sutun_tahmin": [
+     [
+      28,
+      0,
+      2
+     ],
+     [
+      0,
+      7,
+      0
+     ],
+     [
+      1,
+      0,
+      62
+     ]
+    ]
+   },
+   "bloom_uctan_uca_a": {
+    "macro_f1": 0.948,
+    "dogruluk": 0.952,
+    "n": 63,
+    "sinif_f1": {
+     "ANALIZ": 1.0,
+     "ANLAMA": 1.0,
+     "BILISSEL_DEGIL": 1.0,
+     "DEGERLENDIRME": 0.857,
+     "HATIRLAMA": 0.909,
+     "UYGULAMA": 0.947,
+     "YARATMA": 0.923
+    },
+    "karisiklik_satir_gercek_sutun_tahmin": [
+     [
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      18,
+      1
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+     ]
+    ],
+    "yok_sayisi": 1,
+    "karisiklik_not": "sutunlar 7 Bloom sinifi; YOK tahminleri karisikliga girmez (satir toplami 63'ten kucuk olabilir)"
+   },
+   "bloom_ikisi_de_duzgun_b": {
+    "macro_f1": 0.969,
+    "dogruluk": 0.968,
+    "n": 62,
+    "sinif_f1": {
+     "ANALIZ": 1.0,
+     "ANLAMA": 1.0,
+     "BILISSEL_DEGIL": 1.0,
+     "DEGERLENDIRME": 1.0,
+     "HATIRLAMA": 0.909,
+     "UYGULAMA": 0.947,
+     "YARATMA": 0.923
+    },
+    "karisiklik_satir_gercek_sutun_tahmin": [
+     [
+      15,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      5,
+      1,
+      0
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      18,
+      1
+     ],
+     [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+     ]
+    ],
+    "cumle_sayisi": 62
+   }
+  }
+ },
+ "uyum": {
+  "kalitede_ayni_etiket": 95,
+  "n": 100,
+  "cohen_kappa": 0.901,
+  "ikisi_de_yanildi_n": 0,
+  "ikisi_de_yanildi_liste": []
+ },
+ "kalite_yanlislari": {
+  "GPT-6.1 Sol": [
+   {
+    "no": "358",
+    "cumle": "İşletme personeli ile uyumlu bir takım çalışması yapabilme yeteneği kazanırlar ve iyi iletişim kurabilme alışkanlığını kazanır.",
+    "dogru": "BELIRSIZ",
+    "tahmin": "DUZGUN"
+   },
+   {
+    "no": "548",
+    "cumle": "Bir alanın turistik çekicilik özelliğine sahip olup olamayacağına ilişkin fikir yürütür.",
+    "dogru": "DUZGUN",
+    "tahmin": "BELIRSIZ"
+   }
+  ],
+  "Claude Haiku": [
+   {
+    "no": "719",
+    "cumle": "kültürel sosyalleşme hakkında değerlendirme becerisine sahip olur.",
+    "dogru": "DUZGUN",
+    "tahmin": "BELIRSIZ"
+   },
+   {
+    "no": "735",
+    "cumle": "Kentin mekânsal örüntülerine eleştirel teorik çerçevede bakabilmek.",
+    "dogru": "BELIRSIZ",
+    "tahmin": "DUZGUN"
+   },
+   {
+    "no": "739",
+    "cumle": "Teknik antrenman yaptırmayı bilir",
+    "dogru": "BELIRSIZ",
+    "tahmin": "DUZGUN"
+   }
+  ]
+ },
+ "karsilastirma_tablosu": [
+  {
+   "yontem": "Kural",
+   "kalite_macro_f1": 0.881,
+   "kalite_dogruluk": 0.91,
+   "bloom_macro_f1": null,
+   "bloom_dogruluk": null,
+   "bloom_uctan_uca_macro_f1": null,
+   "bloom_uctan_uca_dogruluk": null
+  },
+  {
+   "yontem": "TF-IDF + SVM (ILK_300 + yeni)",
+   "kalite_macro_f1": 0.81,
+   "kalite_dogruluk": 0.87,
+   "bloom_macro_f1": 0.543,
+   "bloom_dogruluk": 0.683,
+   "bloom_uctan_uca_macro_f1": null,
+   "bloom_uctan_uca_dogruluk": null
+  },
+  {
+   "yontem": "TF-IDF + lojistik (ILK_300 + yeni)",
+   "kalite_macro_f1": 0.8,
+   "kalite_dogruluk": 0.87,
+   "bloom_macro_f1": 0.569,
+   "bloom_dogruluk": 0.698,
+   "bloom_uctan_uca_macro_f1": null,
+   "bloom_uctan_uca_dogruluk": null
+  },
+  {
+   "yontem": "BERTurk (kalite 3 tohum ort.; Bloom uzun egitim 5 tohum ort.)",
+   "kalite_macro_f1": 0.956,
+   "kalite_dogruluk": 0.963,
+   "bloom_macro_f1": 0.622,
+   "bloom_dogruluk": 0.721,
+   "bloom_uctan_uca_macro_f1": null,
+   "bloom_uctan_uca_dogruluk": null
+  },
+  {
+   "yontem": "GPT-6.1 Sol",
+   "kalite_macro_f1": 0.984,
+   "kalite_dogruluk": 0.98,
+   "bloom_macro_f1": 0.846,
+   "bloom_dogruluk": 0.871,
+   "bloom_uctan_uca_macro_f1": 0.833,
+   "bloom_uctan_uca_dogruluk": 0.857
+  },
+  {
+   "yontem": "Claude Haiku",
+   "kalite_macro_f1": 0.975,
+   "kalite_dogruluk": 0.97,
+   "bloom_macro_f1": 0.969,
+   "bloom_dogruluk": 0.968,
+   "bloom_uctan_uca_macro_f1": 0.948,
+   "bloom_uctan_uca_dogruluk": 0.952
+  }
+ ]
+}

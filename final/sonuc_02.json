@@ -1,0 +1,527 @@
+{
+ "test_n": 100,
+ "ilk_300_n": 300,
+ "yeni_egitim_n": 395,
+ "kalite_test": {
+  "test_dagilim": {
+   "BELIRSIZ": 30,
+   "CIKTI_DEGIL": 7,
+   "DUZGUN": 63
+  },
+  "Kural": {
+   "macro_f1": 0.881,
+   "dogruluk": 0.91,
+   "n": 100,
+   "sinif_f1": {
+    "BELIRSIZ": 0.877,
+    "CIKTI_DEGIL": 0.833,
+    "DUZGUN": 0.931
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     25,
+     0,
+     5
+    ],
+    [
+     0,
+     5,
+     2
+    ],
+    [
+     2,
+     0,
+     61
+    ]
+   ]
+  },
+  "TF-IDF + SVM | yalniz_ILK_300": {
+   "macro_f1": 0.542,
+   "dogruluk": 0.81,
+   "n": 100,
+   "sinif_f1": {
+    "BELIRSIZ": 0.755,
+    "CIKTI_DEGIL": 0.0,
+    "DUZGUN": 0.871
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     20,
+     0,
+     10
+    ],
+    [
+     1,
+     0,
+     6
+    ],
+    [
+     2,
+     0,
+     61
+    ]
+   ],
+   "egitim_n": 300
+  },
+  "TF-IDF + lojistik regresyon | yalniz_ILK_300": {
+   "macro_f1": 0.552,
+   "dogruluk": 0.82,
+   "n": 100,
+   "sinif_f1": {
+    "BELIRSIZ": 0.778,
+    "CIKTI_DEGIL": 0.0,
+    "DUZGUN": 0.878
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     21,
+     0,
+     9
+    ],
+    [
+     1,
+     0,
+     6
+    ],
+    [
+     2,
+     0,
+     61
+    ]
+   ],
+   "egitim_n": 300
+  },
+  "TF-IDF + SVM | ILK_300_ve_yeni": {
+   "macro_f1": 0.81,
+   "dogruluk": 0.87,
+   "n": 100,
+   "sinif_f1": {
+    "BELIRSIZ": 0.793,
+    "CIKTI_DEGIL": 0.714,
+    "DUZGUN": 0.922
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     23,
+     2,
+     5
+    ],
+    [
+     1,
+     5,
+     1
+    ],
+    [
+     4,
+     0,
+     59
+    ]
+   ],
+   "egitim_n": 695
+  },
+  "TF-IDF + lojistik regresyon | ILK_300_ve_yeni": {
+   "macro_f1": 0.8,
+   "dogruluk": 0.87,
+   "n": 100,
+   "sinif_f1": {
+    "BELIRSIZ": 0.814,
+    "CIKTI_DEGIL": 0.667,
+    "DUZGUN": 0.921
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     24,
+     2,
+     4
+    ],
+    [
+     1,
+     5,
+     1
+    ],
+    [
+     4,
+     1,
+     58
+    ]
+   ],
+   "egitim_n": 695
+  }
+ },
+ "bloom_test": {
+  "test_n": 63,
+  "siniflar": [
+   "ANALIZ",
+   "ANLAMA",
+   "BILISSEL_DEGIL",
+   "DEGERLENDIRME",
+   "HATIRLAMA",
+   "UYGULAMA",
+   "YARATMA"
+  ],
+  "test_dagilim": {
+   "ANALIZ": 15,
+   "ANLAMA": 10,
+   "BILISSEL_DEGIL": 3,
+   "DEGERLENDIRME": 4,
+   "HATIRLAMA": 6,
+   "UYGULAMA": 19,
+   "YARATMA": 6
+  },
+  "TF-IDF + SVM | yalniz_ILK_300": {
+   "macro_f1": 0.584,
+   "dogruluk": 0.698,
+   "n": 63,
+   "sinif_f1": {
+    "ANALIZ": 0.815,
+    "ANLAMA": 0.952,
+    "BILISSEL_DEGIL": 0.0,
+    "DEGERLENDIRME": 0.667,
+    "HATIRLAMA": 0.4,
+    "UYGULAMA": 0.653,
+    "YARATMA": 0.6
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     11,
+     0,
+     0,
+     0,
+     1,
+     2,
+     1
+    ],
+    [
+     0,
+     10,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     2,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     2,
+     4,
+     0
+    ],
+    [
+     1,
+     1,
+     0,
+     0,
+     1,
+     16,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     3
+    ]
+   ],
+   "egitim_n": 210
+  },
+  "TF-IDF + lojistik regresyon | yalniz_ILK_300": {
+   "macro_f1": 0.53,
+   "dogruluk": 0.683,
+   "n": 63,
+   "sinif_f1": {
+    "ANALIZ": 0.815,
+    "ANLAMA": 0.952,
+    "BILISSEL_DEGIL": 0.0,
+    "DEGERLENDIRME": 0.4,
+    "HATIRLAMA": 0.444,
+    "UYGULAMA": 0.654,
+    "YARATMA": 0.444
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     11,
+     0,
+     0,
+     0,
+     1,
+     2,
+     1
+    ],
+    [
+     0,
+     10,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     1,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     2,
+     4,
+     0
+    ],
+    [
+     1,
+     1,
+     0,
+     0,
+     0,
+     17,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     4,
+     2
+    ]
+   ],
+   "egitim_n": 210
+  },
+  "TF-IDF + SVM | ILK_300_ve_yeni": {
+   "macro_f1": 0.543,
+   "dogruluk": 0.683,
+   "n": 63,
+   "sinif_f1": {
+    "ANALIZ": 0.786,
+    "ANLAMA": 0.952,
+    "BILISSEL_DEGIL": 0.0,
+    "DEGERLENDIRME": 0.667,
+    "HATIRLAMA": 0.444,
+    "UYGULAMA": 0.667,
+    "YARATMA": 0.286
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     11,
+     1,
+     0,
+     0,
+     1,
+     2,
+     0
+    ],
+    [
+     0,
+     10,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     2,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     2,
+     4,
+     0
+    ],
+    [
+     2,
+     0,
+     0,
+     0,
+     0,
+     17,
+     0
+    ],
+    [
+     0,
+     0,
+     1,
+     0,
+     0,
+     4,
+     1
+    ]
+   ],
+   "egitim_n": 342
+  },
+  "TF-IDF + lojistik regresyon | ILK_300_ve_yeni": {
+   "macro_f1": 0.569,
+   "dogruluk": 0.698,
+   "n": 63,
+   "sinif_f1": {
+    "ANALIZ": 0.786,
+    "ANLAMA": 0.909,
+    "BILISSEL_DEGIL": 0.0,
+    "DEGERLENDIRME": 0.667,
+    "HATIRLAMA": 0.444,
+    "UYGULAMA": 0.68,
+    "YARATMA": 0.5
+   },
+   "karisiklik_satir_gercek_sutun_tahmin": [
+    [
+     11,
+     1,
+     0,
+     0,
+     1,
+     2,
+     0
+    ],
+    [
+     0,
+     10,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     3,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     2,
+     0,
+     2,
+     0
+    ],
+    [
+     0,
+     1,
+     0,
+     0,
+     2,
+     3,
+     0
+    ],
+    [
+     2,
+     0,
+     0,
+     0,
+     0,
+     17,
+     0
+    ],
+    [
+     0,
+     0,
+     0,
+     0,
+     0,
+     4,
+     2
+    ]
+   ],
+   "egitim_n": 342
+  }
+ },
+ "kalite_cv": {
+  "n": 795,
+  "sonuc": {
+   "TF-IDF + SVM": {
+    "macro_f1": 0.776,
+    "f1_sapma": 0.037,
+    "dogruluk": 0.798
+   },
+   "TF-IDF + lojistik regresyon": {
+    "macro_f1": 0.773,
+    "f1_sapma": 0.042,
+    "dogruluk": 0.795
+   },
+   "Kural": {
+    "macro_f1": 0.862,
+    "f1_sapma": 0.022,
+    "dogruluk": 0.862
+   }
+  }
+ },
+ "bloom_cv": {
+  "n": 405,
+  "sonuc": {
+   "TF-IDF + SVM": {
+    "macro_f1": 0.637,
+    "f1_sapma": 0.043,
+    "dogruluk": 0.723
+   },
+   "TF-IDF + lojistik regresyon": {
+    "macro_f1": 0.632,
+    "f1_sapma": 0.046,
+    "dogruluk": 0.718
+   }
+  }
+ }
+}
