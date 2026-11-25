@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Ders öğrenme çıktısı cümlelerini ölçülebilirlik açısından kontrol eden ve Karabük Üniversitesi bölümlerini raporlayan yapay zekâ projesi.">
+<title>Ders Çıktısı Kalite Kontrolü</title>
+<link rel="stylesheet" href="/stil.css">
+</head>
+<body>
+<div class="page">
+<header>
+<div><h1>Ders Çıktısı Kalite Kontrolü</h1><p class="subtitle">Karabük Üniversitesi bilgi paketindeki 69.186 ders çıktısı cümlesi üzerinde eğitilmiş model</p></div>
+<nav aria-label="Ekranlar"><a href="#dene" id="dene-tab">Cümleni dene</a><a href="#rapor" id="rapor-tab">Bölüm raporu</a></nav>
+</header>
+<main id="dene-ekran">
+<div class="try-grid">
+<section><h3>Cümleleri yazın ya da yapıştırın</h3><p class="muted input-help">Her satıra bir cümle. Kontrol tarayıcınızda yapılır, cümleler hiçbir yere gönderilmez.</p>
+<textarea class="sentences" id="cumleler" aria-label="Cümleler" placeholder="Örnek: Verilen problemi uygun yapay zekâ yöntemiyle çözer."></textarea>
+<div class="actions"><button type="button" class="primary" id="kontrol">Kontrol et</button><button type="button" class="link" id="temizle">Temizle</button></div>
+<div class="examples"><p class="muted">Örnek cümleler:</p><button type="button" class="example">Verilen problemi uygun yapay zekâ yöntemiyle çözer.</button><button type="button" class="example">Yapay zekâ süreçleri hakkında bilgi sahibi olur.</button><button type="button" class="example">SQL deyimleri</button></div>
+</section>
+<section aria-label="Sonuçlar" aria-live="polite" id="sonuclar"><p class="muted">Sonuçlar burada görünecek.</p></section>
+</div>
+</main>
+<main id="rapor-ekran" hidden>
+<div class="filters"><div class="filter"><label for="faculty">Fakülte</label><select id="faculty"></select></div><div class="filter"><label for="department">Bölüm</label><select id="department"></select></div></div>
+<div id="rapor-icerik"><p class="muted">Yükleniyor…</p></div>
+</main>
+<footer>Bu çevrimiçi sürümde cümleler kural tabanlı kontrol edilir (sınamada 100 cümlede 91 doğru). Bölüm raporundaki sayılar BERTurk modelinin tahminidir (kalite 100 cümlede 96, basamak 100 cümlede 72 doğru). Veri: Karabük Üniversitesi Bilgi Paketi.</footer>
+</div>
+<script src="/kontrol.js"></script>
+<script src="/uygulama.js"></script>
+</body>
+</html>

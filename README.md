@@ -86,6 +86,16 @@ Diğer klasör ve dosyalar:
 - `site/`: yerel web sayfası. `sunucu.py` (Flask sunucusu), `oneri.py` (kural tabanlı vurgu ve not), `sina_api.py` (çalışan sunucuyu deneyen yardımcı betik), `baslat.bat` (Windows başlatıcı), `static/` (sayfa), `gorev/` (sayfa ve sunucu için yazılan görev tanımları).
 - `tasarim/`: web sayfasının tasarım taslağı ve ekran görüntüleri.
 
+### web/ (çevrimiçi sürüm: https://ciktianaliz.com)
+
+Sitenin sunucusuz sürümü; Cloudflare'de yalnız durağan dosya olarak yayınlanır.
+
+- `public/`: sayfa. `kontrol.js` kural tabanlı kalite kontrolünü ve `oneri.py`'deki vurgu/not üretimini JavaScript'e taşır; kontrol ziyaretçinin tarayıcısında yapılır, cümleler sunucuya gönderilmez. `veri.json`, `final/rapor/site_veri.json` dosyasının kopyasıdır (bölüm raporu, BERTurk tahminleri).
+- Çevrimiçi sürümde BERTurk modeli yoktur: cümle kalitesi kural tabanlı bulunur (sınamada 100 cümlede 91 doğru), Bloom basamağı ve güven gösterilmez.
+- `test/`: JavaScript ile Python kuralının aynı sonucu verdiğini sınar. `python test/uret_beklenen.py` ardından `node test/kontrol.test.mjs` (`web/` içinde). Sonuç 1509/1510; tek fark emoji içeren cümlede karakter konumunun UTF-16 ile sayılmasıdır, vurgulanan metin aynıdır.
+- `kaynak/`: testin kullandığı Python kuralı, `oneri.py` ve 1.500 örnek cümle.
+- Yayın: `npx wrangler deploy` (`web/` içinde, `wrangler.jsonc`).
+
 ## Kurulum ve çalıştırma
 
 Python 3.12 ile bir sanal ortam kurun ve bağımlılıkları yükleyin (CUDA'lı torch için `requirements.txt` başındaki nota bakın):
